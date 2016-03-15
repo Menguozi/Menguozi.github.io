@@ -8,8 +8,8 @@ permalink: /projects/
 * content
 {:toc}
 
-# All my projects
-Following are projects started by me. 
+# My Projects
+---
 
 ## RRCS 
 
