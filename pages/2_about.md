@@ -10,7 +10,7 @@ permalink: /about/
 
 ## About Me
 
-Pengfei Zuo received the BE degree in computer science and technology from Huazhong University of Science and Technology (HUST), China, in 2014. 
+received the BE degree in computer science and technology from Huazhong University of Science and Technology (HUST), China, in 2014. 
 
 He is currently a PhD student majoring in computer science and technology in HUST. 
 

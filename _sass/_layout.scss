@@ -21,7 +21,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-
+	
     &,
     &:visited {
         color: $grey-color-dark;
@@ -217,7 +217,7 @@
 
     h2 {
         font-size: 32px;
-
+	
         @include media-query($on-laptop) {
             font-size: 28px;
         }
