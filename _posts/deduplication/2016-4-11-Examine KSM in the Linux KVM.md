@@ -112,25 +112,55 @@ categories: KSM Deduplication KVM
     
     KSM开始合并相同内存页，约12分钟后，内存相对稳定，内存去重结果如下：
     
-        root@zuo:/home/zuo# grep -H '' /sys/kernel/mm/ksm/*
-        /sys/kernel/mm/ksm/full_scans:2
-        /sys/kernel/mm/ksm/merge_across_nodes:1
-        /sys/kernel/mm/ksm/pages_shared:9637
-        /sys/kernel/mm/ksm/pages_sharing:38188
-        /sys/kernel/mm/ksm/pages_to_scan:100
-        /sys/kernel/mm/ksm/pages_unshared:114685
-        /sys/kernel/mm/ksm/pages_volatile:7538
-        /sys/kernel/mm/ksm/run:1
-        /sys/kernel/mm/ksm/sleep_millisecs:200
+        root@zuo:/home/zuo# grep -H '' /sys/kernel/mm/ksm/*   
+        /sys/kernel/mm/ksm/full_scans:3   
+        /sys/kernel/mm/ksm/merge_across_nodes:1   
+        /sys/kernel/mm/ksm/pages_shared:11808   
+        /sys/kernel/mm/ksm/pages_sharing:40450   
+        /sys/kernel/mm/ksm/pages_to_scan:100  
+        /sys/kernel/mm/ksm/pages_unshared:115310   
+        /sys/kernel/mm/ksm/pages_volatile:2526   
+        /sys/kernel/mm/ksm/run:1   
+        /sys/kernel/mm/ksm/sleep_millisecs:200   
 
 
 3. 同时开启两个虚拟机，查看内存去重情况
 
-
+    ![image](https://pfzuo.github.io/images/twoVMs.png)
+    
+    约20分钟后（3次full scan），内存去重结果如下：
+    
+        root@zuo:/home/zuo# grep -H '' /sys/kernel/mm/ksm/*
+        /sys/kernel/mm/ksm/full_scans:6
+        /sys/kernel/mm/ksm/merge_across_nodes:1
+        /sys/kernel/mm/ksm/pages_shared:21481
+        /sys/kernel/mm/ksm/pages_sharing:98382
+        /sys/kernel/mm/ksm/pages_to_scan:100
+        /sys/kernel/mm/ksm/pages_unshared:209164
+        /sys/kernel/mm/ksm/pages_volatile:16901
+        /sys/kernel/mm/ksm/run:1
+        /sys/kernel/mm/ksm/sleep_millisecs:200
+        
+    约35分钟后(4次full scan)，内存相对稳定，内存去重结果如下：
+    
+        root@zuo:/home/zuo# grep -H '' /sys/kernel/mm/ksm/*
+        /sys/kernel/mm/ksm/full_scans:7
+        /sys/kernel/mm/ksm/merge_across_nodes:1
+        /sys/kernel/mm/ksm/pages_shared:82113
+        /sys/kernel/mm/ksm/pages_sharing:162811
+        /sys/kernel/mm/ksm/pages_to_scan:100
+        /sys/kernel/mm/ksm/pages_unshared:95096
+        /sys/kernel/mm/ksm/pages_volatile:5908
+        /sys/kernel/mm/ksm/run:1
+        /sys/kernel/mm/ksm/sleep_millisecs:200
+    
+    
 4. 同时开启三个虚拟机，查看内存去重情况
 
+    ![image](https://pfzuo.github.io/images/threeVMs.png)
 
 
+    KSM进程的CPU占用一直处于0.3%～0.7%间;
 
 
 
