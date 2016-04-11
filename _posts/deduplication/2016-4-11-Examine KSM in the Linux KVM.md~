@@ -155,7 +155,6 @@ categories: KSM Deduplication KVM
         /sys/kernel/mm/ksm/sleep_millisecs:200
     
     
-    
 4. 同时开启三个虚拟机，查看内存去重情况
 
     ![image](https://pfzuo.github.io/images/threeVMs.png)
