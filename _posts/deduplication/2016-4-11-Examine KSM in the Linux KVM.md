@@ -33,10 +33,10 @@ categories: KSM Deduplication KVM
     
     如果显示如下信息，则表示KVM安装成功
     
-      zuo@zuo:~$ lsmod | grep kvm   
-      kvm_intel             143630  0    
-      kvm                   452096  1 kvm_intel   
-      zuo@zuo:~$    
+        zuo@zuo:~$ lsmod | grep kvm   
+        kvm_intel             143630  0    
+        kvm                   452096  1 kvm_intel   
+        zuo@zuo:~$    
     
     方法2：
     
