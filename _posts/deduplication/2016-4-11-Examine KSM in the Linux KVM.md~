@@ -8,11 +8,11 @@ categories: KSM Deduplication KVM
 
 #### 安装KVM
 
-1. 首先查看主机CPU的虚拟化支持
+1. 首先查看主机CPU的虚拟化支持:
         
     `$ egrep -o '(vmx|svm)' /proc/cpuinfo`
 
-    如果显示如下则表示该主机CPU支持虚拟化
+    如果显示如下,则表示该主机CPU支持虚拟化
 
         zuo@zuo:~$ egrep -o '(vmx|svm)' /proc/cpuinfo   
         vmx   
@@ -62,7 +62,7 @@ categories: KSM Deduplication KVM
    这时会弹出virtual machine manager的界面
      
 2. 创建虚拟机前，需要下载一个操作系统的镜像文件（.iso）,用于安装虚拟机的操作系统;   
-   点击virtual machine manager界面上的“create a new virtual machine”按钮，就可以开始创建虚拟机了（如下图所示）。
+   点击virtual machine manager界面上的“create a new virtual machine”按钮，就可以开始创建虚拟机了（如下图所示）:
    
    ![image](https://pfzuo.github.io/images/createVM.png)
 
@@ -102,4 +102,31 @@ categories: KSM Deduplication KVM
     `# echo 1 > /sys/kernel/mm/ksm/run`
     
 
-#### 主机配置
+#### 虚拟机内存去重的性能测试
+
+1. 我首先用KVM创建了3个相同的Linux虚拟机(系统：Ubuntu-12.04 32位, 内存：1GB，硬盘空间：8GB);
+
+2. 只开启一个虚拟机，查看内存去重情况
+
+    ![image](https://pfzuo.github.io/images/oneVM.png)
+    
+    KSM开始合并相同内存页，约10分钟后，内存相对稳定，内存去重结果如下：
+    
+        
+
+3. 同时开启两个虚拟机，查看内存去重情况
+
+
+4. 同时开启三个虚拟机，查看内存去重情况
+
+
+
+
+
+
+
+
+
+
+
+

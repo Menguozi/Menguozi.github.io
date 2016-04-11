@@ -102,4 +102,41 @@ categories: KSM Deduplication KVM
     `# echo 1 > /sys/kernel/mm/ksm/run`
     
 
-#### 主机配置
+#### 虚拟机内存去重的性能测试
+
+1. 我首先用KVM创建了3个相同的Linux虚拟机(系统：Ubuntu-12.04 32位, 内存：1GB，硬盘空间：8GB);
+
+2. 只开启一个虚拟机，查看内存去重情况
+
+    ![image](https://pfzuo.github.io/images/oneVM.png)
+    
+    KSM开始合并相同内存页，约12分钟后，内存相对稳定，内存去重结果如下：
+    
+        root@zuo:/home/zuo# grep -H '' /sys/kernel/mm/ksm/*
+        /sys/kernel/mm/ksm/full_scans:2
+        /sys/kernel/mm/ksm/merge_across_nodes:1
+        /sys/kernel/mm/ksm/pages_shared:9637
+        /sys/kernel/mm/ksm/pages_sharing:38188
+        /sys/kernel/mm/ksm/pages_to_scan:100
+        /sys/kernel/mm/ksm/pages_unshared:114685
+        /sys/kernel/mm/ksm/pages_volatile:7538
+        /sys/kernel/mm/ksm/run:1
+        /sys/kernel/mm/ksm/sleep_millisecs:200
+
+
+3. 同时开启两个虚拟机，查看内存去重情况
+
+
+4. 同时开启三个虚拟机，查看内存去重情况
+
+
+
+
+
+
+
+
+
+
+
+
