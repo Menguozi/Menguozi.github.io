@@ -10,7 +10,7 @@ categories: KSM Deduplication KVM
 
 1. 首先查看主机CPU的虚拟化支持
         
-    `egrep -o '(vmx|svm)' /proc/cpuinfo`
+    `$ egrep -o '(vmx|svm)' /proc/cpuinfo`
 
     如果显示如下则表示该主机CPU支持虚拟化
 
@@ -23,13 +23,13 @@ categories: KSM Deduplication KVM
 
 2. 安装KVM软件包：virt-manager为GUI管理窗口，bridge-utils:用于网络桥接
 
-    `apt-get install qemu-kvm libvirt-bin virt-manager bridge-utils`
+    `$ apt-get install qemu-kvm libvirt-bin virt-manager bridge-utils`
 
 3. 检查KVM是否安装成功
 
     方法1：
     
-    `lsmod | grep kvm`
+    `$ lsmod | grep kvm`
     
     如果显示如下信息，则表示KVM安装成功
     
@@ -40,7 +40,7 @@ categories: KSM Deduplication KVM
     
     方法2：
     
-    `virsh -c qemu:///system list`
+    `$ virsh -c qemu:///system list`
     
     如果显示如下信息，则表示KVM安装成功
     
@@ -57,7 +57,7 @@ categories: KSM Deduplication KVM
 
 1. 终端中输入如下指令，打开virtual machine manager
 
-    `sudo virt-manager`
+    `$ sudo virt-manager`
 
    这时会弹出virtual machine manager的界面
      
@@ -71,7 +71,7 @@ categories: KSM Deduplication KVM
 
 1. KSM需要在root权限下运行，所以首先获取root权限：
 
-    `su root`
+    `# su root`
     
         zuo@zuo:~$ su root   
         Password:   
@@ -79,7 +79,7 @@ categories: KSM Deduplication KVM
 
 2. KSM进程由'/sys/kernel/mm/ksm/'路径中的文件控制，我们可以查看KSM的运行状态：
     
-    `grep -H '' /sys/kernel/mm/ksm/*`
+    `# grep -H '' /sys/kernel/mm/ksm/*`
     
     结果如下：
     
@@ -95,13 +95,11 @@ categories: KSM Deduplication KVM
         /sys/kernel/mm/ksm/sleep_millisecs:200
         root@zuo:/home/zuo# 
      
-     其中每个参数的含义可参照 [https://www.kernel.org/doc/Documentation/vm/ksm.txt] (https://www.kernel.org/doc/Documentation/vm/ksm.txt)
+     其中每个参数的含义可参照 [https://www.kernel.org/doc/Documentation/vm/ksm.txt](https://www.kernel.org/doc/Documentation/vm/ksm.txt)
 
 3. 开启KSM进程：
     
-    `echo 1 > /sys/kernel/mm/ksm/run`
+    `# echo 1 > /sys/kernel/mm/ksm/run`
     
-
-
 
 #### 主机配置
