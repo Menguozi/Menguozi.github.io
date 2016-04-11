@@ -14,11 +14,16 @@ categories: KSM Deduplication KVM
 如果显示如下则表示该主机CPU支持虚拟化
 
 >zuo@zuo:~$ egrep -o '(vmx|svm)' /proc/cpuinfo
+
 >vmx
+
 >vmx
+
 >vmx
+
 >vmx
->zuo@zuo:~$` 
+
+>zuo@zuo:~$
 
 
 #### 运行KSM
