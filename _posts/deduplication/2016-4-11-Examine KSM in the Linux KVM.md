@@ -7,7 +7,7 @@ categories: KSM Deduplication KVM
 ---
 
 #### 安装KVM
-1 首先查看主机CPU的虚拟化支持
+1. 首先查看主机CPU的虚拟化支持
         
 `$ egrep -o '(vmx|svm)' /proc/cpuinfo`
 
@@ -20,7 +20,7 @@ vmx
 vmx   
 zuo@zuo:~$   
 
-2 安装KVM软件包：virt-manager为GUI管理窗口，bridge-utils:用于网络桥接
+2. 安装KVM软件包：virt-manager为GUI管理窗口，bridge-utils:用于网络桥接
 
 `$ apt-get install qemu-kvm libvirt-bin virt-manager bridge-utils`
 
@@ -42,10 +42,9 @@ zuo@zuo:~$
     
     如果显示如下信息，则表示KVM安装成功
     
-    > zuo@zuo:~$ virsh -c qemu:///system list   
+        zuo@zuo:~$ virsh -c qemu:///system list   
         Id    Name                           State   
         ----------------------------------------------------   
-            
         zuo@zuo:~$    
 
     
