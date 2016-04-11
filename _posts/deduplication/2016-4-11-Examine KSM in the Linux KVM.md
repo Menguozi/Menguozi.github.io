@@ -13,12 +13,12 @@ categories: KSM Deduplication KVM
 
 如果显示如下则表示该主机CPU支持虚拟化
 
-> zuo@zuo:~$ egrep -o '(vmx|svm)' /proc/cpuinfo   
-vmx   
-vmx   
-vmx   
-vmx   
-zuo@zuo:~$   
+        zuo@zuo:~$ egrep -o '(vmx|svm)' /proc/cpuinfo   
+        vmx   
+        vmx   
+        vmx   
+        vmx   
+        zuo@zuo:~$   
 
 2. 安装KVM软件包：virt-manager为GUI管理窗口，bridge-utils:用于网络桥接
 
@@ -31,7 +31,7 @@ zuo@zuo:~$
     
     如果显示如下信息，则表示KVM安装成功
     
-    > zuo@zuo:~$ lsmod | grep kvm   
+      zuo@zuo:~$ lsmod | grep kvm   
       kvm_intel             143630  0    
       kvm                   452096  1 kvm_intel   
       zuo@zuo:~$    

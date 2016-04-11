@@ -42,10 +42,9 @@ zuo@zuo:~$
     
     如果显示如下信息，则表示KVM安装成功
     
-    > zuo@zuo:~$ virsh -c qemu:///system list   
+        zuo@zuo:~$ virsh -c qemu:///system list   
         Id    Name                           State   
         ----------------------------------------------------   
-            
         zuo@zuo:~$    
 
     
