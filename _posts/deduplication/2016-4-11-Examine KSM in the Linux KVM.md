@@ -7,6 +7,8 @@ categories: KSM Deduplication KVM
 ---
 
 ### 安装KVM
+---
+
 
 1. 首先查看主机CPU的虚拟化支持:
         
@@ -54,6 +56,7 @@ categories: KSM Deduplication KVM
         Intel(R) Virtualization Technology (Enabled)
  
 ### 运行KVM
+---
 
 1. 终端中输入如下指令，打开virtual machine manager
 
@@ -68,6 +71,7 @@ categories: KSM Deduplication KVM
 
 
 ### 运行KSM
+---
 
 1. KSM需要在root权限下运行，所以首先获取root权限：
 
@@ -103,6 +107,7 @@ categories: KSM Deduplication KVM
     
 
 ### 虚拟机内存去重的性能测试
+---
 
 1. 我首先用KVM创建了3个相同的Linux虚拟机(系统：Ubuntu-12.04 32位, 内存：1GB，硬盘空间：8GB);
 
