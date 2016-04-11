@@ -49,7 +49,28 @@ categories: KSM Deduplication KVM
         ----------------------------------------------------   
         zuo@zuo:~$    
 
-    
+4. 比较容易被忽视的一点是：开机前，进入BIOS中，开启CPU虚拟化支持
+
+        Intel(R) Virtualization Technology (Enabled)
+ 
+#### 运行KVM
+
+1. 终端中输入如下指令，打开virtual machine manager
+
+    `sudo virt-manager`
+
+   这时会弹出virtual machine manager的界面
+     
+2. 创建虚拟机前，需要下载一个操作系统的镜像文件（.iso）,用于安装虚拟机的操作系统;   
+   点击virtual machine manager界面上的“create a new virtual machine”按钮，就可以开始创建虚拟机了（如下图所示）。
+   
+   ![image](https://pfzuo.github.io/images/createVM.png)
+
+
+
+
+
+
 
 #### 运行KSM
 
