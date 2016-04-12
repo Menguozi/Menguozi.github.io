@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Examine KSM in the Linux KVM
+Title: Examine KSM in the Linux  kernel-based virtual machine (KVM)
 comments: true
 categories: KSM Deduplication KVM
 
@@ -316,6 +316,7 @@ categories: KSM Deduplication KVM
 
 
 ### 虚拟机内存去重结果分析
+---
 
 1. 内存去重率
 
