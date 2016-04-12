@@ -261,9 +261,23 @@ categories: KSM Deduplication KVM
         /sys/kernel/mm/ksm/run:1
         /sys/kernel/mm/ksm/sleep_millisecs:200
         
+    第三次full scan完成后（约20分钟），内存稳定，内存去重结果：
     
-    
+        root@zuo:/home/zuo# grep -H '' /sys/kernel/mm/ksm/*
+        /sys/kernel/mm/ksm/full_scans:13
+        /sys/kernel/mm/ksm/merge_across_nodes:1
+        /sys/kernel/mm/ksm/pages_shared:100562
+        /sys/kernel/mm/ksm/pages_sharing:293995
+        /sys/kernel/mm/ksm/pages_to_scan:100
+        /sys/kernel/mm/ksm/pages_unshared:189267
+        /sys/kernel/mm/ksm/pages_volatile:5366
+        /sys/kernel/mm/ksm/run:1
+        /sys/kernel/mm/ksm/sleep_millisecs:200
+
     KSM进程的CPU占用一直处于0.3%～0.7%间;
+
+### 虚拟机内存去重的结果分析
+
 
 
 
