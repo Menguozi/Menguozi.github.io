@@ -278,6 +278,15 @@ categories: KSM Deduplication KVM
 
 ### 虚拟机内存去重的结果分析
 
+1. 内存去重率
+
+2. CPU占用
+
+3. 一些发现
+
+
+
+
 
 
 

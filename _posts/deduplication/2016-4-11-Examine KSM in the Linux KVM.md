@@ -278,6 +278,18 @@ categories: KSM Deduplication KVM
 
 ### 虚拟机内存去重的结果分析
 
+1. 内存去重率
+
+    一个虚拟机的情况：
+    | pages_shared | pages_sharing | pages_unshared | pages_volatile |
+    | -------------|:-------------:| --------------:| --------------:|
+    | 10446        | 41652         | 112580         | 5436           |
+    
+2. CPU占用
+
+3. 一些发现
+
+
 
 
 
