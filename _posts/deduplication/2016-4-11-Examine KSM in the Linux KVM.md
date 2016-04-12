@@ -358,6 +358,10 @@ categories: KSM Deduplication KVM
     
 3. 一些发现
 
+    * 前几次full scan中，每次full scan后pages_sharing数会大幅度增加，一个主要原因是内存趋于稳定，pages_volatile的页慢慢变少;    
+    * 新开启的虚拟机产生的内存页，在下一轮full scan时，才被KSMD处理;   
+    * 测试过程中，同一轮full scan内可以观测到，某段时间pages_sharing数一直在增加，某段时间pages_sharing数一直趋于稳定，可见重复内存页具有一定的局部性;   
+    
 
 
 
