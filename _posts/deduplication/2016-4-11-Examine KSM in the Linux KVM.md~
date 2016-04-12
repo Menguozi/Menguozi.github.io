@@ -281,10 +281,19 @@ categories: KSM Deduplication KVM
 1. 内存去重率
 
     一个虚拟机的情况：
+    
     | pages_shared | pages_sharing | pages_unshared | pages_volatile |
     | -------------|:-------------:| --------------:| --------------:|
     | 10446        | 41652         | 112580         | 5436           |
     
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+ 
 2. CPU占用
 
 3. 一些发现
