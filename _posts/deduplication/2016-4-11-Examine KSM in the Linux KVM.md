@@ -290,10 +290,30 @@ categories: KSM Deduplication KVM
 
 6. 关闭第二个虚拟机后：
 
+        root@zuo:/home/zuo# grep -H '' /sys/kernel/mm/ksm/*
+        /sys/kernel/mm/ksm/full_scans:16
+        /sys/kernel/mm/ksm/merge_across_nodes:1
+        /sys/kernel/mm/ksm/pages_shared:77934
+        /sys/kernel/mm/ksm/pages_sharing:43155
+        /sys/kernel/mm/ksm/pages_to_scan:100
+        /sys/kernel/mm/ksm/pages_unshared:48300
+        /sys/kernel/mm/ksm/pages_volatile:1237
+        /sys/kernel/mm/ksm/run:1
+        /sys/kernel/mm/ksm/sleep_millisecs:200
+
 7. 关闭第一个虚拟机后：
 
+        root@zuo:/home/zuo# grep -H '' /sys/kernel/mm/ksm/*
+        /sys/kernel/mm/ksm/full_scans:17
+        /sys/kernel/mm/ksm/merge_across_nodes:1
+        /sys/kernel/mm/ksm/pages_shared:0
+        /sys/kernel/mm/ksm/pages_sharing:0
+        /sys/kernel/mm/ksm/pages_to_scan:100
+        /sys/kernel/mm/ksm/pages_unshared:0
+        /sys/kernel/mm/ksm/pages_volatile:0
+        /sys/kernel/mm/ksm/run:1
+        /sys/kernel/mm/ksm/sleep_millisecs:200
 
-    KSM进程的CPU占用一直处于0.3%～0.7%间;
 
 ### 虚拟机内存去重的结果分析
 
@@ -328,6 +348,8 @@ categories: KSM Deduplication KVM
  
 2. CPU占用
 
+   测试过程中，观测到KSM进程的CPU占用一直处于0.3%～0.7%间;
+    
 3. 一些发现
 
 
