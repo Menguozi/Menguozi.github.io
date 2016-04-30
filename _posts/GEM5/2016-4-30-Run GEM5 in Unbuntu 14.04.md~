@@ -121,7 +121,6 @@ zlib一般系统自带，使用 `whereis zlib` 查看安装位置，如果系统
         Exiting @ tick 2924500 because target called exit()
         root@zuo:/home/zuo/GEM5/gem5-stable# 
 
-可见输出来有Hello world!表示运行成功。
 
         
 
