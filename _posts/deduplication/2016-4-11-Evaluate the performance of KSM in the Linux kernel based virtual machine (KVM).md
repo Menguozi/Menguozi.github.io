@@ -10,6 +10,8 @@ categories: KSM Deduplication KVM
 ---
 
 
+
+
 1. 首先查看主机CPU的虚拟化支持:
         
     `$ egrep -o '(vmx|svm)' /proc/cpuinfo`
