@@ -81,19 +81,20 @@ zlib一般系统自带，使用 `whereis zlib` 查看安装位置，如果系统
     sudo apt-get install libprotobuf-dev    
     sudo apt-get install libgoogle-perftools-dev   
 
+
 > ## 运行GEM5
 
-1. 下载GEM5
+### 1. 下载GEM5
 
 [GEM5稳定版下载地址] (http://repo.gem5.org/gem5-stable)， 然后解压。
 
-2. 编译GEM5
+### 2. 编译GEM5
 
 以编译一个RAM处理器为例：
 
     scons build/ARM/gem5.opt
         
-3. 测试
+### 3. 测试
 
 大约十几分钟后，编译完成，输入如下命令进行测试：
 
