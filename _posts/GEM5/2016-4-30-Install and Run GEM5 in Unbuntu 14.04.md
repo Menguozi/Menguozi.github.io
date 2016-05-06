@@ -37,7 +37,7 @@ Python一般系统自带，可用 `python --version` 查看版本号。
 
 ### 4. 安装SWIG
 
-[SWIG下载地址] (http://swig.org/)，解压后安装：
+ [SWIG下载地址] (http://swig.org/)，解压后安装：
 
     ./configure   
     make    
@@ -50,7 +50,7 @@ Python一般系统自带，可用 `python --version` 查看版本号。
 ### 5. 安装zlib
 zlib一般系统自带，使用 `whereis zlib` 查看安装位置，如果系统没有的话，使用如下步骤安装：
 
-[zlib下载地址] (http://www.zlib.net/)，解压后安装：
+ [zlib下载地址] (http://www.zlib.net/)，解压后安装：
 
     ./configure   
     make    
@@ -60,7 +60,7 @@ zlib一般系统自带，使用 `whereis zlib` 查看安装位置，如果系统
 
 一般系统自带，使用 `m4 --veriosn` 查看版本，如果系统没有的话，使用如下步骤安装：
 
-[m4下载地址] （http://www.gnu.org/software/m4/m4.html），解压后安装：
+ [m4下载地址] （http://www.gnu.org/software/m4/m4.html），解压后安装：
 
     ./configure   
     make    
@@ -68,7 +68,7 @@ zlib一般系统自带，使用 `whereis zlib` 查看安装位置，如果系统
 
 ### 7. 安装protobuf
 
-[protobuf下载地址] （https://github.com/google/protobuf）， 解压后安装：
+ [protobuf下载地址] （https://github.com/google/protobuf）， 解压后安装：
 
     ./configure   
     make    
@@ -90,7 +90,7 @@ zlib一般系统自带，使用 `whereis zlib` 查看安装位置，如果系统
 
 ### 1. 下载GEM5
 
-[GEM5稳定版下载地址] (http://repo.gem5.org/gem5-stable)， 然后解压。
+ [GEM5稳定版下载地址] (http://repo.gem5.org/gem5-stable)， 然后解压。
 
 ### 2. 编译GEM5
 
