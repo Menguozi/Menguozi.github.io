@@ -90,7 +90,8 @@ zlib一般系统自带，使用 `whereis zlib` 查看安装位置，如果系统
 
 ### 1. 下载GEM5
 
- [GEM5稳定版下载地址] (http://repo.gem5.org/gem5-stable)， 然后解压。
+ [GEM5稳定版下载地址] (http://repo.gem5.org/gem5-stable)，然后解压。
+ [my blog] (http://pfzuo.github.io/),
 
 ### 2. 编译GEM5
 
