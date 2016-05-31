@@ -52,8 +52,8 @@ Uncompress the parsec-3.0 compressed file, and compile it using the following in
 
    Solution:
         
-		yum -y install libXt-devel
-	    yum -y install libXmu-devel
+        yum -y install libXt-devel
+		yum -y install libXmu-devel
 	 
 	 
    
