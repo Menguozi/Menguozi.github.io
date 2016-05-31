@@ -54,7 +54,14 @@ Uncompress the parsec-3.0 compressed file, and compile it using the following in
         
         yum -y install libXt-devel
 		yum -y install libXmu-devel
-	 
+
+5. ERROR 5: No package 'xi' found
+
+        No package 'xi' found
+
+   Solution:
+        
+        yum -y install libXi-devel
 	 
    
 
