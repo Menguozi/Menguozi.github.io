@@ -4,17 +4,17 @@ comments: true
 categories: PARSEC
 
 ---
-### Download
+> ### Download
 
-Download [parsec-3.0] (http://parsec.cs.princeton.edu/download.htm) form its official website.
+Download parsec-3.0 from its [official website](http://parsec.cs.princeton.edu/download.htm).
 
-### Compile
+> ### Compile
 
 Uncompress the parsec-3.0 compressed file, and compile it using the following instruct:
 
     sudo ./bin/parsecmgmt -a build
 	
-### Debug
+> ### Debug
 
 1) Error 1: pod2man error
 
