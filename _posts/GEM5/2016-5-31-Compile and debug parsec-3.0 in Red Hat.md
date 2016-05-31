@@ -10,7 +10,7 @@ Download parsec-3.0 from its [official website](http://parsec.cs.princeton.edu/d
 
 ### Compile
 
-Uncompress the parsec-3.0 compressed file, and compile it using the following instruct:
+Decompress the parsec-3.0 compressed file, and compile it using the following instruct:
 
     sudo ./bin/parsecmgmt -a build
 	
