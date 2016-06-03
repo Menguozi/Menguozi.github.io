@@ -97,10 +97,14 @@ zlib一般系统自带，使用 `whereis zlib` 查看安装位置，如果系统
 以编译一个RAM处理器为例：
 
     scons build/ARM/gem5.opt
-        
-### 3. 测试
+	
+大约二十多分钟后，编译完成。可以使用多线程提高编译速度，如使用8线程：
 
-大约十几分钟后，编译完成，输入如下命令进行测试：
+    scons build/ARM/gem5.opt -j8
+        
+### 3. SE测试
+
+输入如下命令进行SE测试：
 
     ./build/ARM/gem5.opt ./configs/example/se.py -c ./tests/test-progs/hello/bin/arm/linux/hello
         
@@ -129,5 +133,56 @@ zlib一般系统自带，使用 `whereis zlib` 查看安装位置，如果系统
 可见输出来有Hello world!表示运行成功。
 
         
+### 3. FS测试
+
+全系统（full system）的模拟比较麻烦，需要下载和配置磁盘镜像。以下以X86系统为例。
+
+1. 首先新建一个文件夹用于存储disk image
+
+    mkdir full_system_images
+    cd full_system_images
+	
+2. 下载X86的disk image, 并解压
+
+    wget http://www.m5sim.org/dist/current/x86/x86-system.tar.bz2
+    tar jxf x86-system.tar.bz2
+	
+3. 配置M5 path的完整路径（本文以/home/full_system_images为例）
+    
+    echo "export M5_PATH=/home/full_system_images" >> ~/.bashrc
+    source ~/.bashrc
+    echo $M5_PATH
+
+4. 	进入gem5文件夹，修改两个文件: SysPaths.py 和 Benckmarks.py
+
+    打开SysPaths.py配置disk image路径：
+	
+	vim ./configs/common/SysPaths.py
+	
+	修改前：
+	
+    path = [ ’/dist/m5/system’, ’/n/poolfs/z/dist/m5/system’ ]
+	
+	修改后：
+	
+    path = [ ’/dist/m5/system’, ’/home/full_system_images’ ]
+	
+	打开Benchmarks.py，修改image文件名：
+	
+	修改前：
+	
+    elif buildEnv['TARGET_ISA'] == 'x86':
+        return env.get('LINUX_IMAGE', disk('x86root.img'))
+			
+	修改后：
+	
+    elif buildEnv['TARGET_ISA'] == 'x86':
+        return env.get('LINUX_IMAGE', disk('linux-x86.img'))
+
+
+	
+
+	
+
 
 

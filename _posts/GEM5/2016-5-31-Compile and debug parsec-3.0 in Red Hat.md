@@ -31,7 +31,7 @@ Decompress the parsec-3.0 compressed file, and compile it using the following in
         /usr/include/wchar.h:94:3: error: conflicting types for ?._mbstate_t?
         } __mbstate_t;
   
-   Solution: Delete the 4 lines of code from 102 line to 105 line in the file '/parsec-3.0/pkgs/libs/uptcpip/src/include/sys/bsd__types.h'. The deleted content is shown below.
+   Solution: delete the 4 lines of code from 102 line to 105 line in the file '/parsec-3.0/pkgs/libs/uptcpip/src/include/sys/bsd__types.h'. The deleted content is shown below.
 
         typedef union {
            char            __mbstate8[128];
