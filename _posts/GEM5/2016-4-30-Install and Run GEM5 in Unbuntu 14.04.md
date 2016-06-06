@@ -147,15 +147,10 @@ zlib一般系统自带，使用 `whereis zlib` 查看安装位置，如果系统
         wget http://www.m5sim.org/dist/current/x86/x86-system.tar.bz2
         tar jxf x86-system.tar.bz2
 	
-3. 配置M5 path的完整路径（本文以/home/full_system_images为例）
-    
-        echo "export M5_PATH=/home/full_system_images" >> ~/.bashrc
-        source ~/.bashrc
-        echo $M5_PATH
 
-4. 	进入gem5文件夹，修改两个文件: SysPaths.py 和 Benckmarks.py
+3. 	进入gem5文件夹，修改两个文件: SysPaths.py 和 Benckmarks.py
 
-    打开SysPaths.py配置disk image路径：
+    打开SysPaths.py配置disk image的完整路径（本文以/home/full_system_images为例）：
 	
 	    vim ./configs/common/SysPaths.py
 	
@@ -169,6 +164,8 @@ zlib一般系统自带，使用 `whereis zlib` 查看安装位置，如果系统
 	
 	打开Benchmarks.py，修改image文件名：
 	
+	    vim ./configs/common/Benchmarks.py
+	
 	修改前：
 	
         elif buildEnv['TARGET_ISA'] == 'x86':
@@ -179,7 +176,9 @@ zlib一般系统自带，使用 `whereis zlib` 查看安装位置，如果系统
         elif buildEnv['TARGET_ISA'] == 'x86':
             return env.get('LINUX_IMAGE', disk('linux-x86.img'))
 
+4. 运行，输入如下命令：
 
+        ./build/X86/gem5.opt ./configs/example/fs.py
 	
 
 	
