@@ -133,7 +133,7 @@ zlib一般系统自带，使用 `whereis zlib` 查看安装位置，如果系统
 可见输出来有Hello world!表示运行成功。
 
         
-### 3. FS测试
+### 4. FS测试
 
 全系统（full system）的模拟比较麻烦，需要下载和配置磁盘镜像。以下以X86系统为例。
 
@@ -148,7 +148,7 @@ zlib一般系统自带，使用 `whereis zlib` 查看安装位置，如果系统
         tar jxf x86-system.tar.bz2
 	
 
-3. 	进入gem5文件夹，修改两个文件: SysPaths.py 和 Benckmarks.py
+3. 	进入gem5文件夹，修改两个配置文件: SysPaths.py 和 Benckmarks.py
 
     打开SysPaths.py配置disk image的完整路径（本文以/home/full_system_images为例）：
 	
