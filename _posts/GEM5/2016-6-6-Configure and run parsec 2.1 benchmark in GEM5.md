@@ -107,9 +107,9 @@ categories: GEM5 PARSEC
 		
 6. 根据生成的script文件运行gem5：
 
-     ./build/ALPHA/gem5.opt ./configs/example/fs.py -n <number> --script=./path/to/runScript.rcS --caches --l2cache -F 5000000000
+        ./build/ALPHA/gem5.opt ./configs/example/fs.py -n <number> --script=./path/to/runScript.rcS --caches --l2cache -F 5000000000
 
 7. 新开一个窗口，使用telnet与gem5模拟系统进行交互
 
-     telnet localhost 3456  
+        telnet localhost 3456  
         
