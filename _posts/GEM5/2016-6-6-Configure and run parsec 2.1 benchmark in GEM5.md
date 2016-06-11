@@ -70,12 +70,12 @@ categories: GEM5 PARSEC
 	
 	修改前：
 	
-        elif buildEnv['TARGET_ISA'] == 'x86':
-            return env.get('LINUX_IMAGE', disk('x86root.img'))
+        elif buildEnv['TARGET_ISA'] == 'alpha':
+            return env.get('LINUX_IMAGE', disk('linux-latest.img'))
 			
 	修改后：
 	
-        elif buildEnv['TARGET_ISA'] == 'x86':
+        elif buildEnv['TARGET_ISA'] == 'alpha':
             return env.get('LINUX_IMAGE', disk('linux-parsec-2-1-m5-with-test-inputs.img'))
 			
 5. 生成benchmark的script文件，用于运行benchmark
