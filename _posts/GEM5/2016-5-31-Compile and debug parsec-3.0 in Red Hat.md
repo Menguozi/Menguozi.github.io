@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: PARSEC
+categories: GEM5 PARSEC
 
 ---
 ### Download
