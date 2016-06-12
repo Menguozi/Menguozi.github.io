@@ -55,7 +55,7 @@ SPEC CPU 2006ÊÇÒ»¸ö±È½ÏÀÏµÄbenchmark£¬ËùÒÔÔÚ½ÏĞÂµÄLinuxÏµÍ³ÉÏ±àÒë»á³öÏÖ²»¼æÈİµÄÎ
 		
 2. error building Perl
 
-        ±àÒëPerlÊ±£¬»á³öÏÖÈçÏÂÁ½¸ö´íÎó£º
+    ±àÒëPerlÊ±£¬»á³öÏÖÈçÏÂÁ½¸ö´íÎó£º
         
 		collect2: error: ld returned 1 exit status
         make: *** [miniperl] Error 1
@@ -91,7 +91,7 @@ SPEC CPU 2006ÊÇÒ»¸ö±È½ÏÀÏµÄbenchmark£¬ËùÒÔÔÚ½ÏĞÂµÄLinuxÏµÍ³ÉÏ±àÒë»á³öÏÖ²»¼æÈİµÄÎ
         DYLD_LIBRARY_PATH=`pwd`
         ./Configure -Dcc="gcc -lm" -Dlibpth='/usr/local/lib64 /lib64 /usr/lib64' -dOes -Ud_flock $PERLFLAGS -Ddosuid=undef -Dprefix=$INSTALLDIR -Dd_bincompat3=undef -A ldflags=-L${INSTALLDIR}/lib -A ccflags=-I${INSTALLDIR}/include -Ui_db -Ui_gdbm -Ui_ndbm -Ui_dbm -Uuse5005threads ; testordie "error configuring perl"	
 
-	
+
 	
 	
 	
