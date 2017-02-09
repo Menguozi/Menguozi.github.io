@@ -68,6 +68,7 @@ categories: GEM5 NVMain
 > #### 5 安装NVMain补丁
 
 5.1 进入GEM5根目录；
+
 5.2 Initialize queues in gem5:
     
     hg qinit
