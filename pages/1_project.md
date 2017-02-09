@@ -10,6 +10,8 @@ permalink: /project/
 
 # My Projects
 ---
+
+
 ## DeWrite 
 
 * **Enhancing Lifetime and Performance of Secure Non-Volatile Memory Systems through Eliminating Duplicate Writes**
