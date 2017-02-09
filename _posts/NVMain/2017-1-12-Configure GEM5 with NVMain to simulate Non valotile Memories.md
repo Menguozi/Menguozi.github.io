@@ -75,7 +75,7 @@ categories: GEM5 NVMain
     
 5.3 Import the NVMain patch:
     
-    hg qimport ./nvmain/patches/gem5/nvmain2-gem5-10789+
+    hg qimport -f ./nvmain/patches/gem5/nvmain2-gem5-10688+
     
 5.4 Apply the patch:
     
