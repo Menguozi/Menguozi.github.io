@@ -17,9 +17,9 @@ I am currently a PhD student majoring in computer science and technology in HUST
 
 My current research interests include: 
 	
-* data deduplication
-* security and privacy issues in cloud storage
-* key-value store
-* content based similarity detection
+* Data deduplication
+* Emerging non-volatile memories
+* Security and privacy issues in cloud storage
+* Content based similarity detection
 
 **Email:** pfzuo@hust.edu.cn
