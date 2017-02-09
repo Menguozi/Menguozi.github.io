@@ -15,7 +15,7 @@ categories: GEM5 NVMain
 	
 > #### 2 安装GEM5
 
-推荐使用最新版本的GEM5，使用`hg clone`命令下载：
+使用`hg clone`命令下载GEM5（推荐使用最新版本的GEM5）：
     
     hg clone http://repo.gem5.org/gem5
 	
@@ -57,14 +57,32 @@ categories: GEM5 NVMain
     [smtp]
     host = your.smtp.server.here
     
-> #### 4 下载
+> #### 4 下载NVMain
 
 4.1 注册[bitbucket](https://bitbucket.org/)账号；
 
 4.2 按照[NVMain网站](http://wiki.nvmain.org/index.php?n=Site.GettingNVMain)上的说明获取NVMain的使用权；
 
-4.3 进入GEM5主目录，使用`hg clone`命令下载NVMain；
+4.3 进入GEM5根目录，使用`hg clone`命令下载NVMain；
 
+> ### 5 安装NVMain补丁
+
+5.1 进入GEM5根目录；
+5.2 Initialize queues in gem5:
+    
+    hg qinit
+    
+5.3 Import the NVMain patch:
+    
+    hg qimport ./nvmain/patches/gem5/nvmain2-gem5-10789+
+    
+5.4 Apply the patch:
+    
+    hg qpush
+
+> ### 编译GEM5 with NVMain
+    
+    scons EXTRAS=nvmain ./build/example/X86/gem5.opt -j32
 
     
 
