@@ -16,6 +16,7 @@ categories: GEM5 NVMain
 > #### 2 安装GEM5
 
 推荐使用最新版本的GEM5，可直接用以下命令下载：
+
      hg clone http://repo.gem5.org/gem5
 	
 配置GEM5的运行环境，可参照该[教程](http://pfzuo.github.io/2016/04/30/Install-and-Run-GEM5-in-Unbuntu-14.04/)。
@@ -23,9 +24,11 @@ categories: GEM5 NVMain
 > #### 3 配置hgrc文件
 
 3.1 打开hgrc文件：
+
      vim ~/.hgrc
 
 3.2 把以下内容加入到hgrc文件中，并将相关配置（如：`username`，`style`，`from`）修改成自己的信息：
+
      [ui]
      # Set the username you will commit code with
      username=Your Name <your@email.address>
