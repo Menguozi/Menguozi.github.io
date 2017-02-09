@@ -65,7 +65,7 @@ categories: GEM5 NVMain
 
 4.3 进入GEM5根目录，使用`hg clone`命令下载NVMain；
 
-> ### 5 安装NVMain补丁
+> #### 5 安装NVMain补丁
 
 5.1 进入GEM5根目录；
 5.2 Initialize queues in gem5:
@@ -80,7 +80,7 @@ categories: GEM5 NVMain
     
     hg qpush
 
-> ### 编译GEM5 with NVMain
+> #### 编译GEM5 with NVMain
     
     scons EXTRAS=nvmain ./build/X86/gem5.opt
 
