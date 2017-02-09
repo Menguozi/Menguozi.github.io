@@ -80,7 +80,7 @@ categories: GEM5 NVMain
     
     hg qpush
 
-> #### 编译GEM5 with NVMain
+> #### 6 编译GEM5 with NVMain
     
     scons EXTRAS=nvmain ./build/X86/gem5.opt
 
