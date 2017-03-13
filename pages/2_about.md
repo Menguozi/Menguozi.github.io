@@ -12,7 +12,6 @@ permalink: /about/
 ---
 
 | I am currently a PhD student majoring in computer science and technology in Huazhong University of Science and Technology (HUST), advised by [Prof. Hua](http://stlab.wnlo.hust.edu.cn/csyhua/). I received the BE degree in computer science and technology from HUST, in 2014. My current research interests include: 
-
 * Data deduplication
 * Emerging non-volatile memories
 * Security and privacy issues in cloud storage
