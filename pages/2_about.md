@@ -24,6 +24,7 @@ My current research interests include:
 
 
 ### Selected Publications
+---
 
 * **Pengfei Zuo**, Yu Hua, Xue Liu, Dan Feng, Wen Xia, Shunde Cao, Jie Wu, Yuanyuan Sun, Yuncheng Guo, "BEES: Bandwidth- and Energy- Efficient Image Sharing for Real-time Situation Awareness", in Proceedings of the 37th International Conference on Distributed Computing Systems (**ICDCS**), 2017.
 
@@ -39,6 +40,7 @@ My current research interests include:
 
 
 ### Work-in-Progress Reports and Posters
+---
 
 * **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, Yuanyuan Sun, "Enhancing Lifetime and Performance of Non-Volatile Memories through Eliminating Duplicate Writes", WIP and Poster in USENIX Conference on File and Storage Technologies (**FAST**), 2017.
 
