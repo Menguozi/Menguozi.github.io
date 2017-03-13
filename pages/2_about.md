@@ -9,19 +9,20 @@ permalink: /about/
 {:toc}
 
 ## Homepage
+
 ---
+ 
 
-| Tables        | Are           | 
-| ------------- |:-------------:|
+### Biography
 
-| I am currently a PhD student majoring in computer science and technology in Huazhong University of Science and Technology (HUST), advised by [Prof. Hua](http://stlab.wnlo.hust.edu.cn/csyhua/). I received the BE degree in computer science and technology from HUST, in 2014. My current research interests include: data deduplication, emerging non-volatile memories, security and privacy issues in cloud storage, content based similarity detection. 
-**Email:** pfzuo@hust.edu.cn | ![image](https://pfzuo.github.io/images/zuo.jpg) |
-| :-----------:|:-------------:|
+ 
+| <br> I am currently a PhD student majoring in computer science and technology <br> in Huazhong University of Science and Technology (HUST), advised by <br> [Prof. Hua](http://stlab.wnlo.hust.edu.cn/csyhua/). I received the BE degree in computer science and technology <br> from HUST, in 2014. <br>My current research interests include: <br> &emsp;**\*** Data deduplication, <br> &emsp;**\*** Emerging non-volatile memories, <br>&emsp;**\*** Security and privacy issues in cloud storage, <br> &emsp;**\*** Content based similarity detection. <br> <br> **Email:** pfzuo@hust.edu.cn  <br> <br>  | <br> <br>  ![image](https://pfzuo.github.io/images/zuo.jpg) <br> |
 
+<br> 
 
+---
 
 ### Selected Publications
----
 
 * **Pengfei Zuo**, Yu Hua, Xue Liu, Dan Feng, Wen Xia, Shunde Cao, Jie Wu, Yuanyuan Sun, Yuncheng Guo, "BEES: Bandwidth- and Energy- Efficient Image Sharing for Real-time Situation Awareness", in Proceedings of the 37th International Conference on Distributed Computing Systems (**ICDCS**), 2017.
 
@@ -35,9 +36,11 @@ permalink: /about/
 
 * Jinjun Liu, Dan Feng, Yu Hua, Bin Peng, **Pengfei Zuo**, "Application-aware Video-Sharing Services via Provenance in Cloud Storage", Proceedings of the 33rd IEEE International Performance Computing and Communications Conference (**IPCCC**), 2014.
 
+<br> 
+
+----
 
 ### Work-in-Progress Reports and Posters
----
 
 * **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, Yuanyuan Sun, "Enhancing Lifetime and Performance of Non-Volatile Memories through Eliminating Duplicate Writes", WIP and Poster in USENIX Conference on File and Storage Technologies (**FAST**), 2017.
 
@@ -46,5 +49,7 @@ permalink: /about/
 * **Pengfei Zuo**, Yu Hua, Dan Feng, Zhenhua Nie, Min Fu, Yuanyuan Sun, "E-STORE: An Energy-constrained Smartphone Storage for Near Real-time Disaster Image Sharing", Poster in the 13th USENIX Conference on File and Storage Technologies (**FAST**), 2015.
 
 
+<br> 
 
+<br> 
 
