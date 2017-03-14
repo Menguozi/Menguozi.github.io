@@ -38,14 +38,14 @@ permalink: /about/
 
 <br> 
 
-### Work-in-Progress Reports and Posters
+### WIP Reports and Posters
 
 ----
 
 
-* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, Yuanyuan Sun, "Enhancing Lifetime and Performance of Non-Volatile Memories through Eliminating Duplicate Writes", WIP and Poster in USENIX Conference on File and Storage Technologies (**FAST**), 2017.
+* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, Yuanyuan Sun, "Enhancing Lifetime and Performance of Non-Volatile Memories through Eliminating Duplicate Writes", Work-in-Progress Report and Poster in USENIX Conference on File and Storage Technologies (**FAST**), 2017.
 
-* Yuanyuan Sun, Yu Hua, Song Jiang, Qiuyu Li, Shunde Cao, **Pengfei Zuo**, "A Fast and Cost-Efficient Hashing Index Scheme for Cloud Storage Systems",  WIP and Poster in USENIX Conference on File and Storage Technologies (**FAST**), 2017.
+* Yuanyuan Sun, Yu Hua, Song Jiang, Qiuyu Li, Shunde Cao, **Pengfei Zuo**, "A Fast and Cost-Efficient Hashing Index Scheme for Cloud Storage Systems",  Work-in-Progress Report and Poster in USENIX Conference on File and Storage Technologies (**FAST**), 2017.
 
 * **Pengfei Zuo**, Yu Hua, Dan Feng, Zhenhua Nie, Min Fu, Yuanyuan Sun, "E-STORE: An Energy-constrained Smartphone Storage for Near Real-time Disaster Image Sharing", Poster in the 13th USENIX Conference on File and Storage Technologies (**FAST**), 2015.
 
