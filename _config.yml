@@ -18,11 +18,11 @@ viewsourceroot: https://github.com/pfzuo/pfzuo.github.io/blob/master/
 newsourceroot: https://github.com/pfzuo/pfzuo.github.io/new/master
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
-#duoshuo_shortname: pfzuo
-#duoshuo_url: "http://pfzuo.duoshuo.com"
+duoshuo_shortname: pfzuo
+duoshuo_url: "http://pfzuo.duoshuo.com"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
-disqus_shortname: pfzuo
-disqus_url: "http://pfzuo.github.io"
+#disqus_shortname: pfzuo
+#disqus_url: "http://pfzuo.github.io"
 #########################################
 
 # Build settings
