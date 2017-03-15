@@ -46,5 +46,19 @@ permalink: /about/
 
 <br> 
 
+### Patents and Software Copyrights
+
+---
+
+* Yu Hua, **Pengfei Zuo**, Dan Feng, Shunde Cao, Yuanyuan Sun, Jie Wu, Zhou Feng, Yuncheng Guo, *A Real-time Image Sharing Scheme and System in Disaster Environments*. Patent Application Number: CN201510698583.4. 
+
+* Dan Feng, Jinjun Liu, Yu Hua, Bin Peng, **Pengfei Zuo**, Yuanyuan Sun, Shunde Cao, Ling Yang, *A Re-distributing Scheme and System for Cold Files in Cloud Storage Systems*. Patent Application Number: CN201610197281.3. 
+
+* Yu Hua, Zhou Feng, Dan Feng, Linqian Wu, Bin Peng, Jinjun Liu, **Pengfei Zuo**, Yuanyuan Sun, *An In-network Deduplication Scheme and System in SDN*. Patent Application Number: CN201510388084.5. 
+
+* Yu Hua, Bin Peng, Dan Feng, Jinjun Liu, **Pengfei Zuo**, Yuanyuan Sun, Linqian Wu, Zhou Feng, *A Provenance-based Video Sharing Scheme and System in Cloud Storage Systems*. Patent Application Number: CN201410734130.8. 
+
+* Yu Hua, Zhenghua Nie, Dan Feng, **Pengfei Zuo**, Yuanyuan Sun, *A Similar-image Sharing Software for Smartphones*. Software Copyright (No. 2015SR122140).
+
 <br> 
 
