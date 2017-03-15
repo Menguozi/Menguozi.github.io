@@ -16,7 +16,7 @@ permalink: /about/
 ### Biography
 
  
-| <br> I am currently a PhD student majoring in computer science and technology <br> in Huazhong University of Science and Technology (HUST), advised by <br> [Prof. Hua](http://stlab.wnlo.hust.edu.cn/csyhua/). I received the BE degree in computer science and technology <br> from HUST, in 2014. <br>My current research interests include: <br> &emsp;**\*** Data deduplication, <br> &emsp;**\*** Emerging non-volatile memories, <br>&emsp;**\*** Security and privacy issues in cloud storage, <br> &emsp;**\*** Content based similarity detection. <br> <br> **Email:** pfzuo@hust.edu.cn  <br> <br>  | <br> <br>  ![image](https://pfzuo.github.io/images/zuo.jpg) <br> |
+| <br> Pengfei Zuo is a third year PhD student with [Prof. Hua](http://stlab.wnlo.hust.edu.cn/csyhua/) at Huazhong <br>University of Science and Technology. He received the BE degree in the <br>school of computer science and technology at Huazhong University of<br> Science and Technology in 2014. <br>His research interests include: <br> &emsp;**\*** Data deduplication, <br> &emsp;**\*** Emerging non-volatile memories, <br>&emsp;**\*** Security and privacy issues in storage systems. <br> <br> **Email:** pfzuo@hust.edu.cn  <br> <br>  | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
 
 <br> 
 
