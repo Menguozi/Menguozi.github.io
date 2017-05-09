@@ -56,6 +56,8 @@ permalink: /about/
 
 ---
 
+* Yu Hua, Jie Wu, Dan Feng, **Pengfei Zuo**, *A Submodular-based Data Backup Scheme and System*. Patent Application Number: CN201710203404.4. 
+
 * Yu Hua, **Pengfei Zuo**, Dan Feng, Shunde Cao, Yuanyuan Sun, Jie Wu, Zhou Feng, Yuncheng Guo, *A Real-time Image Sharing Scheme and System in Disaster Environments*. Patent Application Number: CN201510698583.4. 
 
 * Dan Feng, Jinjun Liu, Yu Hua, Bin Peng, **Pengfei Zuo**, Yuanyuan Sun, Shunde Cao, Ling Yang, *A Re-distributing Scheme and System for Cold Files in Cloud Storage Systems*. Patent Application Number: CN201610197281.3. 
