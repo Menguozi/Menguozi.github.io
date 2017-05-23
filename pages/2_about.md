@@ -55,6 +55,7 @@ permalink: /about/
 ### Patents and Software Copyrights
 
 ---
+* Yu Hua, **Pengfei Zuo**, Dan Feng, *A Hash Table Construction Scheme and System for Non-volatile Memory*. Patent Application Number: CN201710332674.5. 
 
 * Yu Hua, Jie Wu, Dan Feng, **Pengfei Zuo**, *A Submodular-based Data Backup Scheme and System*. Patent Application Number: CN201710203404.4. 
 
