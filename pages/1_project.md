@@ -11,9 +11,6 @@ permalink: /project/
 # My Projects
 ---
 
-
-** - Some projects are not posted here due to their papers being reviewed in double-blind conferences.**
-
 ## Path Hashing
 
 * **A Write-friendly Hashing Scheme for Non-volatile Memory Systems**
@@ -32,4 +29,4 @@ permalink: /project/
 * Deduplication is able to effectively identify and eliminate redundant data and only maintain a single copy of files and chunks. Hence, it is widely used in cloud storage systems to save storage space and network bandwidth. However, the occurrence of deduplication can be easily identified by monitoring and analyzing network traffic, which leads to the risk of users' privacy leakage. Deduplication can be used as a side channel to reveal privacy information of users. In order to address this problem, we propose an easy-to-use and bandwidth-efficient scheme, called randomized redundant chunk scheme (RRCS), to mitigate the risk of side channel attacks while maintaining the high bandwidth efficiency of deduplication. By carefully adding randomly chosen redundant chunks for each uploaded file, RRCS can mix up the real deduplication states of files and effectively obfuscate the view of the attacker, who attempts to exploit the amount of the transmitted data for side channel attacks. Our security analysis shows that RRCS could significantly mitigate the risk of the side channel attacks. We implement the RRCS prototype and evaluate it by using three large-scale real-world datasets. Experimental results demonstrate that RRCS delivers high performance while providing security guarantee.
 
 
-
+**Some projects are not posted here due to their papers being reviewed in double-blind conferences.**
