@@ -11,6 +11,8 @@ permalink: /project/
 # My Projects
 ---
 
+** \* Some projects are not posted here due to their papers being reviewed in double-blind conferences.**
+
 ## Path Hashing
 
 * **A Write-friendly Hashing Scheme for Non-volatile Memory Systems**
