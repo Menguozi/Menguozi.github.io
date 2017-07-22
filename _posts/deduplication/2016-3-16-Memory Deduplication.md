@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: Deduplication KSM
+categories: Deduplication 
 
 ---
 
