@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: GEM5
+categories: GEM5 Simulator
 
 ---
 

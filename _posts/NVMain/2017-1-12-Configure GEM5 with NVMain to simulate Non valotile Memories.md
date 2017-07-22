@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: GEM5 NVMain
+categories: GEM5 NVMain Simulator NVM
 
 ---
 

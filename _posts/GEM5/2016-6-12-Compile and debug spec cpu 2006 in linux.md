@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: GEM5 CPU2006
+categories: Benchmark Simulator
 
 ---
 

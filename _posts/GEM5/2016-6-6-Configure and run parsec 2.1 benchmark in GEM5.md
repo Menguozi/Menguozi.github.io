@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: GEM5 PARSEC
+categories: GEM5 Benchmark Simulator
 
 ---
 
