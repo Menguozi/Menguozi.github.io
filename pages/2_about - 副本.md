@@ -32,6 +32,9 @@ permalink: /about/
 
 * **Pengfei Zuo**, Yu Hua, Xue Liu, Dan Feng, Wen Xia, Shunde Cao, Jie Wu, Yuanyuan Sun, Yuncheng Guo, "BEES: Bandwidth- and Energy- Efficient Image Sharing for Real-time Situation Awareness", in Proceedings of the 37th International Conference on Distributed Computing Systems (**ICDCS**), 2017.
 
+* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, Yuanyuan Sun, "Enhancing Lifetime and Performance of Non-Volatile Memories through Eliminating Duplicate Writes", Work-in-Progress Report and Poster in USENIX Conference on File and Storage Technologies (**FAST**), 2017.
+
+* Yuanyuan Sun, Yu Hua, Song Jiang, Qiuyu Li, Shunde Cao, **Pengfei Zuo**, "A Fast and Cost-Efficient Hashing Index Scheme for Cloud Storage Systems",  Work-in-Progress Report and Poster in USENIX Conference on File and Storage Technologies (**FAST**), 2017.
 
 * Yuanyuan Sun, Yu Hua, Dan Feng, Ling Yang, **Pengfei Zuo**, Shunde Cao, Yuncheng Guo, "A Collision-Mitigation Cuckoo Hashing Scheme for Large-scale Storage Systems", IEEE Transactions on Parallel and Distributed Systems (**TPDS**), Vol.28, No.3, March 2017, pages: 619-632.
 
