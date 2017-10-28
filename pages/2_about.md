@@ -26,7 +26,7 @@ permalink: /about/
 
 * Yuanyuan Sun, Yu Hua, Shunde Cao, **Pengfei Zuo**, "DLSH: A Distribution-aware LSH Scheme for Approximate Nearest Neighbor Query in Cloud Computing", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017.
 
-* **Pengfei Zuo** and Yu Hua, Cong Wang, Wen Xia, Shunde Cao, Yukun Zhou, Yuanyuan Sun, "Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017. (*Abstract Only*)
+* **Pengfei Zuo**, Yu Hua, Cong Wang, Wen Xia, Shunde Cao, Yukun Zhou, Yuanyuan Sun, "Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017. (*Abstract Only*)
 
 * Yuanyuan Sun, Yu Hua, Song Jiang, Qiuyu Li, Shunde Cao, **Pengfei Zuo**, "SmartCuckoo: A Fast and Cost-Efficient Hashing Index Scheme for Cloud Storage Systems", in Proceedings of USENIX Annual Technical Conference (**USENIX ATC**), 2017.
 
