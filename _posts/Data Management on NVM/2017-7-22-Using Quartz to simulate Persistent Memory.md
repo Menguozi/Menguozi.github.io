@@ -56,15 +56,15 @@ Quartz目前的版本不能同时模拟NVM的延迟和带宽。只能让带宽�
 
     read = 200;
 
-模拟写延迟：Quartz目前的版本不能支持对写延迟的模拟，所以我们需要自己实现写延迟模拟。由于NVM一般作为持久化内存（Persistent Memory），所以CPU对NVM的写都需要使用CFLUSH指令（cache line flush）把CPU cache中的脏数据刷回NVM中，并使用MFENCE指令（memory fence）保证cache line flush的顺序性。为了模拟NVM写延迟，我们在每个CFLUSH指令后面植入额外的延迟。
+模拟写延迟：Quartz目前的版本不能支持对写延迟的模拟，所以我们需要自己实现写延迟模拟。由于NVM一般作为持久化内存（Persistent Memory），所以CPU对NVM的写都需要使用CLFLUSH指令（cache line flush）把CPU cache中的脏数据刷回NVM中，并使用MFENCE指令（memory fence）保证cache line flush的顺序性。为了模拟NVM写延迟，我们在每个CLFLUSH指令后面植入额外的延迟。
 
-CFLUSH、MFENCE和CFLUSH指令后植入延迟的实现代码可参照`./quartz-master/src/lib/`路径下的`pflush.c`文件。
+MFENCE和CLFLUSH指令后植入延迟的实现代码可参照`./quartz-master/src/lib/`路径下的`pflush.c`文件。
 
 > #### 3 编写基于Persistent Memory的程序	
 
 基于Persistent Memory的程序中，内存的分配和回收一定要用Quartz中对于的函数`pmalloc`和`pfree`。所以程序中需要引用头文件`./quartz-master/src/lib/pmalloc.h`，并且编译时需要链接`libnvmemul.so`动态库。
 
-对Persistent Memory的写需要使用CFLUSH指令刷回NVM中，并且使用MFENCE指令保证多个CFLUSH指令执行的顺序性。
+对Persistent Memory的写需要使用CLFLUSH指令刷回NVM中，并且使用MFENCE指令保证多个CLFLUSH指令执行的顺序性。
 
 对于大于原子写（一般是8 bytes）的数据需要进一步使用logging或copy-on-write(CoW)来保证一致性。
 
