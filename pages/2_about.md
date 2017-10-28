@@ -36,7 +36,6 @@ permalink: /about/
 
 * **Pengfei Zuo**, Yu Hua, Xue Liu, Dan Feng, Wen Xia, Shunde Cao, Jie Wu, Yuanyuan Sun, Yuncheng Guo, "BEES: Bandwidth- and Energy- Efficient Image Sharing for Real-time Situation Awareness", in Proceedings of the 37th International Conference on Distributed Computing Systems (**ICDCS**), 2017.
 
-
 * Yuanyuan Sun, Yu Hua, Dan Feng, Ling Yang, **Pengfei Zuo**, Shunde Cao, Yuncheng Guo, "A Collision-Mitigation Cuckoo Hashing Scheme for Large-scale Storage Systems", IEEE Transactions on Parallel and Distributed Systems (**TPDS**), Vol.28, No.3, March 2017, pages: 619-632.
 
 * Wen Zhou, Dan Feng, Yu Hua, Jingning Liu, Fangting Huang, **Pengfei Zuo**, "Increasing Lifetime and Security of Phase-Change Memory with Endurance Variation", Proceedings of the IEEE International Conference on Parallel and Distributed Systems (**ICPADS**), 2016.
@@ -53,7 +52,7 @@ permalink: /about/
 
 <br> 
 
-### Patents and Software Copyrights
+### Patents 
 
 ---
 * Yu Hua, **Pengfei Zuo**, Dan Feng, *A Hash Table Construction Scheme and System for Non-volatile Memory*. Patent Application Number: CN201710332674.5. 
