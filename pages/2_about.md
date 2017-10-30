@@ -20,7 +20,7 @@ permalink: /about/
 
 <br> 
 
-### Selected Publications
+### Publications
 
 ---
 
