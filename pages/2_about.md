@@ -16,13 +16,15 @@ permalink: /about/
 ### Biography
 
  
-| <br> Pengfei Zuo is a third year PhD student in Huazhong University of <br>Science and Technology advised by [Prof. Yu Hua](http://stlab.wnlo.hust.edu.cn/csyhua/). He obtained the BE <br>degree in computer science and technology from Huazhong University <br>of Science and Technology in 2014. <br>His research interests include: <br> &emsp;**\*** Data Management on Non-volatile Memory; <br> &emsp;**\*** Data & Image Deduplication. <br> <br> **Email:** pfzuo@hust.edu.cn  <br> <br>  | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
+| <br> Pengfei Zuo is a fourth year PhD student in Huazhong University of <br>Science and Technology advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html). He obtained the BE <br>degree in computer science and technology from Huazhong University <br>of Science and Technology in 2014. <br>His research interests include: <br> &emsp;**\*** Data Management on Non-volatile Memory; <br> &emsp;**\*** Data & Image Deduplication. <br> <br> **Email:** pfzuo@hust.edu.cn  <br> <br>  | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
 
 <br> 
 
 ### Publications
 
 ---
+
+* Yuncheng Guo, Yu Hua, **Pengfei Zuo**, "DFPC: A Dynamic Frequent Pattern Compression Scheme in NVM-based Main Memory", in Proceedings of the 21st Design Automation and Test in Europe (DATE), 2018.
 
 * Yuanyuan Sun, Yu Hua, Shunde Cao, **Pengfei Zuo**, "DLSH: A Distribution-aware LSH Scheme for Approximate Nearest Neighbor Query in Cloud Computing", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017.
 
