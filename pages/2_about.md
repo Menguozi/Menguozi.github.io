@@ -74,6 +74,8 @@ permalink: /about/
 <br> 
 
 ### Awards 
+
+---
 *  National Scholarship for Graduate Students, 2017
 *  Excellent Graduate Student, 2017
 *  Excellent Graduate Student, 2016
