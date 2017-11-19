@@ -73,3 +73,13 @@ permalink: /about/
 
 <br> 
 
+### Awards 
+*  National Scholarship for Graduate Students, 2017
+*  Excellent Graduate Student, 2017
+*  Excellent Graduate Student, 2016
+*  ZhiXing Excellent Graduate Scholarship, 2015
+*  Excellent Graduate Student, 2015
+*  Award of Excellent B.E. Thesis in Hubei Province, 2014
+
+
+
