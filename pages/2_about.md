@@ -24,6 +24,8 @@ permalink: /about/
 
 ---
 
+* **Pengfei Zuo** and Yu Hua, "A Write-friendly and Cache-optimized Hashing Scheme for Non-volatile Memory Systems", Accepted by IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2018. (To appear)
+
 * Yuncheng Guo, Yu Hua, **Pengfei Zuo**, "DFPC: A Dynamic Frequent Pattern Compression Scheme in NVM-based Main Memory", in Proceedings of the 21st Design Automation and Test in Europe (**DATE**), 2018.
 
 * Yuanyuan Sun, Yu Hua, Shunde Cao, **Pengfei Zuo**, "DLSH: A Distribution-aware LSH Scheme for Approximate Nearest Neighbor Query in Cloud Computing", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017.
