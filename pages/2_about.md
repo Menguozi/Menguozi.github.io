@@ -24,33 +24,29 @@ permalink: /about/
 
 ---
 
-* **Pengfei Zuo** and Yu Hua, "A Write-friendly and Cache-optimized Hashing Scheme for Non-volatile Memory Systems", Accepted by IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2018. (To appear)
+* **Pengfei Zuo** and Yu Hua, "[A Write-friendly and Cache-optimized Hashing Scheme for Non-volatile Memory Systems](https://csyhua.github.io/csyhua/hua-tpds2018-nvm.pdf)", Accepted by IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2018. (To appear)
 
-* Yuncheng Guo, Yu Hua, **Pengfei Zuo**, "DFPC: A Dynamic Frequent Pattern Compression Scheme in NVM-based Main Memory", in Proceedings of the 21st Design Automation and Test in Europe (**DATE**), 2018.
+* Yuncheng Guo, Yu Hua, **Pengfei Zuo**, "[DFPC: A Dynamic Frequent Pattern Compression Scheme in NVM-based Main Memory](https://csyhua.github.io/csyhua/hua-dfpc-date2018.pdf)", in Proceedings of the 21st Design Automation and Test in Europe (**DATE**), 2018.
 
-* Yuanyuan Sun, Yu Hua, Shunde Cao, **Pengfei Zuo**, "DLSH: A Distribution-aware LSH Scheme for Approximate Nearest Neighbor Query in Cloud Computing", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017.
+* Yuanyuan Sun, Yu Hua, Shunde Cao, **Pengfei Zuo**, "[DLSH: A Distribution-aware LSH Scheme for Approximate Nearest Neighbor Query in Cloud Computing](https://csyhua.github.io/csyhua/hua-socc17.pdf)", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017.
 
-* **Pengfei Zuo**, Yu Hua, Cong Wang, Wen Xia, Shunde Cao, Yukun Zhou, Yuanyuan Sun, "Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017. (*Abstract Only*)
+* **Pengfei Zuo**, Yu Hua, Cong Wang, Wen Xia, Shunde Cao, Yukun Zhou, Yuanyuan Sun, "[Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage](dl.acm.org/citation.cfm?id=3132688)", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017. (*Abstract Only*)
 
-* Yuanyuan Sun, Yu Hua, Song Jiang, Qiuyu Li, Shunde Cao, **Pengfei Zuo**, "SmartCuckoo: A Fast and Cost-Efficient Hashing Index Scheme for Cloud Storage Systems", in Proceedings of USENIX Annual Technical Conference (**USENIX ATC**), 2017.
+* Yuanyuan Sun, Yu Hua, Song Jiang, Qiuyu Li, Shunde Cao, **Pengfei Zuo**, "[SmartCuckoo: A Fast and Cost-Efficient Hashing Index Scheme for Cloud Storage Systems](https://csyhua.github.io/csyhua/hua-atc2017.pdf)", in Proceedings of USENIX Annual Technical Conference (**USENIX ATC**), 2017.
 
-* **Pengfei Zuo** and Yu Hua, "A Write-friendly Hashing Scheme for Non-volatile Memory Systems", in Proceedings of the 33st International Conference on Massive Storage Systems and Technology (**MSST**), 2017.
+* **Pengfei Zuo** and Yu Hua, "[A Write-friendly Hashing Scheme for Non-volatile Memory Systems](https://csyhua.github.io/csyhua/hua-MSST2017-NVM.pdf)", in Proceedings of the 33st International Conference on Massive Storage Systems and Technology (**MSST**), 2017.
 
-* Jie Wu, Yu Hua, **Pengfei Zuo**, Yuanyuan Sun, "A Cost-efficient Rewriting Scheme to Improve Restore Performance in Deduplication Systems", in Proceedings of the 33st International Conference on Massive Storage Systems and Technology (**MSST**), 2017.
+* Jie Wu, Yu Hua, **Pengfei Zuo**, Yuanyuan Sun, "[A Cost-efficient Rewriting Scheme to Improve Restore Performance in Deduplication Systems](https://csyhua.github.io/csyhua/hua-MSST2017-dedup.pdf)", in Proceedings of the 33st International Conference on Massive Storage Systems and Technology (**MSST**), 2017.
 
-* **Pengfei Zuo**, Yu Hua, Xue Liu, Dan Feng, Wen Xia, Shunde Cao, Jie Wu, Yuanyuan Sun, Yuncheng Guo, "BEES: Bandwidth- and Energy- Efficient Image Sharing for Real-time Situation Awareness", in Proceedings of the 37th International Conference on Distributed Computing Systems (**ICDCS**), 2017.
+* **Pengfei Zuo**, Yu Hua, Xue Liu, Dan Feng, Wen Xia, Shunde Cao, Jie Wu, Yuanyuan Sun, Yuncheng Guo, "[BEES: Bandwidth- and Energy- Efficient Image Sharing for Real-time Situation Awareness](https://csyhua.github.io/csyhua/hua-ICDCS2017.pdf)", in Proceedings of the 37th International Conference on Distributed Computing Systems (**ICDCS**), 2017.
 
-* Yuanyuan Sun, Yu Hua, Dan Feng, Ling Yang, **Pengfei Zuo**, Shunde Cao, Yuncheng Guo, "A Collision-Mitigation Cuckoo Hashing Scheme for Large-scale Storage Systems", IEEE Transactions on Parallel and Distributed Systems (**TPDS**), Vol.28, No.3, March 2017, pages: 619-632.
+* Yuanyuan Sun, Yu Hua, Dan Feng, Ling Yang, **Pengfei Zuo**, Shunde Cao, Yuncheng Guo, "[A Collision-Mitigation Cuckoo Hashing Scheme for Large-scale Storage Systems](https://csyhua.github.io/csyhua/hua-TPDS2016.pdf)", IEEE Transactions on Parallel and Distributed Systems (**TPDS**), Vol.28, No.3, March 2017, pages: 619-632.
 
-* Wen Zhou, Dan Feng, Yu Hua, Jingning Liu, Fangting Huang, **Pengfei Zuo**, "Increasing Lifetime and Security of Phase-Change Memory with Endurance Variation", Proceedings of the IEEE International Conference on Parallel and Distributed Systems (**ICPADS**), 2016.
+* Wen Zhou, Dan Feng, Yu Hua, Jingning Liu, Fangting Huang, **Pengfei Zuo**, "[Increasing Lifetime and Security of Phase-Change Memory with Endurance Variation](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7823831)", Proceedings of the IEEE International Conference on Parallel and Distributed Systems (**ICPADS**), 2016.
 
-* **Pengfei Zuo**, Yu Hua, Dan Feng, Zhenhua Nie, Min Fu, Yuanyuan Sun, "E-STORE: An Energy-constrained Smartphone Storage for Near Real-time Disaster Image Sharing", Poster in the 13th USENIX Conference on File and Storage Technologies (**FAST**), 2015.
+* **Pengfei Zuo**, Yu Hua, Dan Feng, Zhenhua Nie, Min Fu, Yuanyuan Sun, "[E-STORE: An Energy-constrained Smartphone Storage for Near Real-time Disaster Image Sharing](https://csyhua.github.io/csyhua/hua-fast2015poster.pdf)", Poster in the 13th USENIX Conference on File and Storage Technologies (**FAST**), 2015.
 
-* Yuanyuan Sun, Yu Hua, Dan Feng, Ling Yang, **Pengfei Zuo**, Shunde Cao, "MinCounter: An Efficient Cuckoo Hashing Scheme for Cloud Storage Systems", Proceedings of the 31st International Conference on Massive Storage Systems and Technology (**MSST**), 2015.
-
-* Jinjun Liu, Dan Feng, Yu Hua, Bin Peng, **Pengfei Zuo**, Yuanyuan Sun, "P-index: An Efficient Searchable Metadata Indexing Scheme based on Data Provenance in Cold Storage", Proceedings of the 15th International Conference on Algorithms and Architectures for Parallel Processing (**ICA3PP**), 2015.
-
-* Jinjun Liu, Dan Feng, Yu Hua, Bin Peng, **Pengfei Zuo**, "Application-aware Video-Sharing Services via Provenance in Cloud Storage", Proceedings of the 33rd IEEE International Performance Computing and Communications Conference (**IPCCC**), 2014.
+* Yuanyuan Sun, Yu Hua, Dan Feng, Ling Yang, **Pengfei Zuo**, Shunde Cao, "[MinCounter: An Efficient Cuckoo Hashing Scheme for Cloud Storage Systems](https://csyhua.github.io/csyhua/hua-MSST2015.pdf)", Proceedings of the 31st International Conference on Massive Storage Systems and Technology (**MSST**), 2015.
 
 
 
