@@ -15,7 +15,7 @@ categories: NVM Simulator
 
 Quartz的代码已开源在GitHub上，可以直接下载：
 
-    wget https://github.com/HewlettPackard/quartz.git
+    git clone https://github.com/HewlettPackard/quartz.git
 	
 Quartz的安装需要一些依赖库，可以运行其提供的`install.sh`文件自动安装所有的依赖库：
 
