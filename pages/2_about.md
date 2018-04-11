@@ -27,7 +27,7 @@ permalink: /about/
 
 * **Pengfei Zuo**, Yu Hua, Cong Wang, Wen Xia, Shunde Cao, Yukun Zhou, Yuanyuan Sun, "[Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage](https://csyhua.github.io/csyhua/hua-ipdps2018.pdf)", in Proceedings of the 32nd IEEE International Parallel and Distributed Processing Symposium (**IPDPS**), 2018.
 
-* **Pengfei Zuo** and Yu Hua, "[A Write-friendly and Cache-optimized Hashing Scheme for Non-volatile Memory Systems](https://csyhua.github.io/csyhua/hua-tpds2018-nvm.pdf)", IEEE Transactions on Parallel and Distributed Systems (TPDS), Vol.29, No.5, May 2018, pages: 985-998.
+* **Pengfei Zuo** and Yu Hua, "[A Write-friendly and Cache-optimized Hashing Scheme for Non-volatile Memory Systems](https://csyhua.github.io/csyhua/hua-tpds2018-nvm.pdf)", IEEE Transactions on Parallel and Distributed Systems (**TPDS**), Vol.29, No.5, May 2018, pages: 985-998.
 
 * Yuncheng Guo, Yu Hua, **Pengfei Zuo**, "[DFPC: A Dynamic Frequent Pattern Compression Scheme in NVM-based Main Memory](https://csyhua.github.io/csyhua/hua-dfpc-date2018.pdf)", in Proceedings of the 21st Design Automation and Test in Europe (**DATE**), 2018.
 
