@@ -24,6 +24,7 @@ permalink: /about/
 
 ---
 
+* **Pengfei Zuo** and Yu Hua, "[SecPM: a Secure and Persistent Memory System for Non-volatile Memory](https://www.usenix.org/conference/hotstorage18)", in Proceedings of 10th USENIX Workshop on Hot Topics in Storage and File Systems (**HotStorage**), 2018.
 
 * **Pengfei Zuo**, Yu Hua, Cong Wang, Wen Xia, Shunde Cao, Yukun Zhou, Yuanyuan Sun, "[Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage](https://csyhua.github.io/csyhua/hua-ipdps2018.pdf)", in Proceedings of the 32nd IEEE International Parallel and Distributed Processing Symposium (**IPDPS**), 2018.
 
