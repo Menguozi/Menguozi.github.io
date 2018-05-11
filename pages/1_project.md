@@ -13,7 +13,7 @@ permalink: /project/
 
 ## Non-volatile Memory 
 
-* ** SecPM: a Secure and Persistent Memory System for Non-volatile Memory
+* ** SecPM: a Secure and Persistent Memory System for Non-volatile Memory**
 * In the non-volatile memory, ensuring the security and correctness of persistent data is fundamental. However, the security and persistence issues are usually studied independently in existing work. To achieve both data security and persistence, simply combining existing persistence schemes with memory encryption is inefficient due to crash inconsistency and significant performance degradation. To bridge the gap between security and persistence, this paper proposes SecPM, a Secure and Persistent Memory system, which consists of a counter cache write-through (CWT) scheme and a locality-aware counter write reduction (CWR) scheme. Specifically, SecPM leverages the CWT scheme to guarantee the crash consistency via ensuring both the data and its counter are durable before the data flush completes, and leverages the CWR scheme to improve the performance via exploiting the spatial locality of counter storage, log and data writes. Preliminary experimental results demonstrate that SecPM significantly reduces the number of write requests and improves the transaction throughput by using the CWR scheme.
 
 * **Path Hashing: A Write-friendly Hashing Scheme for Non-volatile Memory Systems**
