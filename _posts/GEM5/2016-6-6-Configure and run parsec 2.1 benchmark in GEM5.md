@@ -15,7 +15,7 @@ categories: GEM5 Benchmark Simulator
 2. 下载初始的系统文件，并解压，再重命名文件夹（重命名可选）
 
         wget http://www.m5sim.org/dist/current/m5_system_2.0b3.tar.bz2
-		tar jxf m5_system_2.0b3.tar.bz2
+		tar jxvf m5_system_2.0b3.tar.bz2
 	    mv m5_system_2.0b3 system
 	
 	解压后，文件的目录结构如下：
