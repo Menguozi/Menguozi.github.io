@@ -145,7 +145,7 @@ zlib一般系统自带，使用 `whereis zlib` 查看安装位置，如果系统
 2. 下载X86的disk image, 并解压
 
         wget http://www.m5sim.org/dist/current/x86/x86-system.tar.bz2
-        tar jxf x86-system.tar.bz2
+        tar jxvf x86-system.tar.bz2
 	
 
 3. 	进入gem5文件夹，修改两个配置文件: SysPaths.py 和 Benckmarks.py
