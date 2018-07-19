@@ -36,8 +36,6 @@ permalink: /about/
 
 * Yuanyuan Sun, Yu Hua, Shunde Cao, **Pengfei Zuo**, "[DLSH: A Distribution-aware LSH Scheme for Approximate Nearest Neighbor Query in Cloud Computing](https://csyhua.github.io/csyhua/hua-socc17.pdf)", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017.
 
-* **Pengfei Zuo**, Yu Hua, Cong Wang, Wen Xia, Shunde Cao, Yukun Zhou, Yuanyuan Sun, "[Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage](dl.acm.org/citation.cfm?id=3132688)", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017. (*Abstract Only*)
-
 * Yuanyuan Sun, Yu Hua, Song Jiang, Qiuyu Li, Shunde Cao, **Pengfei Zuo**, "[SmartCuckoo: A Fast and Cost-Efficient Hashing Index Scheme for Cloud Storage Systems](https://csyhua.github.io/csyhua/hua-atc2017.pdf)", in Proceedings of USENIX Annual Technical Conference (**USENIX ATC**), 2017.
 
 * **Pengfei Zuo** and Yu Hua, "[A Write-friendly Hashing Scheme for Non-volatile Memory Systems](https://csyhua.github.io/csyhua/hua-MSST2017-NVM.pdf)", in Proceedings of the 33rd International Conference on Massive Storage Systems and Technology (**MSST**), 2017.
@@ -59,6 +57,9 @@ permalink: /about/
 ### WiPs and Posters 
 
 ---
+
+* **Pengfei Zuo**, Yu Hua, Cong Wang, Wen Xia, Shunde Cao, Yukun Zhou, Yuanyuan Sun, "[Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage](dl.acm.org/citation.cfm?id=3132688)", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017. (*Abstract Only*)
+
 * **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, Yuanyuan Sun, "Enhancing Lifetime and Performance of Non-Volatile Memories through Eliminating Duplicate Writes", Work-in-Progress Report and Poster in USENIX Conference on File and Storage Technologies (**FAST**), 2017.
 
 * Yuanyuan Sun, Yu Hua, Song Jiang, Qiuyu Li, Shunde Cao, **Pengfei Zuo**, "A Fast and Cost-Efficient Hashing Index Scheme for Cloud Storage Systems",  Work-in-Progress Report and Poster in USENIX Conference on File and Storage Technologies (**FAST**), 2017.
