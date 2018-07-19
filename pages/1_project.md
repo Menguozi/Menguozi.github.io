@@ -33,4 +33,4 @@ permalink: /project/
 
 
 
-**-- Some projects are not posted here due to their papers being reviewed in double-blind conferences.**
+**-- Some projects are not posted here since their papers are being reviewed in double-blind conferences.**
