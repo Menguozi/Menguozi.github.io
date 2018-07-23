@@ -29,6 +29,9 @@ permalink: /about/
 
 * **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes", in Proceedings of the 51st IEEE/ACM International Symposium on Microarchitecture ([**MICRO**](https://www.microarch.org/micro51/)), 2018.
 
+
+*  **Pengfei Zuo**, Yu Hua, Yuanyuan Sun, Xue Liu, Jie Wu, Yuncheng Guo, Wen Xia, Shunde Cao, Dan Feng, "Bandwidth and Energy Efficient Image Sharing for Situation Awareness in Disasters", Accepted and to appear in IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2018.
+
 * **Pengfei Zuo** and Yu Hua, "[SecPM: a Secure and Persistent Memory System for Non-volatile Memory](https://csyhua.github.io/csyhua/hua-hotstorage2018.pdf)", in Proceedings of 10th USENIX Workshop on Hot Topics in Storage and File Systems (**HotStorage**), 2018.
 
 * **Pengfei Zuo**, Yu Hua, Cong Wang, Wen Xia, Shunde Cao, Yukun Zhou, Yuanyuan Sun, "[Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage](https://csyhua.github.io/csyhua/hua-ipdps2018.pdf)", in Proceedings of the 32nd IEEE International Parallel and Distributed Processing Symposium (**IPDPS**), 2018.
