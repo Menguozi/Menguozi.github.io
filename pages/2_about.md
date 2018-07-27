@@ -16,9 +16,9 @@ permalink: /about/
 ### Biography
 
  
-| <br> Pengfei Zuo is a fourth year PhD student in Huazhong University of <br>Science and Technology advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html), and will be <br>a visiting PhD student in University of California, Santa Barbara advised <br>by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). He obtained the BE <br>degree in computer science and technology from Huazhong University <br>of Science and Technology in 2014. <br>His research interests include: <br> &emsp;**\*** Non-volatile Memory <br>&emsp;&emsp;&emsp;- Data storage & indexing, security and endurance issues; <br> &emsp;**\*** Data & Image Deduplication <br>&emsp;&emsp;&emsp;- Performance and security issues; <br> &emsp;**\***	Software & Hardware Co-design Leveraging Deduplication and NVM <br> <br> **Email:** pfzuo@hust.edu.cn  <br> <br>  | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
+| <br> Pengfei Zuo is a fourth-year PhD student in Huazhong University of <br>Science and Technology advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html), and will be a visiting <br>PhD student in University of California, Santa Barbara advised <br>by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). He obtained the BE degree in computer science <br>and technology from Huazhong University of Science and Technology <br>in 2014. <br>His research interests include: <br> &emsp;**\*** Non-volatile Memory <br>&emsp;&emsp;&emsp;- Data storage & indexing, security and endurance issues; <br> &emsp;**\*** Data & Image Deduplication <br>&emsp;&emsp;&emsp;- Performance and security issues; <br> &emsp;**\***	Software & Hardware Co-design Leveraging Deduplication and NVM <br> <br> **Email:** pfzuo@hust.edu.cn  <br> <br>  | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
 
-<br> 
+
 
 ### Publications
 
@@ -58,7 +58,6 @@ permalink: /about/
 
 
 
-<br> 
 
 ### WiPs and Posters 
 
@@ -72,7 +71,7 @@ permalink: /about/
 
 * **Pengfei Zuo**, Yu Hua, Dan Feng, Zhenhua Nie, Min Fu, Yuanyuan Sun, "E-STORE: An Energy-constrained Smartphone Storage for Near Real-time Disaster Image Sharing", Poster in the 13rd USENIX Conference on File and Storage Technologies (**FAST**), 2015.
 
-<br> 
+
 
 ### Awards 
 
