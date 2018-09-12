@@ -63,7 +63,7 @@ permalink: /about/
 
 ---
 
-* **Pengfei Zuo**, Yu Hua, Cong Wang, Wen Xia, Shunde Cao, Yukun Zhou, Yuanyuan Sun, "[Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage](dl.acm.org/citation.cfm?id=3132688)", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017. (*Abstract Only*)
+* **Pengfei Zuo**, Yu Hua, Cong Wang, Wen Xia, Shunde Cao, Yukun Zhou, Yuanyuan Sun, "[Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage](https://dl.acm.org/citation.cfm?id=3132688)", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017. (*Abstract Only*)
 
 * **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, Yuanyuan Sun, "Enhancing Lifetime and Performance of Non-Volatile Memories through Eliminating Duplicate Writes", Work-in-Progress Report and Poster in USENIX Conference on File and Storage Technologies (**FAST**), 2017.
 
