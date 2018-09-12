@@ -27,7 +27,7 @@ permalink: /about/
 * **Pengfei Zuo**, Yu Hua, Jie Wu, "Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory", in Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation ([**OSDI**](https://www.usenix.org/conference/osdi18)), 2018.
 
 
-* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes", in Proceedings of the 51st IEEE/ACM International Symposium on Microarchitecture ([**MICRO**](https://www.microarch.org/micro51/)), 2018.
+* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](https://csyhua.github.io/csyhua/hua-MICRO2018.pdf)", in Proceedings of the 51st IEEE/ACM International Symposium on Microarchitecture ([**MICRO**](https://www.microarch.org/micro51/)), 2018.
 
 
 *  **Pengfei Zuo**, Yu Hua, Yuanyuan Sun, Xue Liu, Jie Wu, Yuncheng Guo, Wen Xia, Shunde Cao, Dan Feng, "[Bandwidth and Energy Efficient Image Sharing for Situation Awareness in Disasters](https://csyhua.github.io/csyhua/hua-tpds2018-bandwidth.pdf)", Accepted and to appear in IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2018.
@@ -76,7 +76,7 @@ permalink: /about/
 ### Awards 
 
 ---
-*  National Scholarship for Graduate Students, 2017
+*  National Scholarship for Ph.D. Graduate Students, 2017
 *  Excellent Graduate Student, 2017
 *  Excellent Graduate Student, 2016
 *  ZhiXing Excellent Graduate Scholarship, 2015
@@ -84,4 +84,13 @@ permalink: /about/
 *  Award of Excellent B.E. Thesis in Hubei Province, 2014
 
 
+### Talks
 
+---
+* 09/2018: "Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory", Invited Talk in the 24th National Conference of Information Storage (NCIS), Beijing, China.
+* 04/2018: "A Write-friendly and Cache-optimized Hashing Scheme for Non-volatile Memory Systems", Invited Talk in the Aliyun-CCF Excellent Paper Exchange Meeting, Shanghai Jiaotong University, Shanghai, China.
+* 09/2017: "A Write-friendly Hashing Scheme for Non-volatile Memory Systems", Invited Talk in the 23th National Conference of Information Storage (NCIS), Northwestern Polytechnical University, Xi'an, China.
+* 06/2017: "BEES: Bandwidth- and Energy- Efficient Image Sharing for Real-time Situation Awareness", Paper Presentation in the 37th International Conference on Distributed Computing Systems (ICDCS), Atlanta, USA.
+* 05/2017: "A Write-friendly Hashing Scheme for Non-volatile Memory Systems", Paper Presentation in the 33rd International Conference on Massive Storage Systems and Technology (MSST), Santa Clara University, San Jose, USA.
+* 05/2017: "A Cost-efficient Rewriting Scheme to Improve Restore Performance in Deduplication Systems", Paper Presentation in the 33rd International Conference on Massive Storage Systems and Technology (MSST), Santa Clara University, San Jose, USA.
+* 06/2015: "An Efficient Cuckoo Hashing Scheme for Cloud Storage Systems", Invited Talk in the 8th ChinaSys workshop, Xiamen University, Xiamen, China.
