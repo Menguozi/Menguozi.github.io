@@ -16,7 +16,7 @@ permalink: /about/
 ### Biography
 
  
-| <br> **Pengfei Zuo** is currently a PhD student in Huazhong University of <br>Science and Technology advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html), and will be a visiting <br>PhD student in University of California, Santa Barbara advised by <br>[Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). He obtained the BE degree in computer science and <br>technology from Huazhong University of Science and Technology <br>in 2014. His papers have been published in major international <br>conferences and journals, including OSDI, MICRO, USENIX ATC, SoCC, <br>ICDCS, IPDPS, MSST, DATE, HotStorage, etc. <br>His research interests include: <br> &emsp;**\*** Non-volatile Memory Architecture and System <br>&emsp;&emsp;&emsp;- Hardware layer: endurance, security, persistence <br>&emsp;&emsp;&emsp;- Software layer: data structure, index, storage, consistency <br> &emsp;**\*** Data Deduplication System <br>&emsp;&emsp;&emsp;- Performance improvement, security guarantee <br>&emsp;&emsp;&emsp;- Deduplication schemes for main memory, SSD, and HDD <br> &emsp;**\*** Key-Value Store <br>&emsp;&emsp;&emsp;- In-memory KV store <br>&emsp;&emsp;&emsp;- LSM-tree based KV store <br> &emsp;**\*** Software & Hardware Co-design Leveraging Deduplication and NVM <br> <br> **Email:** pfzuo@hust.edu.cn  <br> <br>  | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
+| <br> **Pengfei Zuo** is currently a PhD student in Huazhong University of <br>Science and Technology advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html), and will be a joint <br>PhD student in University of California, Santa Barbara advised by <br>[Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). He obtained the BE degree in computer science and <br>technology from Huazhong University of Science and Technology <br>in 2014. His papers have been published in major international <br>conferences and journals, including OSDI, MICRO, USENIX ATC, SoCC, <br>ICDCS, IPDPS, MSST, DATE, HotStorage, etc. <br>His research interests include: <br> &emsp;**\*** Non-volatile Memory Architecture and System <br>&emsp;&emsp;&emsp;- Hardware layer: endurance, security, persistence <br>&emsp;&emsp;&emsp;- Software layer: data structure, index, storage, consistency <br> &emsp;**\*** Data Deduplication System <br>&emsp;&emsp;&emsp;- Performance improvement, security guarantee <br>&emsp;&emsp;&emsp;- Deduplication schemes for main memory, SSD, and HDD <br> &emsp;**\*** Key-Value Store <br>&emsp;&emsp;&emsp;- In-memory KV store <br>&emsp;&emsp;&emsp;- LSM-tree based KV store <br> &emsp;**\*** Software & Hardware Co-design Leveraging Deduplication and NVM <br> <br> **Email:** pfzuo@hust.edu.cn  <br> <br>  | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
 
 
 
@@ -24,11 +24,11 @@ permalink: /about/
 
 ---
 
+#### 2018
+
 * **Pengfei Zuo**, Yu Hua, Jie Wu, "Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory", in Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation ([**OSDI**](https://www.usenix.org/conference/osdi18)), 2018.
 
-
 * **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](https://csyhua.github.io/csyhua/hua-MICRO2018.pdf)", in Proceedings of the 51st IEEE/ACM International Symposium on Microarchitecture ([**MICRO**](https://www.microarch.org/micro51/)), 2018.
-
 
 *  **Pengfei Zuo**, Yu Hua, Yuanyuan Sun, Xue Liu, Jie Wu, Yuncheng Guo, Wen Xia, Shunde Cao, Dan Feng, "[Bandwidth and Energy Efficient Image Sharing for Situation Awareness in Disasters](https://csyhua.github.io/csyhua/hua-tpds2018-bandwidth.pdf)", Accepted and to appear in IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2018.
 
@@ -39,6 +39,8 @@ permalink: /about/
 * **Pengfei Zuo** and Yu Hua, "[A Write-friendly and Cache-optimized Hashing Scheme for Non-volatile Memory Systems](https://csyhua.github.io/csyhua/hua-tpds2018-nvm.pdf)", IEEE Transactions on Parallel and Distributed Systems (**TPDS**), Vol.29, No.5, May 2018, pages: 985-998.
 
 * Yuncheng Guo, Yu Hua, **Pengfei Zuo**, "[DFPC: A Dynamic Frequent Pattern Compression Scheme in NVM-based Main Memory](https://csyhua.github.io/csyhua/hua-dfpc-date2018.pdf)", in Proceedings of the 21st Design Automation and Test in Europe (**DATE**), 2018.
+
+#### 2017
 
 * Yuanyuan Sun, Yu Hua, Shunde Cao, **Pengfei Zuo**, "[DLSH: A Distribution-aware LSH Scheme for Approximate Nearest Neighbor Query in Cloud Computing](https://csyhua.github.io/csyhua/hua-socc17.pdf)", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017.
 
@@ -51,6 +53,8 @@ permalink: /about/
 * **Pengfei Zuo**, Yu Hua, Xue Liu, Dan Feng, Wen Xia, Shunde Cao, Jie Wu, Yuanyuan Sun, Yuncheng Guo, "[BEES: Bandwidth- and Energy- Efficient Image Sharing for Real-time Situation Awareness](https://csyhua.github.io/csyhua/hua-ICDCS2017.pdf)", in Proceedings of the 37th International Conference on Distributed Computing Systems (**ICDCS**), 2017.
 
 * Yuanyuan Sun, Yu Hua, Dan Feng, Ling Yang, **Pengfei Zuo**, Shunde Cao, Yuncheng Guo, "[A Collision-Mitigation Cuckoo Hashing Scheme for Large-scale Storage Systems](https://csyhua.github.io/csyhua/hua-TPDS2016.pdf)", IEEE Transactions on Parallel and Distributed Systems (**TPDS**), Vol.28, No.3, March 2017, pages: 619-632.
+
+#### 2016
 
 * Wen Zhou, Dan Feng, Yu Hua, Jingning Liu, Fangting Huang, **Pengfei Zuo**, "[Increasing Lifetime and Security of Phase-Change Memory with Endurance Variation](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7823831)", Proceedings of the IEEE International Conference on Parallel and Distributed Systems (**ICPADS**), 2016.
 
