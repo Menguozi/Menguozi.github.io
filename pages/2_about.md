@@ -91,10 +91,11 @@ permalink: /about/
 ### Talks
 
 ---
-* 09/2018: "Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory", Invited Talk in the 24th National Conference of Information Storage (NCIS), Beijing, China.
+* 09/2018: "Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory", Invited Talk in the 24th National Conference of Information Storage (NCIS'18), Beijing, China.
 * 04/2018: "A Write-friendly and Cache-optimized Hashing Scheme for Non-volatile Memory Systems", Invited Talk in the Aliyun-CCF Excellent Paper Exchange Meeting, Shanghai Jiaotong University, Shanghai, China.
-* 09/2017: "A Write-friendly Hashing Scheme for Non-volatile Memory Systems", Invited Talk in the 23th National Conference of Information Storage (NCIS), Northwestern Polytechnical University, Xi'an, China.
-* 06/2017: "BEES: Bandwidth- and Energy- Efficient Image Sharing for Real-time Situation Awareness", Paper Presentation in the 37th International Conference on Distributed Computing Systems (ICDCS), Atlanta, USA.
-* 05/2017: "A Write-friendly Hashing Scheme for Non-volatile Memory Systems", Paper Presentation in the 33rd International Conference on Massive Storage Systems and Technology (MSST), Santa Clara University, San Jose, USA.
-* 05/2017: "A Cost-efficient Rewriting Scheme to Improve Restore Performance in Deduplication Systems", Paper Presentation in the 33rd International Conference on Massive Storage Systems and Technology (MSST), Santa Clara University, San Jose, USA.
+* 06/2018: "Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage", Paper Presentation in the 32nd IEEE International Parallel and Distributed Processing Symposium (IPDPS'18), Vancouver, Canada.
+* 09/2017: "A Write-friendly Hashing Scheme for Non-volatile Memory Systems", Invited Talk in the 23th National Conference of Information Storage (NCIS'17), Northwestern Polytechnical University, Xi'an, China.
+* 06/2017: "BEES: Bandwidth- and Energy- Efficient Image Sharing for Real-time Situation Awareness", Paper Presentation in the 37th International Conference on Distributed Computing Systems (ICDCS'17), Atlanta, USA.
+* 05/2017: "A Write-friendly Hashing Scheme for Non-volatile Memory Systems", Paper Presentation in the 33rd International Conference on Massive Storage Systems and Technology (MSST'17), Santa Clara University, San Jose, USA.
+* 05/2017: "A Cost-efficient Rewriting Scheme to Improve Restore Performance in Deduplication Systems", Paper Presentation in the 33rd International Conference on Massive Storage Systems and Technology (MSST'17), Santa Clara University, San Jose, USA.
 * 06/2015: "An Efficient Cuckoo Hashing Scheme for Cloud Storage Systems", Invited Talk in the 8th ChinaSys workshop, Xiamen University, Xiamen, China.
