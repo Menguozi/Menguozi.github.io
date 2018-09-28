@@ -26,7 +26,7 @@ permalink: /about/
 
 #### 2018
 
-* **Pengfei Zuo**, Yu Hua, Jie Wu, "Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory", in Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation ([**OSDI**](https://www.usenix.org/conference/osdi18)), 2018.
+* **Pengfei Zuo**, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](https://csyhua.github.io/csyhua/hua-OSDI2018.pdf)", in Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation ([**OSDI**](https://www.usenix.org/conference/osdi18)), 2018.
 
 * **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](https://csyhua.github.io/csyhua/hua-MICRO2018.pdf)", in Proceedings of the 51st IEEE/ACM International Symposium on Microarchitecture ([**MICRO**](https://www.microarch.org/micro51/)), 2018.
 
@@ -80,6 +80,8 @@ permalink: /about/
 ### Awards 
 
 ---
+*  Student Grant from OSDI, 2018.
+*  Student Grant from MICRO, 2018.
 *  National Scholarship for Ph.D. Graduate Students, 2017
 *  Excellent Graduate Student, 2017
 *  Excellent Graduate Student, 2016
