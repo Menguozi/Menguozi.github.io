@@ -94,6 +94,7 @@ permalink: /about/
 ### Talks
 
 ---
+
 |10/2018| "Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory", Paper Presentation in the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2018). |Carlsbad, USA
 |09/2018| "Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory", Invited Talk in the 24th National Conference of Information Storage (NCIS 2018). |Beijing, China
 |06/2018|"Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage", Paper Presentation in the 32nd IEEE International Parallel and Distributed Processing Symposium (IPDPS 2018). |Vancouver, Canada
