@@ -96,7 +96,7 @@ permalink: /about/
 ---
 
 |10/2018| "Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory", Paper Presentation in the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2018). |Carlsbad, USA
-|09/2018| "Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory", Invited Talk in the 24th National Conference of Information Storage (NCIS 2018). |Beijing, China
+|09/2018| "Write-Optimized and High-Performance Hashing Index Scheme for Non-volatile Memory", Invited Talk in the 24th National Conference of Information Storage (NCIS 2018). |Beijing, China
 |06/2018|"Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage", Paper Presentation in the 32nd IEEE International Parallel and Distributed Processing Symposium (IPDPS 2018). |Vancouver, Canada
 |04/2018|"A Write-friendly and Cache-optimized Hashing Scheme for Non-volatile Memory Systems", Invited Talk in the Aliyun-CCF Excellent Paper Exchange Meeting, Shanghai Jiaotong University. |Shanghai, China
 |09/2017 |"A Write-friendly Hashing Scheme for Non-volatile Memory Systems", Invited Talk in the 23th National Conference of Information Storage (NCIS 2017), Northwestern Polytechnical University. |Xi'an, China
