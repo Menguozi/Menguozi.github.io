@@ -26,9 +26,9 @@ permalink: /about/
 
 #### 2018
 
-* **Pengfei Zuo**, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](https://csyhua.github.io/csyhua/hua-OSDI2018.pdf)", in Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation ([**OSDI**](https://www.usenix.org/conference/osdi18)), 2018.
+* **Pengfei Zuo**, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](https://csyhua.github.io/csyhua/hua-OSDI2018.pdf)", in Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (**OSDI**), 2018. [slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_zuo.pdf)
 
-* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](https://csyhua.github.io/csyhua/hua-MICRO2018.pdf)", in Proceedings of the 51st IEEE/ACM International Symposium on Microarchitecture ([**MICRO**](https://www.microarch.org/micro51/)), 2018. [[video](https://youtu.be/CU-RVr8wOk0)]
+* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](https://csyhua.github.io/csyhua/hua-MICRO2018.pdf)", in Proceedings of the 51st IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2018. [[video](https://youtu.be/CU-RVr8wOk0)]
 
 *  **Pengfei Zuo**, Yu Hua, Yuanyuan Sun, Xue Liu, Jie Wu, Yuncheng Guo, Wen Xia, Shunde Cao, Dan Feng, "[Bandwidth and Energy Efficient Image Sharing for Situation Awareness in Disasters](https://csyhua.github.io/csyhua/hua-tpds2018-bandwidth.pdf)", Accepted and to appear in IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2018.
 
@@ -80,8 +80,9 @@ permalink: /about/
 ### Awards 
 
 ---
-*  Student Grant from OSDI, 2018.
-*  Student Grant from MICRO, 2018.
+*  National Scholarship for Ph.D. Graduate Students, 2018
+*  Student Grant from OSDI, 2018
+*  Student Grant from MICRO, 2018
 *  National Scholarship for Ph.D. Graduate Students, 2017
 *  Excellent Graduate Student, 2017
 *  Excellent Graduate Student, 2016
@@ -93,7 +94,7 @@ permalink: /about/
 ### Talks
 
 ---
-
+|10/2018| "Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory", Paper Presentation in the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2018). |Carlsbad, USA
 |09/2018| "Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory", Invited Talk in the 24th National Conference of Information Storage (NCIS 2018). |Beijing, China
 |06/2018|"Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage", Paper Presentation in the 32nd IEEE International Parallel and Distributed Processing Symposium (IPDPS 2018). |Vancouver, Canada
 |04/2018|"A Write-friendly and Cache-optimized Hashing Scheme for Non-volatile Memory Systems", Invited Talk in the Aliyun-CCF Excellent Paper Exchange Meeting, Shanghai Jiaotong University. |Shanghai, China
