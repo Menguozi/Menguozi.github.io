@@ -16,7 +16,7 @@ permalink: /about/
 ### Biography
 
  
-| <br> **Pengfei Zuo** is currently a PhD student in Huazhong University of <br>Science and Technology advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html), and will be a joint <br>PhD student in University of California, Santa Barbara advised by <br>[Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). He obtained the BE degree in computer science and <br>technology from Huazhong University of Science and Technology <br>in 2014. His papers have been published in major international <br>conferences and journals, including OSDI, MICRO, USENIX ATC, SoCC, <br>ICDCS, IPDPS, MSST, DATE, HotStorage, etc. <br>His research interests include: <br> &emsp;**\*** Non-volatile Memory Architecture and System <br>&emsp;&emsp;&emsp;- Hardware layer: endurance, security, persistence <br>&emsp;&emsp;&emsp;- Software layer: data structure, index, storage, consistency <br> &emsp;**\*** Data Deduplication System <br>&emsp;&emsp;&emsp;- Performance improvement, security guarantee <br>&emsp;&emsp;&emsp;- Deduplication schemes for main memory, SSD, and HDD <br> &emsp;**\*** Key-Value Store <br>&emsp;&emsp;&emsp;- In-memory KV store <br>&emsp;&emsp;&emsp;- LSM-tree based KV store <br> &emsp;**\*** Software & Hardware Co-design Leveraging Deduplication and NVM <br> <br> **Email:** pfzuo@hust.edu.cn  <br> <br>  | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
+| <br> **Pengfei Zuo** is currently a PhD student in Huazhong University of <br>Science and Technology advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html), and a joint PhD<br> student in University of California, Santa Barbara advised by <br>[Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). He obtained the BE degree in computer science and <br>technology from Huazhong University of Science and Technology <br>in 2014. His papers have been published in major international <br>conferences and journals, including OSDI, MICRO, USENIX ATC, SoCC, <br>ICDCS, IPDPS, MSST, DATE, HotStorage, etc. <br>His research interests include: <br> &emsp;**\*** Non-volatile Memory Architecture and System <br>&emsp;&emsp;&emsp;- Hardware layer: endurance, security, persistence <br>&emsp;&emsp;&emsp;- Software layer: data structure, index, storage, consistency <br> &emsp;**\*** Data Deduplication System <br>&emsp;&emsp;&emsp;- Performance improvement, security guarantee <br>&emsp;&emsp;&emsp;- Deduplication schemes for main memory, SSD, and HDD <br> &emsp;**\*** Key-Value Store <br>&emsp;&emsp;&emsp;- In-memory KV store <br>&emsp;&emsp;&emsp;- LSM-tree based KV store <br> &emsp;**\*** Software & Hardware Co-design Leveraging Deduplication and NVM <br> <br> **Email:** pfzuo@hust.edu.cn  <br> <br>  | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
 
 
 
@@ -84,10 +84,8 @@ permalink: /about/
 *  Student Grant from OSDI, 2018
 *  Student Grant from MICRO, 2018
 *  National Scholarship for Ph.D. Graduate Students, 2017
-*  Excellent Graduate Student, 2017
-*  Excellent Graduate Student, 2016
 *  ZhiXing Excellent Graduate Scholarship, 2015
-*  Excellent Graduate Student, 2015
+*  Excellent Graduate Student, 2015, 2016, 2017, and 2018
 *  Award of Excellent B.E. Thesis in Hubei Province, 2014
 
 
@@ -95,6 +93,7 @@ permalink: /about/
 
 ---
 
+|10/2018| "Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes", Paper Presentation in the  51st International Symposium on Microarchitecture (MICRO 2018). |Fukuoka, Japan
 |10/2018| "Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory", Paper Presentation in the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2018). |Carlsbad, USA
 |09/2018| "Write-Optimized and High-Performance Hashing Index Scheme for Non-volatile Memory", Invited Talk in the 24th National Conference of Information Storage (NCIS 2018). |Beijing, China
 |06/2018|"Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage", Paper Presentation in the 32nd IEEE International Parallel and Distributed Processing Symposium (IPDPS 2018). |Vancouver, Canada
