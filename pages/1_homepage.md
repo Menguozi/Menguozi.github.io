@@ -2,7 +2,7 @@
 layout: page
 title: Homepage
 comments: true
-permalink: /about/
+permalink: /homepage/
 
 ---
 
