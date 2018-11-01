@@ -1,8 +1,9 @@
 ---
 layout: page
-title: About
+title: Homepage
 comments: true
 permalink: /about/
+
 ---
 
 * content
