@@ -22,9 +22,13 @@ permalink: /homepage/
 
 ---
 
+#### 2019
+* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "Write Deduplication and Hash Mode Encryption for Secure Non-volatile Main Memory", Accepted and to appear in **IEEE Micro**, 2019.
+
+* Yuncheng Guo, Yu Hua, **Pengfei Zuo**,"A Latency-optimized and Energy-efficient Write Scheme in NVM-based Main Memory", Accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2019.
+
 #### 2018
 
-* Yuncheng Guo, Yu Hua, **Pengfei Zuo**,"A Latency-optimized and Energy-efficient Write Scheme in NVM-based Main Memory", Accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**).
 
 * **Pengfei Zuo**, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](https://csyhua.github.io/csyhua/hua-OSDI2018.pdf)", in Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (**OSDI**), 2018. <br>
 [[slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_zuo.pdf)] [[codes](https://github.com/Pfzuo/Level-Hashing)]
