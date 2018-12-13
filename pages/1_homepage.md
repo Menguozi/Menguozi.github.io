@@ -23,20 +23,25 @@ permalink: /homepage/
 ---
 
 #### 2019
+
+
 * **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "Write Deduplication and Hash Mode Encryption for Secure Non-volatile Main Memory", Accepted and to appear in **IEEE Micro**, 2019.
 
 * Yuncheng Guo, Yu Hua, **Pengfei Zuo**,"A Latency-optimized and Energy-efficient Write Scheme in NVM-based Main Memory", Accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2019.
+
+*  **Pengfei Zuo**, Yu Hua, Yuanyuan Sun, Xue Liu, Jie Wu, Yuncheng Guo, Wen Xia, Shunde Cao, Dan Feng, "[Bandwidth and Energy Efficient Image Sharing for Situation Awareness in Disasters](https://csyhua.github.io/csyhua/hua-tpds2018-bandwidth.pdf)", in IEEE Transactions on Parallel and Distributed Systems (**TPDS**), vol. 30, no. 1, pp. 15-28, 1 Jan. 2019.
+
+* Jie Wu, Yu Hua, **Pengfei Zuo** and Yuanyuan Sun, "[Improving Restore Performance in Deduplication Systems via a Cost-Efficient Rewriting Scheme](https://csyhua.github.io/csyhua/hua-tpds2018-dedup.pdf)," in IEEE Transactions on Parallel and Distributed Systems (**TPDS**), vol. 30, no. 1, pp. 119-132, 1 Jan. 2019.
+
 
 #### 2018
 
 
 * **Pengfei Zuo**, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](https://csyhua.github.io/csyhua/hua-OSDI2018.pdf)", in Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (**OSDI**), 2018. <br>
-[[slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_zuo.pdf)] [[codes](https://github.com/Pfzuo/Level-Hashing)]
+[[slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_zuo.pdf)] [[code](https://github.com/Pfzuo/Level-Hashing)]
 
 * **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](https://csyhua.github.io/csyhua/hua-MICRO2018.pdf)", in Proceedings of the 51st IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2018. <br>
-[[video](https://youtu.be/CU-RVr8wOk0)]
-
-*  **Pengfei Zuo**, Yu Hua, Yuanyuan Sun, Xue Liu, Jie Wu, Yuncheng Guo, Wen Xia, Shunde Cao, Dan Feng, "[Bandwidth and Energy Efficient Image Sharing for Situation Awareness in Disasters](https://csyhua.github.io/csyhua/hua-tpds2018-bandwidth.pdf)", Accepted and to appear in IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2018.
+[[slides](https://csyhua.github.io/csyhua/hua-micro2018-slides.pdf)][[video](https://youtu.be/CU-RVr8wOk0)]
 
 * **Pengfei Zuo** and Yu Hua, "[SecPM: a Secure and Persistent Memory System for Non-volatile Memory](https://csyhua.github.io/csyhua/hua-hotstorage2018.pdf)", in Proceedings of 10th USENIX Workshop on Hot Topics in Storage and File Systems (**HotStorage**), 2018.
 
