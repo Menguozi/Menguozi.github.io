@@ -25,9 +25,9 @@ permalink: /homepage/
 #### 2019
 
 
-* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "Write Deduplication and Hash Mode Encryption for Secure Non-volatile Main Memory", Accepted and to appear in **IEEE Micro**, 2019.
+* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Write Deduplication and Hash Mode Encryption for Secure Non-volatile Main Memory](https://csyhua.github.io/csyhua/hua-IEEE-micro.pdf)", Accepted and to appear in **IEEE Micro**, 2019.
 
-* Yuncheng Guo, Yu Hua, **Pengfei Zuo**,"A Latency-optimized and Energy-efficient Write Scheme in NVM-based Main Memory", Accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2019.
+* Yuncheng Guo, Yu Hua, **Pengfei Zuo**,"[A Latency-optimized and Energy-efficient Write Scheme in NVM-based Main Memory](https://csyhua.github.io/csyhua/hua-tcad2018-nvm.pdf)", Accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2019.
 
 *  **Pengfei Zuo**, Yu Hua, Yuanyuan Sun, Xue Liu, Jie Wu, Yuncheng Guo, Wen Xia, Shunde Cao, Dan Feng, "[Bandwidth and Energy Efficient Image Sharing for Situation Awareness in Disasters](https://csyhua.github.io/csyhua/hua-tpds2018-bandwidth.pdf)", in IEEE Transactions on Parallel and Distributed Systems (**TPDS**), vol. 30, no. 1, pp. 15-28, 1 Jan. 2019.
 
