@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: GPU Machine-Learning
+categories: GPU Machine-Learning Simulator
 
 ---
 
