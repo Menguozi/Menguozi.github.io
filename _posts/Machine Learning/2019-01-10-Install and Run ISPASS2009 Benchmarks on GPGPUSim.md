@@ -22,15 +22,41 @@ There may be some errors during the installing. That is all right.
     cd ~/NVIDIA_GPU_Computing_SDK
 	make
 	
-If during the building, the error `/usr/bin/ld: cannot find -lOpenCL collect2: ld returned 1 exit status ../../common/common_opencl.mk:254: recipe for target '../../..//OpenCL//bin//linux/release/oclPostprocessGL' failed` occurs, make the following modifications:
+During the building, if the error `/usr/bin/ld: cannot find -lOpenCL collect2: ld returned 1 exit status ../../common/common_opencl.mk:254: recipe for target '../../..//OpenCL//bin//linux/release/oclPostprocessGL' failed` occurs, make the following modifications:
 
 &nbsp;&nbsp;&nbsp;&nbsp; (a) Edit `./C/common/common.mk`, lines like `LIB += … ${OPENGLLIB} …. $(RENDERCHECKGLLIB) …` should have `$(RENDERCHECKGLLIB)` moved before `${OPENGLLIB}`. There are 3 lines like this.
+    
+	LIB += $(RENDERCHECKGLLIB) ${OPENGLLIB} $(PARAMGLLIB) $(CUDPPLIB) ${LIB} -ldl -rdynamic
+	LIB += -lcuda   $(RENDERCHECKGLLIB) ${OPENGLLIB} $(PARAMGLLIB) $(CUDPPLIB) ${LIB}
+	LIB += $(RENDERCHECKGLLIB) ${OPENGLLIB} $(PARAMGLLIB) $(CUDPPLIB) ${LIB}
 
-&nbsp;&nbsp;&nbsp;&nbsp; (b) Similarly, edit `./CUDALibraries/common/common_cudalib.mk`
+
+&nbsp;&nbsp;&nbsp;&nbsp; (b) Similarly, edit `./CUDALibraries/common/common.mk`
 
 &nbsp;&nbsp;&nbsp;&nbsp; (c) `cd ~/NVIDIA_GPU_Computing_SDK`
 
 &nbsp;&nbsp;&nbsp;&nbsp; (d) Edit `Makefile`. Comment all lines with `CUDALibraries` and `OpenCL` as we only want the application binaries. You comment by placing `#` in the front of the line.
+    
+	# GPU Computing SDK Version 4.0.8
+    all:
+        @$(MAKE) -C ./shared
+        @$(MAKE) -C ./C
+        #@$(MAKE) -C ./CUDALibraries
+        #@$(MAKE) -C ./OpenCL
+
+    clean:
+        @$(MAKE) -C ./shared clean
+        @$(MAKE) -C ./C clean
+        #@$(MAKE) -C ./CUDALibraries clean
+        #@$(MAKE) -C ./OpenCL clean
+
+    clobber:
+        @$(MAKE) -C ./shared clobber
+        @$(MAKE) -C ./C clobber
+        #@$(MAKE) -C ./CUDALibraries clobber
+        #@$(MAKE) -C ./OpenCL clobber
+
+    
 
 &nbsp;&nbsp;&nbsp;&nbsp; (e) `make`
 
