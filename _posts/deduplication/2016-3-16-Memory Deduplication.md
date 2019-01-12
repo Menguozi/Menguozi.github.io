@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Memory Deduplication
 comments: true
 categories: Deduplication 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+title: Configure Gem5 with NVMain to Simulate Non valotile Memory
 categories: GEM5 NVMain Simulator NVM
 
 ---

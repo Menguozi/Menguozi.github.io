@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Compile and Debug PARSEC-3.0 in Red Hat
 comments: true
 categories:  Benchmark 
 

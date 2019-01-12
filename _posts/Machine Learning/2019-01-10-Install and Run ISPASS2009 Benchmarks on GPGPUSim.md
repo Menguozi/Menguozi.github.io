@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+title: Install and Run ISPASS2009-benchmarks on GPGPU-Sim
 categories: GPU Machine-Learning Benchmark
 
 ---

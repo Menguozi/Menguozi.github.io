@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+title: Configure and Run PARSEC-2.1 Benchmark in Gem5
 categories: GEM5 Benchmark Simulator
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Evaluate the performance of KSM in the Linux kernel-based virtual machine (KVM)
+title: Evaluate the Performance of KSM in the Linux Kernel-based Virtual Machine (KVM)
 comments: true
 categories: Deduplication 
 

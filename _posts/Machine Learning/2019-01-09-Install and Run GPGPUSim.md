@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+title: Install and Run GPGPU-Sim
 categories: GPU Machine-Learning Simulator
 
 ---

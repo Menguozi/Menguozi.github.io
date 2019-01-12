@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Install and Run GEM5 in Unbuntu 14.04
 comments: true
 categories: GEM5 Simulator
 

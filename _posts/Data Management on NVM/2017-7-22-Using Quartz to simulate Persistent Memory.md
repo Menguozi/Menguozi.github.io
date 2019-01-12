@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+title: Using Quartz to Simulate Persistent Memory
 categories: NVM Simulator
 
 ---

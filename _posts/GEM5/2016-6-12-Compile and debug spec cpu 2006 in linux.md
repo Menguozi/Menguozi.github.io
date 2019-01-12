@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+title: Compile and Debug SPEC CPU2006 in Linux
 categories: Benchmark Simulator
 
 ---
