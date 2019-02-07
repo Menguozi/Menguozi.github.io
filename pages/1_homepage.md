@@ -26,7 +26,7 @@ permalink: /homepage/
 
 * **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final25.pdf)", in the 10-th Non-Volatile Memories Workshop (**NVMW**), 2019.
 
-* **Pengfei Zuo**, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final16.pdf)", in the 10-th Non-Volatile Memories Workshop (**NVMW**), 2019. <font color=red>(Memorable Paper Award Finalist)</font> 
+* **Pengfei Zuo**, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final16.pdf)", in the 10-th Non-Volatile Memories Workshop (**NVMW**), 2019. <span style="color:red">(Memorable Paper Award Finalist)</span>
 
 * **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Write Deduplication and Hash Mode Encryption for Secure Non-volatile Main Memory](https://csyhua.github.io/csyhua/hua-IEEE-micro.pdf)", Accepted and to appear in **IEEE Micro**, 2019.
 
