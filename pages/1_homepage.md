@@ -24,8 +24,12 @@ permalink: /homepage/
 
 #### 2019
 
+* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final25.pdf)", in the 10-th Non-Volatile Memories Workshop (**NVMW**), 2019.
+
+* **Pengfei Zuo**, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final16.pdf)", in the 10-th Non-Volatile Memories Workshop (**NVMW**), 2019. <font color=red>(Memorable Paper Award Finalist)</font> 
 
 * **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Write Deduplication and Hash Mode Encryption for Secure Non-volatile Main Memory](https://csyhua.github.io/csyhua/hua-IEEE-micro.pdf)", Accepted and to appear in **IEEE Micro**, 2019.
+
 
 * Yuncheng Guo, Yu Hua, **Pengfei Zuo**,"[A Latency-optimized and Energy-efficient Write Scheme in NVM-based Main Memory](https://csyhua.github.io/csyhua/hua-tcad2018-nvm.pdf)", Accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2019.
 
@@ -75,6 +79,8 @@ permalink: /homepage/
 ### WiPs and Posters 
 
 ---
+
+* Zhangyu Chen, Yu Hua, **Pengfei Zuo**, Yuanyuan Sun, Yuncheng Guo, "Efficient Similarity-aware Image Compression via Approximation for NVM-based Main Memory", Poster in the 10th Annual Non-volatile Memories Workshop (**NVMW**), 2019.
 
 * **Pengfei Zuo**, Yu Hua, Cong Wang, Wen Xia, Shunde Cao, Yukun Zhou, Yuanyuan Sun, "[Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage](https://dl.acm.org/citation.cfm?id=3132688)", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017. (*Abstract Only*)
 
