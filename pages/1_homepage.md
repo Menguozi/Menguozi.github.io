@@ -61,7 +61,8 @@ permalink: /homepage/
 
 * Yuanyuan Sun, Yu Hua, Song Jiang, Qiuyu Li, Shunde Cao, **Pengfei Zuo**, "[SmartCuckoo: A Fast and Cost-Efficient Hashing Index Scheme for Cloud Storage Systems](https://csyhua.github.io/csyhua/hua-atc2017.pdf)", in Proceedings of USENIX Annual Technical Conference (**USENIX ATC**), 2017.
 
-* **Pengfei Zuo** and Yu Hua, "[A Write-friendly Hashing Scheme for Non-volatile Memory Systems](https://csyhua.github.io/csyhua/hua-MSST2017-NVM.pdf)", in Proceedings of the 33rd International Conference on Massive Storage Systems and Technology (**MSST**), 2017.
+* **Pengfei Zuo** and Yu Hua, "[A Write-friendly Hashing Scheme for Non-volatile Memory Systems](https://csyhua.github.io/csyhua/hua-MSST2017-NVM.pdf)", in Proceedings of the 33rd International Conference on Massive Storage Systems and Technology (**MSST**), 2017.    
+[[Slides](http://storageconference.us/2017/Presentations/HashingSchemeForNonVolatileMemory-slides.pdf)] [[Code](https://github.com/Pfzuo/Path-Hashing)]
 
 * Jie Wu, Yu Hua, **Pengfei Zuo**, Yuanyuan Sun, "[A Cost-efficient Rewriting Scheme to Improve Restore Performance in Deduplication Systems](https://csyhua.github.io/csyhua/hua-MSST2017-dedup.pdf)", in Proceedings of the 33rd International Conference on Massive Storage Systems and Technology (**MSST**), 2017.
 
