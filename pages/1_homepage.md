@@ -95,11 +95,12 @@ permalink: /homepage/
 ### Awards 
 
 ---
-*  National Scholarship for Ph.D. Graduate Students, 2018
+*  Finalist for the Memorable Paper Award in [NVMW 2019](http://nvmw.ucsd.edu/)
+*  National Scholarship for Ph.D. Graduate Students, 2018 (CN¥30,000)
 *  Student Grant from OSDI, 2018
 *  Student Grant from MICRO, 2018
-*  National Scholarship for Ph.D. Graduate Students, 2017
-*  ZhiXing Excellent Graduate Scholarship, 2015
+*  National Scholarship for Ph.D. Graduate Students, 2017 (CN¥30,000)
+*  ZhiXing Excellent Graduate Scholarship, 2015 (CN¥1,000)
 *  Excellent Graduate Student, 2015, 2016, 2017, and 2018
 *  Award of Excellent B.E. Thesis in Hubei Province, 2014
 
