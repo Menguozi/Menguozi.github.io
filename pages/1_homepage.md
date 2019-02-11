@@ -15,7 +15,7 @@ permalink: /homepage/
  
 ### Biography
  
-| <br> **Pengfei Zuo** is currently a PhD student in Huazhong University of <br>Science and Technology (HUST) advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html), and a joint<br> PhD student in University of California, Santa Barbara (UCSB) advised<br> by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). He obtained the BE degree in computer science and <br>technology from HUST in 2014. His papers have been published in<br> major international conferences and journals, including OSDI, MICRO, <br>USENIX ATC, SoCC, ICDCS, IPDPS, MSST, DATE, HotStorage, TPDS, <br>TCAD, etc. <br>His research interests include: <br> &emsp;**\*** Non-volatile Memory System and Architecture <br>&emsp;&emsp;&emsp;- Hardware layer: endurance, security, persistence <br>&emsp;&emsp;&emsp;- Software layer: data structure, index, storage, consistency <br> &emsp;**\*** Storage System <br>&emsp;&emsp;&emsp;- Data deduplication and compression <br>&emsp;&emsp;&emsp;- Key-value store <br> &emsp;&emsp;&emsp;- Security<br>  &emsp;**\*** Software & Hardware Co-design for Memory and Storage Systems  <br> <br> **Email:** <pfzuo@hust.edu.cn>, <pfzuo@ucsb.edu> <br> <br>  | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
+| <br> **Pengfei Zuo** is currently a PhD student in Huazhong University of <br>Science and Technology (HUST) advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html), and a joint<br> PhD student in University of California, Santa Barbara (UCSB) advised<br> by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). He obtained the BE degree in computer science and <br>technology from HUST in 2014. His papers have been published in<br> major international conferences and journals, including OSDI, MICRO, <br>USENIX ATC, SoCC, ICDCS, IPDPS, MSST, DATE, HotStorage, TPDS, <br>TCAD, etc. <br>His research interests include: <br> &emsp;**\*** Non-volatile Memory System and Architecture <br>&emsp;&emsp;&emsp;- Hardware layer: endurance, security, persistence <br>&emsp;&emsp;&emsp;- Software layer: data structure, index, storage, consistency <br> &emsp;**\*** Storage System <br>&emsp;&emsp;&emsp;- Data deduplication and compression <br>&emsp;&emsp;&emsp;- Key-value store <br> &emsp;&emsp;&emsp;- Security<br>  &emsp;**\*** Software & Hardware Co-design for Memory and Storage Systems  <br> <br> **Email:** <pfzuo@hust.edu.cn>, <pfzuo@ucsb.edu> <br> <br> **CV:** [CV-Pengfei-Zuo.pdf](https://pfzuo.github.io/images/CV-Pengfei-Zuo.pdf) <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
 
 
 ### Publications
@@ -101,7 +101,7 @@ permalink: /homepage/
 *  Student Grant from MICRO, 2018
 *  National Scholarship for Ph.D. Graduate Students, 2017 (CN¥30,000)
 *  ZhiXing Excellent Graduate Scholarship, 2015 (CN¥1,000)
-*  Excellent Graduate Student, 2015, 2016, 2017, and 2018
+*  Excellent Graduate Student in HUST, 2015, 2016, 2017, and 2018
 *  Award of Excellent B.E. Thesis in Hubei Province, 2014
 
 
