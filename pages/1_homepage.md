@@ -9,16 +9,13 @@ permalink: /homepage/
 * content
 {:toc}
 
-## Homepage
-
----
  
-### Biography
+## Biography
  
 | <br> **Pengfei Zuo** is currently a PhD student in Huazhong University of <br>Science and Technology (HUST) advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html), and a joint<br> PhD student in University of California, Santa Barbara (UCSB) advised<br> by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). He obtained the BE degree in computer science and <br>technology from HUST in 2014. His papers have been published in<br> major international conferences and journals, including OSDI, MICRO, <br>USENIX ATC, SoCC, ICDCS, IPDPS, MSST, DATE, HotStorage, TPDS, <br>TCAD, etc. <br>His research interests include: <br> &emsp;**\*** Non-volatile Memory System and Architecture <br>&emsp;&emsp;&emsp;- Hardware layer: endurance, security, persistence <br>&emsp;&emsp;&emsp;- Software layer: data structure, index, storage, consistency <br> &emsp;**\*** Storage System <br>&emsp;&emsp;&emsp;- Data deduplication and compression <br>&emsp;&emsp;&emsp;- Key-value store <br> &emsp;&emsp;&emsp;- Security<br>  &emsp;**\*** Software & Hardware Co-design for Memory and Storage Systems  <br> <br> **Email:** <pfzuo@hust.edu.cn>, <pfzuo@ucsb.edu>  &emsp; **CV:** [Pengfei-Zuo.pdf](https://pfzuo.github.io/images/CV-Pengfei-Zuo.pdf) <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
 
 
-### Publications
+## Publications
 
 ---
 
@@ -77,7 +74,7 @@ permalink: /homepage/
 * Yuanyuan Sun, Yu Hua, Dan Feng, Ling Yang, **Pengfei Zuo**, Shunde Cao, "[MinCounter: An Efficient Cuckoo Hashing Scheme for Cloud Storage Systems](https://csyhua.github.io/csyhua/hua-MSST2015.pdf)", Proceedings of the 31st International Conference on Massive Storage Systems and Technology (**MSST**), 2015.
 
 
-### WiPs and Posters 
+## WiPs and Posters 
 
 ---
 
@@ -92,7 +89,7 @@ permalink: /homepage/
 * **Pengfei Zuo**, Yu Hua, Dan Feng, Zhenhua Nie, Min Fu, Yuanyuan Sun, "E-STORE: An Energy-constrained Smartphone Storage for Near Real-time Disaster Image Sharing", Poster in the 13rd USENIX Conference on File and Storage Technologies (**FAST**), 2015.
 
 
-### Awards and Honors
+## Awards and Honors
 
 ---
 *  Finalist for the Memorable Paper Award in [NVMW 2019](http://nvmw.ucsd.edu/)
@@ -105,7 +102,7 @@ permalink: /homepage/
 *  Award of Excellent B.E. Thesis in Hubei Province, 2014
 
 
-### Talks
+## Talks
 
 ---
 
