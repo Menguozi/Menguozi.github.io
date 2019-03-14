@@ -21,9 +21,11 @@ permalink: /homepage/
 
 #### 2019
 
-* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final25.pdf)", in the 10-th Non-Volatile Memories Workshop (**NVMW**), 2019.
+* **Pengfei Zuo**, Yu Hua, Jie Wu,"Level Hashing: A High-performance and Flexible-resizing Persistent Hashing Index Structure", Accepted and to appear in ACM Transactions on Storage (**TOS**).
 
-* **Pengfei Zuo**, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final16.pdf)", in the 10-th Non-Volatile Memories Workshop (**NVMW**), 2019. <span style="color:red">(Memorable Paper Award Finalist)</span>
+* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final25.pdf)", in the 10th Non-Volatile Memories Workshop (**NVMW**), 2019.
+
+* **Pengfei Zuo**, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final16.pdf)", in the 10th Non-Volatile Memories Workshop (**NVMW**), 2019. <span style="color:red">(Memorable Paper Award Finalist)</span>
 
 * Yuncheng Guo, Yu Hua, **Pengfei Zuo**,"[A Latency-optimized and Energy-efficient Write Scheme in NVM-based Main Memory](https://csyhua.github.io/csyhua/hua-tcad2018-nvm.pdf)", Accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2019.
 
@@ -106,6 +108,7 @@ permalink: /homepage/
 
 ---
 
+|03/2019| "Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory", Presentation in the 10th Non-volatile Memory Workshop (NVMW 2019). |San Deigo, USA
 |10/2018| "Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes", Paper Presentation in the  51st International Symposium on Microarchitecture (MICRO 2018). |Fukuoka, Japan
 |10/2018| "Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory", Paper Presentation in the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2018). |Carlsbad, USA
 |09/2018| "Write-Optimized and High-Performance Hashing Index Scheme for Non-volatile Memory", Invited Talk in the 24th National Conference of Information Storage (NCIS 2018). |Beijing, China
