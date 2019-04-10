@@ -94,6 +94,7 @@ permalink: /homepage/
 ## Awards and Honors
 
 ---
+*  Shenzhen Stock Exchange Scholarship, 2019 (CN¥12,000)
 *  Finalist for the Memorable Paper Award in [NVMW 2019](http://nvmw.ucsd.edu/)
 *  National Scholarship for Ph.D. Graduate Students, 2018 (CN¥30,000)
 *  Student Grant from OSDI, 2018
