@@ -12,7 +12,7 @@ permalink: /homepage/
  
 ## Biography
  
-| <br> **Pengfei Zuo** is currently a PhD student in Huazhong University of <br>Science and Technology (HUST) advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html), and a joint<br> PhD student in University of California, Santa Barbara (UCSB) advised<br> by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). He obtained the BE degree in computer science and <br>technology from HUST in 2014. His papers have been published in<br> major international conferences and journals, including OSDI, MICRO, <br>USENIX ATC, SoCC, ICDCS, IPDPS, MSST, DATE, HotStorage, TPDS, <br>TCAD, etc. <br>His research interests include: <br> &emsp;**\*** Non-volatile Memory System and Architecture <br>&emsp;&emsp;&emsp;- Hardware layer: endurance, security, persistence <br>&emsp;&emsp;&emsp;- Software layer: data structure, index, storage, consistency <br> &emsp;**\*** Storage System <br>&emsp;&emsp;&emsp;- Data deduplication and compression <br>&emsp;&emsp;&emsp;- Key-value store <br> &emsp;&emsp;&emsp;- Security<br>  &emsp;**\*** Software & Hardware Co-design for Memory and Storage Systems  <br> <br> **Email:** <pfzuo@hust.edu.cn>, <pfzuo@ucsb.edu>  &emsp; **CV:** [Pengfei-Zuo.pdf](https://pfzuo.github.io/images/CV-Pengfei-Zuo.pdf) <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
+| <br> **Pengfei Zuo** is currently a PhD student in Huazhong University of <br>Science and Technology (HUST) advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html), and a joint<br> PhD student in University of California, Santa Barbara (UCSB) advised<br> by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). He obtained the BE degree in computer science and <br>technology from HUST in 2014. <br><br>He has published 23 refereed papers, including 16 conference papers <br>(OSDI, MICRO, USENIX ATC, SoCC, IPDPS, ICDCS, MSST, DATE, etc) <br> and 7 journal papers (TPDS*4, TOS, TCAD, and IEEE Micro) in the areas <br>of computer system and architecture, with a focus on non-volatile <br>memory systems, storage systems and techniques (index structures, <br>data deduplication&compression, key-value stores, etc), and security. <br>The source codes of some research projects have been released at <br>his Github page including [Level Hashing](https://github.com/Pfzuo/Level-Hashing) (with 82 stars), [Path Hashing](https://github.com/Pfzuo/Path-Hashing)<br> (with 14 stars), and [BEES](https://github.com/Pfzuo/BEES) (with 6 stars). <br> <br> **Email:** <pfzuo@hust.edu.cn>, <pfzuo@ucsb.edu>  &emsp; **CV:** [Pengfei-Zuo.pdf](https://pfzuo.github.io/images/CV-Pengfei-Zuo.pdf) <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
 
 
 ## Publications
@@ -21,7 +21,7 @@ permalink: /homepage/
 
 #### 2019
 
-* **Pengfei Zuo**, Yu Hua, Jie Wu,"Level Hashing: A High-performance and Flexible-resizing Persistent Hashing Index Structure", Accepted and to appear in ACM Transactions on Storage (**TOS**).
+* **Pengfei Zuo**, Yu Hua, Jie Wu,"[Level Hashing: A High-performance and Flexible-resizing Persistent Hashing Index Structure](https://csyhua.github.io/csyhua/hua-tos2019.pdf)", Accepted and to appear in ACM Transactions on Storage (**TOS**), 2019.
 
 * **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final25.pdf)", in the 10th Non-Volatile Memories Workshop (**NVMW**), 2019.
 
@@ -58,6 +58,9 @@ permalink: /homepage/
 
 * Yuanyuan Sun, Yu Hua, Shunde Cao, **Pengfei Zuo**, "[DLSH: A Distribution-aware LSH Scheme for Approximate Nearest Neighbor Query in Cloud Computing](https://csyhua.github.io/csyhua/hua-socc17.pdf)", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017.
 
+
+* **Pengfei Zuo**, Yu Hua, Cong Wang, Wen Xia, Shunde Cao, Yukun Zhou, Yuanyuan Sun, "[Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage](https://dl.acm.org/citation.cfm?id=3132688)", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017. (*Abstract Only*)
+
 * Yuanyuan Sun, Yu Hua, Song Jiang, Qiuyu Li, Shunde Cao, **Pengfei Zuo**, "[SmartCuckoo: A Fast and Cost-Efficient Hashing Index Scheme for Cloud Storage Systems](https://csyhua.github.io/csyhua/hua-atc2017.pdf)", in Proceedings of USENIX Annual Technical Conference (**USENIX ATC**), 2017.
 
 * **Pengfei Zuo** and Yu Hua, "[A Write-friendly Hashing Scheme for Non-volatile Memory Systems](https://csyhua.github.io/csyhua/hua-MSST2017-NVM.pdf)", in Proceedings of the 33rd International Conference on Massive Storage Systems and Technology (**MSST**), 2017.    
@@ -69,11 +72,15 @@ permalink: /homepage/
 
 * Yuanyuan Sun, Yu Hua, Dan Feng, Ling Yang, **Pengfei Zuo**, Shunde Cao, Yuncheng Guo, "[A Collision-Mitigation Cuckoo Hashing Scheme for Large-scale Storage Systems](https://csyhua.github.io/csyhua/hua-TPDS2016.pdf)", IEEE Transactions on Parallel and Distributed Systems (**TPDS**), Vol.28, No.3, March 2017, pages: 619-632.
 
-#### 2016
+#### 2016 - 2014
 
 * Wen Zhou, Dan Feng, Yu Hua, Jingning Liu, Fangting Huang, **Pengfei Zuo**, "[Increasing Lifetime and Security of Phase-Change Memory with Endurance Variation](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7823831)", Proceedings of the IEEE International Conference on Parallel and Distributed Systems (**ICPADS**), 2016.
 
 * Yuanyuan Sun, Yu Hua, Dan Feng, Ling Yang, **Pengfei Zuo**, Shunde Cao, "[MinCounter: An Efficient Cuckoo Hashing Scheme for Cloud Storage Systems](https://csyhua.github.io/csyhua/hua-MSST2015.pdf)", Proceedings of the 31st International Conference on Massive Storage Systems and Technology (**MSST**), 2015.
+
+* Jinjun Liu, Dan Feng, Yu Hua, Bin Peng, **Pengfei Zuo**, Yuanyuan Sun, “P-index: An Efficient Searchable Metadata Indexing Scheme Based on Data Provenance in Cold Storage”, Proceedings of the 15th International Conference on Algorithms and Architectures for Parallel Processing (**ICA3PP**), 2015.
+
+* Jinjun Liu, Dan Feng, Yu Hua, Bin Peng, **Pengfei Zuo**, “Application-aware video-sharing services via provenance in cloud storage”, Proceedings of the IEEE 33rd International Performance Computing and Communications Conference (**IPCCC**), 2014.
 
 
 ## WiPs and Posters 
@@ -81,8 +88,6 @@ permalink: /homepage/
 ---
 
 * Zhangyu Chen, Yu Hua, **Pengfei Zuo**, Yuanyuan Sun, Yuncheng Guo, "Efficient Similarity-aware Image Compression via Approximation for NVM-based Main Memory", Poster in the 10th Annual Non-volatile Memories Workshop (**NVMW**), 2019.
-
-* **Pengfei Zuo**, Yu Hua, Cong Wang, Wen Xia, Shunde Cao, Yukun Zhou, Yuanyuan Sun, "[Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage](https://dl.acm.org/citation.cfm?id=3132688)", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017. (*Abstract Only*)
 
 * **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, Yuanyuan Sun, "Enhancing Lifetime and Performance of Non-Volatile Memories through Eliminating Duplicate Writes", Work-in-Progress Report and Poster in USENIX Conference on File and Storage Technologies (**FAST**), 2017.
 
