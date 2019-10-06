@@ -12,7 +12,7 @@ permalink: /homepage/
  
 ## Biography
  
-| <br> **Pengfei Zuo** is currently a PhD student in Huazhong University of <br>Science and Technology (HUST) advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html), and a joint<br> PhD student in University of California, Santa Barbara (UCSB) advised<br> by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). He obtained the BE degree in computer science and <br>technology from HUST in 2014. <br><br>He has published 23 refereed papers, including 16 conference papers <br>(OSDI, MICRO, USENIX ATC, SoCC, IPDPS, ICDCS, MSST, DATE, etc) <br> and 7 journal papers (TPDS*4, TOS, TCAD, and IEEE Micro) in the areas <br>of computer system and architecture, with a focus on non-volatile <br>memory systems, storage systems and techniques (index structures, <br>data deduplication&compression, key-value stores, etc), and security. <br>The source codes of some research projects have been released at <br> Github including [Level Hashing](https://github.com/Pfzuo/Level-Hashing) (with 82 stars), [Path Hashing](https://github.com/Pfzuo/Path-Hashing) (with<br> 14 stars), and [BEES](https://github.com/Pfzuo/BEES) (with 6 stars). <br> <br> **Email:** <pfzuo@hust.edu.cn>, <pfzuo@ucsb.edu>  &emsp; **CV:** [Pengfei-Zuo.pdf](https://pfzuo.github.io/images/CV-Pengfei-Zuo.pdf) <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
+| <br> **Pengfei Zuo** is currently a PhD condidate in Huazhong University of <br>Science and Technology (HUST) advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html), and a visiting<br> PhD student in University of California, Santa Barbara (UCSB) advised<br> by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). He obtained the BE degree in computer science and <br>technology from HUST in 2014. <br><br>He has published 23 refereed papers, including 16 conference papers <br>(OSDI, MICRO, USENIX ATC, SoCC, IPDPS, ICDCS, MSST, DATE, etc) <br> and 7 journal papers (TPDS*4, TOS, TCAD, and IEEE Micro) in the areas <br>of computer system and architecture, with a focus on non-volatile <br>memory systems, storage systems and techniques (index structures, <br>data deduplication&compression, key-value stores, etc), and security. <br>The source codes of some research projects have been released at <br> Github including [Level Hashing](https://github.com/Pfzuo/Level-Hashing) (with 96 stars), [Path Hashing](https://github.com/Pfzuo/Path-Hashing) (with<br> 18 stars), and [BEES](https://github.com/Pfzuo/BEES) (with 7 stars). <br> <br> **Email:** <pfzuo@hust.edu.cn>, <pfzuo@ucsb.edu>  &emsp; **CV:** [Pengfei-Zuo.pdf](https://pfzuo.github.io/images/CV-Pengfei-Zuo.pdf) <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
 
 
 ## Publications
@@ -21,22 +21,22 @@ permalink: /homepage/
 
 #### 2019
 
-* **Pengfei Zuo**, Yu Hua, Yuan Xie, "[SuperMem: Enabling Application-transparent Secure Persistent Memory with Low Overheads](https://www.microarch.org/micro52/)", Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2019.
+* **Pengfei Zuo**, Yu Hua, Yuan Xie, "[SuperMem: Enabling Application-transparent Secure Persistent Memory with Low Overheads](https://csyhua.github.io/csyhua/hua-micro2019.pdf)", Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2019.
 
-* **Pengfei Zuo**, Yu Hua, Jie Wu,"[Level Hashing: A High-performance and Flexible-resizing Persistent Hashing Index Structure](https://csyhua.github.io/csyhua/hua-tos2019.pdf)", Accepted and to appear in ACM Transactions on Storage (**TOS**), 2019.
+* **Pengfei Zuo**, Yu Hua, Jie Wu, "[Level Hashing: A High-performance and Flexible-resizing Persistent Hashing Index Structure](https://csyhua.github.io/csyhua/hua-tos2019.pdf)", ACM Transactions on Storage (**TOS**), Volume 15, Issue 2, Article No. 13, June 2019.
 
 * **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final25.pdf)", in the 10th Non-Volatile Memories Workshop (**NVMW**), 2019.
 
 * **Pengfei Zuo**, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final16.pdf)", in the 10th Non-Volatile Memories Workshop (**NVMW**), 2019. <span style="color:red">(Memorable Paper Award Finalist)</span>
 
-* Yuncheng Guo, Yu Hua, **Pengfei Zuo**,"[A Latency-optimized and Energy-efficient Write Scheme in NVM-based Main Memory](https://csyhua.github.io/csyhua/hua-tcad2018-nvm.pdf)", Accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2019.
+* Yuncheng Guo, Yu Hua, **Pengfei Zuo**, "[A Latency-optimized and Energy-efficient Write Scheme in NVM-based Main Memory](https://csyhua.github.io/csyhua/hua-tcad2018-nvm.pdf)", Accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2019.
 
-* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Write Deduplication and Hash Mode Encryption for Secure Non-volatile Main Memory](https://csyhua.github.io/csyhua/hua-IEEE-micro.pdf)", in **IEEE Micro**, vol. 39, no. 1, pp. 44-51, 2019. 
+* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Write Deduplication and Hash Mode Encryption for Secure Non-volatile Main Memory](https://pfzuo.github.io/images/Zuo-IEEE_Micro.pdf)", in **IEEE Micro**, vol. 39, no. 1, pp. 44-51, 2019. 
 
 
 *  **Pengfei Zuo**, Yu Hua, Yuanyuan Sun, Xue Liu, Jie Wu, Yuncheng Guo, Wen Xia, Shunde Cao, Dan Feng, "[Bandwidth and Energy Efficient Image Sharing for Situation Awareness in Disasters](https://csyhua.github.io/csyhua/hua-tpds2018-bandwidth.pdf)", in IEEE Transactions on Parallel and Distributed Systems (**TPDS**), vol. 30, no. 1, pp. 15-28, 1 Jan. 2019.
 
-* Jie Wu, Yu Hua, **Pengfei Zuo** and Yuanyuan Sun, "[Improving Restore Performance in Deduplication Systems via a Cost-Efficient Rewriting Scheme](https://csyhua.github.io/csyhua/hua-tpds2018-dedup.pdf)," in IEEE Transactions on Parallel and Distributed Systems (**TPDS**), vol. 30, no. 1, pp. 119-132, 1 Jan. 2019.
+* Jie Wu, Yu Hua, **Pengfei Zuo**, Yuanyuan Sun, "[Improving Restore Performance in Deduplication Systems via a Cost-Efficient Rewriting Scheme](https://csyhua.github.io/csyhua/hua-tpds2018-dedup.pdf)", in IEEE Transactions on Parallel and Distributed Systems (**TPDS**), vol. 30, no. 1, pp. 119-132, 1 Jan. 2019.
 
 
 #### 2018
