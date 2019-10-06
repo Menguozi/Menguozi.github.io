@@ -31,7 +31,7 @@ permalink: /homepage/
 
 * Yuncheng Guo, Yu Hua, **Pengfei Zuo**, "[A Latency-optimized and Energy-efficient Write Scheme in NVM-based Main Memory](https://csyhua.github.io/csyhua/hua-tcad2018-nvm.pdf)", Accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2019.
 
-* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Write Deduplication and Hash Mode Encryption for Secure Non-volatile Main Memory](https://pfzuo.github.io/images/Zuo-IEEE_Micro.pdf)", in **IEEE Micro**, vol. 39, no. 1, pp. 44-51, 2019. 
+* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Write Deduplication and Hash Mode Encryption for Secure Non-volatile Main Memory](https://pfzuo.github.io/images/Zuo-IEEE-Micro.pdf)", in **IEEE Micro**, vol. 39, no. 1, pp. 44-51, 2019. 
 
 
 *  **Pengfei Zuo**, Yu Hua, Yuanyuan Sun, Xue Liu, Jie Wu, Yuncheng Guo, Wen Xia, Shunde Cao, Dan Feng, "[Bandwidth and Energy Efficient Image Sharing for Situation Awareness in Disasters](https://csyhua.github.io/csyhua/hua-tpds2018-bandwidth.pdf)", in IEEE Transactions on Parallel and Distributed Systems (**TPDS**), vol. 30, no. 1, pp. 15-28, 1 Jan. 2019.
@@ -101,6 +101,7 @@ permalink: /homepage/
 ## Awards and Honors
 
 ---
+*  Student Grant from MICRO, 2019
 *  Shenzhen Stock Exchange Scholarship, 2019 (CN¥12,000)
 *  Finalist for the Memorable Paper Award in [NVMW 2019](http://nvmw.ucsd.edu/)
 *  National Scholarship for Ph.D. Graduate Students, 2018 (CN¥30,000)
