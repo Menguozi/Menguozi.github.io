@@ -12,7 +12,7 @@ permalink: /homepage/
  
 ## Biography
  
-| <br> **Pengfei Zuo** is currently a PhD condidate in Huazhong University of <br>Science and Technology (HUST) advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html), and a visiting<br> PhD student in University of California, Santa Barbara (UCSB) advised<br> by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). He obtained the BE degree in computer science and <br>technology from HUST in 2014. <br><br>He has published 23 refereed papers, including 16 conference papers <br>(OSDI, MICRO, USENIX ATC, SoCC, IPDPS, ICDCS, MSST, DATE, etc) <br> and 7 journal papers (TPDS*4, TOS, TCAD, and IEEE Micro) in the areas <br>of computer system and architecture, with a focus on non-volatile <br>memory systems, storage systems and techniques (index structures, <br>data deduplication&compression, key-value stores, etc), and security. <br>The source codes of some research projects have been released at <br> Github including [Level Hashing](https://github.com/Pfzuo/Level-Hashing) (with 96 stars), [Path Hashing](https://github.com/Pfzuo/Path-Hashing) (with<br> 18 stars), and [BEES](https://github.com/Pfzuo/BEES) (with 7 stars). <br> <br> **Email:** <pfzuo@hust.edu.cn>, <pfzuo@ucsb.edu>  &emsp; **CV:** [Pengfei-Zuo.pdf](https://pfzuo.github.io/images/CV-Pengfei-Zuo.pdf) <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
+| <br> **Pengfei Zuo** is currently a PhD condidate in Huazhong University of <br>Science and Technology (HUST) advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html), and a visiting<br> PhD student in University of California, Santa Barbara (UCSB) advised<br> by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). He obtained the BE degree in computer science and <br>technology from HUST in 2014. <br><br>He has published 23 refereed papers, including 16 conference papers <br>(OSDI, MICRO, USENIX ATC, SoCC, IPDPS, ICDCS, MSST, DATE, etc) <br> and 7 journal papers (TPDS*4, TOS, TCAD, and IEEE Micro) in the areas <br>of computer system and architecture, with a focus on non-volatile <br>memory systems, storage systems and techniques (index structures, <br>data deduplication&compression, key-value stores, etc), and security. <br>The source codes of some research projects have been released at <br> Github including [Level Hashing](https://github.com/Pfzuo/Level-Hashing) (with 100 stars), [Path Hashing](https://github.com/Pfzuo/Path-Hashing) (with<br> 19 stars), and [BEES](https://github.com/Pfzuo/BEES) (with 7 stars). <br> <br> **Email:** <pfzuo@hust.edu.cn>, <pfzuo@ucsb.edu>  &emsp; **CV:** [Pengfei-Zuo.pdf](https://pfzuo.github.io/images/CV-Pengfei-Zuo.pdf) <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
 
 
 ## Publications
@@ -21,7 +21,8 @@ permalink: /homepage/
 
 #### 2019
 
-* **Pengfei Zuo**, Yu Hua, Yuan Xie, "[SuperMem: Enabling Application-transparent Secure Persistent Memory with Low Overheads](https://csyhua.github.io/csyhua/hua-micro2019.pdf)", Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2019.
+* **Pengfei Zuo**, Yu Hua, Yuan Xie, "[SuperMem: Enabling Application-transparent Secure Persistent Memory with Low Overheads](https://csyhua.github.io/csyhua/hua-micro2019.pdf)", Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2019.    
+[[slides](https://csyhua.github.io/csyhua/hua-micro2019-slides.pdf)]
 
 * **Pengfei Zuo**, Yu Hua, Jie Wu, "[Level Hashing: A High-performance and Flexible-resizing Persistent Hashing Index Structure](https://csyhua.github.io/csyhua/hua-tos2019.pdf)", ACM Transactions on Storage (**TOS**), Volume 15, Issue 2, Article No. 13, June 2019.
 
