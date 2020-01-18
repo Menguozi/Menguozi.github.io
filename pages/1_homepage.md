@@ -12,12 +12,17 @@ permalink: /homepage/
  
 ## Biography
  
-| <br> **Pengfei Zuo** is currently a PhD candidate in Huazhong University of <br>Science and Technology (HUST) advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html), and a visiting<br> PhD student in University of California, Santa Barbara (UCSB) advised<br> by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). He obtained the BE degree in computer science and <br>technology from HUST in 2014. <br><br>He has published 23 refereed papers, including 16 conference papers <br>(OSDI, MICRO, USENIX ATC, SoCC, IPDPS, ICDCS, MSST, DATE, etc) <br> and 7 journal papers (TPDS*4, TOS, TCAD, and IEEE Micro) in the areas <br>of computer system and architecture, with a focus on non-volatile <br>memory systems, storage systems and techniques (index structures, <br>data deduplication&compression, key-value stores, etc), and security. <br>The source codes of some research projects have been released at <br> Github including [Level Hashing](https://github.com/Pfzuo/Level-Hashing) (with 100 stars), [Path Hashing](https://github.com/Pfzuo/Path-Hashing) (with<br> 19 stars), and [BEES](https://github.com/Pfzuo/BEES) (with 7 stars). <br> <br> **Email:** <pfzuo@hust.edu.cn>, <pfzuo@ucsb.edu>  &emsp; **CV:** [Pengfei-Zuo.pdf](https://pfzuo.github.io/images/CV-Pengfei-Zuo.pdf) <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
+| <br> **Pengfei Zuo** obtained the PhD degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) from<br> Huazhong University of Science and Technology (HUST) in 2019, and <br>was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) in University of <br>California, Santa Barbara (UCSB) during 2018-2019. He obtained the<br> BE degree in computer science and technology from HUST in 2014. <br><br>He has published 20+ refereed papers in major conferences <br>(OSDI, MICRO, USENIX ATC, SoCC, IPDPS, ICDCS, MSST, DATE, etc) <br> and major journals (TPDS, TOS, TCAD, and IEEE Micro) in the areas <br>of computer system and architecture, with a focus on non-volatile <br>memory systems, storage systems and techniques (index structures, <br>data deduplication&compression, key-value stores, etc), and security. <br>The source codes of some research projects have been released at <br> Github including [Level Hashing](https://github.com/Pfzuo/Level-Hashing) (with 106 stars), [Path Hashing](https://github.com/Pfzuo/Path-Hashing) (with<br> 19 stars), and [BEES](https://github.com/Pfzuo/BEES) (with 7 stars). <br> <br> **Email:** <pfzuo.cs@gmail.com>  &emsp; **CV:** [Pengfei-Zuo.pdf](https://pfzuo.github.io/images/CV-Pengfei-Zuo.pdf) <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
 
 
 ## Publications
 
 ---
+
+#### 2020
+
+* Xing Hu, Ling Liang, Shuangchen Li, Lei Deng, **Pengfei Zuo**, Xinfeng Xie, Yu Ji, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie, "[DeepSniffer: a DNN Model Extraction Framework Based on Learning Architectural Hints](https://asplos-conference.org/programs/)", in Proceedings of the 25th International Conference on Architectural Support for  Programming Languages and Operating Systems (**ASPLOS**), 2020. 
+
 
 #### 2019
 
@@ -118,6 +123,8 @@ permalink: /homepage/
 
 ---
 
+|01/2020|"The Growing Course of A PhD in Computer System and Architecture", Invited Talk in the 2nd Summit Forum of SKL of Computer Architecture. |Beijing, China
+|12/2019|"SuperMem: Revitalizing the Write-through Cache for Secure Persistent Memory", Invited Talk in the 17th ChinaSys workshop. |Zhuhai, China
 |03/2019| "Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory", Presentation in the 10th Non-volatile Memory Workshop (NVMW 2019). |San Deigo, USA
 |10/2018| "Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes", Paper Presentation in the  51st International Symposium on Microarchitecture (MICRO 2018). |Fukuoka, Japan
 |10/2018| "Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory", Paper Presentation in the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2018). |Carlsbad, USA
