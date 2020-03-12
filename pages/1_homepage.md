@@ -23,7 +23,7 @@ permalink: /homepage/
 
 * Zhangyu Chen, Yu Hua, **Pengfei Zuo**, Yuanyuan Sun, Yuncheng Guo, "Reducing Bit Writes in Non-volatile Main Memory by Similarity-aware Compression", Proceedings of the 57th Design Automation Conference (**DAC**), 2020.  
 
-* Xing Hu, Ling Liang, Shuangchen Li, Lei Deng, **Pengfei Zuo**, Xinfeng Xie, Yu Ji, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie, "[DeepSniffer: a DNN Model Extraction Framework Based on Learning Architectural Hints](https://asplos-conference.org/programs/)", in Proceedings of the 25th International Conference on Architectural Support for  Programming Languages and Operating Systems (**ASPLOS**), 2020. 
+* Xing Hu, Ling Liang, Shuangchen Li, Lei Deng, **Pengfei Zuo**, Yu Ji, Xinfeng Xie, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie, "[DeepSniffer: a DNN Model Extraction Framework Based on Learning Architectural Hints](https://asplos-conference.org/programs/)", in Proceedings of the 25th International Conference on Architectural Support for  Programming Languages and Operating Systems (**ASPLOS**), 2020. 
 
 * Yuncheng Guo, Yu Hua, **Pengfei Zuo**, "[A Latency-optimized and Energy-efficient Write Scheme in NVM-based Main Memory](https://csyhua.github.io/csyhua/hua-tcad2018-nvm.pdf)", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol.39, No.1, January 2020, pages: 62-74.
 
