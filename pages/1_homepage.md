@@ -12,7 +12,7 @@ permalink: /homepage/
  
 ## Biography
  
-| <br> **Pengfei Zuo** obtained the PhD degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) from<br> Huazhong University of Science and Technology (HUST) in 2019, and <br>was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) in University of <br>California, Santa Barbara (UCSB) during 2018-2019. He obtained the<br> BE degree in computer science and technology from HUST in 2014. <br><br>He has published 20+ refereed papers in major conferences (OSDI, <br>MICRO, ASPLOS, USENIX ATC, SoCC, IPDPS, ICDCS, MSST, DATE, etc) <br> and major journals (TPDS, TOS, TCAD, and IEEE Micro) in the areas <br>of computer system and architecture, with a focus on non-volatile <br>memory systems, storage systems and techniques (index structures, <br>data deduplication&compression, key-value stores, etc), and security. <br>The source codes of some research projects have been released at <br> Github including [Level Hashing](https://github.com/Pfzuo/Level-Hashing) (with 115 stars), [Path Hashing](https://github.com/Pfzuo/Path-Hashing) (with<br> 18 stars), and [BEES](https://github.com/Pfzuo/BEES) (with 7 stars). <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pfzuo@hust.edu.cn>  &emsp; **CV:** [Pengfei-Zuo.pdf](https://pfzuo.github.io/images/CV-Pengfei-Zuo.pdf) <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
+| <br> **Pengfei Zuo** obtained the PhD degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) from<br> Huazhong University of Science and Technology (HUST) in 2019, and <br>was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) in University of <br>California, Santa Barbara (UCSB) during 2018-2019. He obtained the<br> BE degree in computer science and technology from HUST in 2014. <br><br>He has published 20+ refereed papers in major conferences (OSDI, <br>MICRO, ASPLOS, USENIX ATC, SoCC, IPDPS, ICDCS, MSST, DATE, etc) <br> and major journals (TPDS, TOS, TCAD, and IEEE Micro) in the areas <br>of computer system and architecture, with a focus on non-volatile <br>memory systems, storage systems and techniques (index structures, <br>data deduplication&compression, key-value stores, etc), and security. <br>The source codes of some research projects have been released at <br> Github including [Level Hashing](https://github.com/Pfzuo/Level-Hashing) (with 124 stars), [Path Hashing](https://github.com/Pfzuo/Path-Hashing) (with<br> 18 stars), and [BEES](https://github.com/Pfzuo/BEES) (with 7 stars). <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pfzuo@hust.edu.cn>  &emsp; **CV:** [Pengfei-Zuo.pdf](https://pfzuo.github.io/images/CV-Pengfei-Zuo.pdf) <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
 
 
 ## Publications
@@ -21,11 +21,13 @@ permalink: /homepage/
 
 #### 2020
 
+* Jianming Huang, Yu Hua, **Pengfei Zuo**, Wen Zhou, Fangting Huang, "An Efficient Wear-level Architecture using Self-adaptive Wear Leveling", Proceedings of the 49th International Conference on Parallel Processing (**ICPP**), 2020.
+
 * Xing Hu, Yang Zhao, Lei Deng, Ling Liang, **Pengfei Zuo**, Jing Ye, Yingyan Lin, Yuan Xie, "Practical Deep Neural Network Attacks through Memory Trojaning", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2020.
 
 * Zhangyu Chen, Yu Hua, Bo Ding, **Pengfei Zuo**, "Lock-free Concurrent Level Hashing for Persistent Memory", Proceedings of the USENIX Annual Technical Conference (**USENIX ATC**), 2020.
 
-* Xing Hu, Ling Liang, Shuangchen Li, Lei Deng, **Pengfei Zuo**, Yu Ji, Xinfeng Xie, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie, "[DeepSniffer: a DNN Model Extraction Framework Based on Learning Architectural Hints](https://dl.acm.org/doi/abs/10.1145/3373376.3378460)", in Proceedings of the 25th International Conference on Architectural Support for  Programming Languages and Operating Systems (**ASPLOS**), 2020. 
+* Xing Hu, Ling Liang, Shuangchen Li, Lei Deng, **Pengfei Zuo**, Yu Ji, Xinfeng Xie, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie, "[DeepSniffer: a DNN Model Extraction Framework Based on Learning Architectural Hints](https://dl.acm.org/doi/abs/10.1145/3373376.3378460)", Proceedings of the 25th International Conference on Architectural Support for  Programming Languages and Operating Systems (**ASPLOS**), 2020. 
 
 * Zhangyu Chen, Yu Hua, **Pengfei Zuo**, Yuanyuan Sun, Yuncheng Guo, "[Reducing Bit Writes in Non-volatile Main Memory by Similarity-aware Compression](https://csyhua.github.io/csyhua/hua-dac2020-simcom.pdf)", Proceedings of the 57th Design Automation Conference (**DAC**), 2020.  
 
