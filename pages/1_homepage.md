@@ -21,11 +21,11 @@ permalink: /homepage/
 
 #### 2020
 
-* Jianming Huang, Yu Hua, **Pengfei Zuo**, Wen Zhou, Fangting Huang, "An Efficient Wear-level Architecture using Self-adaptive Wear Leveling", Proceedings of the 49th International Conference on Parallel Processing (**ICPP**), 2020.
+* Jianming Huang, Yu Hua, **Pengfei Zuo**, Wen Zhou, Fangting Huang, "[An Efficient Wear-level Architecture using Self-adaptive Wear Leveling](https://csyhua.github.io/csyhua/hua-icpp2020-sawl.pdf)", Proceedings of the 49th International Conference on Parallel Processing (**ICPP**), 2020.
 
-* Xing Hu, Yang Zhao, Lei Deng, Ling Liang, **Pengfei Zuo**, Jing Ye, Yingyan Lin, Yuan Xie, "Practical Deep Neural Network Attacks through Memory Trojaning", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2020.
+* Xing Hu, Yang Zhao, Lei Deng, Ling Liang, **Pengfei Zuo**, Jing Ye, Yingyan Lin, Yuan Xie, "[Practical Deep Neural Network Attacks through Memory Trojaning](https://ieeexplore.ieee.org/abstract/document/9096397)", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2020.
 
-* Zhangyu Chen, Yu Hua, Bo Ding, **Pengfei Zuo**, "Lock-free Concurrent Level Hashing for Persistent Memory", Proceedings of the USENIX Annual Technical Conference (**USENIX ATC**), 2020.
+* Zhangyu Chen, Yu Hua, Bo Ding, **Pengfei Zuo**, "[Lock-free Concurrent Level Hashing for Persistent Memory](https://csyhua.github.io/csyhua/hua-atc2020.pdf)", Proceedings of the USENIX Annual Technical Conference (**USENIX ATC**), 2020.
 
 * Xing Hu, Ling Liang, Shuangchen Li, Lei Deng, **Pengfei Zuo**, Yu Ji, Xinfeng Xie, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie, "[DeepSniffer: a DNN Model Extraction Framework Based on Learning Architectural Hints](https://dl.acm.org/doi/abs/10.1145/3373376.3378460)", Proceedings of the 25th International Conference on Architectural Support for  Programming Languages and Operating Systems (**ASPLOS**), 2020. 
 
