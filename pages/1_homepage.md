@@ -12,12 +12,15 @@ permalink: /homepage/
  
 ## Biography
  
-| <br> **Pengfei Zuo** obtained the PhD degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) from<br> Huazhong University of Science and Technology (HUST) in 2019, and <br>was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) in University of <br>California, Santa Barbara (UCSB) during 2018-2019. He obtained the<br> BE degree in computer science and technology from HUST in 2014. <br><br>He has published 20+ refereed papers in major conferences (OSDI, <br>MICRO, ASPLOS, USENIX ATC, SoCC, IPDPS, ICDCS, MSST, DATE, etc) <br> and major journals (TPDS, TOS, TCAD, and IEEE Micro) in the areas <br>of computer system and architecture, with a focus on non-volatile <br>memory systems, storage systems and techniques (index structures, <br>data deduplication&compression, key-value stores, etc), and security. <br>The source codes of some research projects have been released at <br> Github including [Level Hashing](https://github.com/Pfzuo/Level-Hashing) (with 124 stars), [Path Hashing](https://github.com/Pfzuo/Path-Hashing) (with<br> 18 stars), and [BEES](https://github.com/Pfzuo/BEES) (with 7 stars). <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pfzuo@hust.edu.cn>  &emsp; **CV:** [Pengfei-Zuo.pdf](https://pfzuo.github.io/images/CV-Pengfei-Zuo.pdf) <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
+| <br> **Pengfei Zuo** is a research scientist at Huawei. He received his Ph.D. <br>degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) in Computer Science from Huazhong<br> University of Science and Technology (HUST) in 2019, and was a <br>visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) in University of <br>California, Santa Barbara (UCSB) during 2018-2019. He received <br> B.E. degree in Computer Science from HUST in 2014. <br><br>He has published 30+ refereed papers in major conferences and <br>journals (OSDI, MICRO, ASPLOS, USENIX ATC, SoCC, IPDPS, DAC,<br> TPDS, TOS, TCAD, and IEEE Micro, etc) in the areas of computer<br> system and architecture, with a focus on non-volatile memory <br>systems, storage systems and techniques, and security. The source<br> codes of some research projects have been released at Github <br>including [Level Hashing](https://github.com/Pfzuo/Level-Hashing) (with 160 stars), [Path Hashing](https://github.com/Pfzuo/Path-Hashing) (with<br> 21 stars), and [BEES](https://github.com/Pfzuo/BEES) (with 8 stars). <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pfzuo@hust.edu.cn>   <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
 
 
 ## Publications
 
 ---
+#### 2021
+
+* **Pengfei Zuo**, Yu Hua, Ling Liang, Xingfeng Xie, Xing Hu, Yuan Xie, "SEALing Neural Network Models in Encrypted Deep Learning Accelerators", Proceedings of the 58th Design Automation Conference (**DAC**), 2021.
 
 #### 2020
 
@@ -116,14 +119,16 @@ permalink: /homepage/
 ## Awards and Honors
 
 ---
+*  Outstanding Doctoral Dissertation Award from [ACM SIGOPS ChinaSys](https://chinasys.org/doku.php?id=home), 2020
+*  Outstanding Doctoral Dissertation Award Nominee from [CCF](https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721436.shtml), 2020
 *  Student Grant from MICRO, 2019
-*  Shenzhen Stock Exchange Scholarship, 2019 (CN¥12,000)
+*  Shenzhen Stock Exchange Scholarship, 2019
 *  Finalist for the Memorable Paper Award in [NVMW 2019](http://nvmw.ucsd.edu/)
-*  National Scholarship for Ph.D. Graduate Students, 2018 (CN¥30,000)
+*  National Scholarship for Ph.D. Graduate Students, 2018 
 *  Student Grant from OSDI, 2018
 *  Student Grant from MICRO, 2018
-*  National Scholarship for Ph.D. Graduate Students, 2017 (CN¥30,000)
-*  ZhiXing Excellent Graduate Scholarship, 2015 (CN¥1,000)
+*  National Scholarship for Ph.D. Graduate Students, 2017
+*  ZhiXing Excellent Graduate Scholarship, 2015
 *  Excellent Graduate Student in HUST, 2015, 2016, 2017, and 2018
 *  Award of Excellent B.E. Thesis in Hubei Province, 2014
 
