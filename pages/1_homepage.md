@@ -12,21 +12,22 @@ permalink: /homepage/
  
 ## Biography
  
-| <br> **Pengfei Zuo** is a research scientist at Huawei. He received his Ph.D. <br>degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) in Computer Science from Huazhong<br> University of Science and Technology (HUST) in 2019, and was a <br>visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) in University of <br>California, Santa Barbara (UCSB) during 2018-2019. He received <br> B.E. degree in Computer Science from HUST in 2014. <br><br>He has published 30+ refereed papers in major conferences and <br>journals (OSDI, MICRO, ASPLOS, USENIX ATC, SoCC, IPDPS, DAC,<br> TPDS, TOS, TCAD, and IEEE Micro, etc) in the areas of computer<br> system and architecture, with a focus on non-volatile memory <br>systems, storage systems and techniques, and security. The source<br> codes of some research projects have been released at Github <br>including [Level Hashing](https://github.com/Pfzuo/Level-Hashing) (with 160 stars), [Path Hashing](https://github.com/Pfzuo/Path-Hashing) (with<br> 21 stars), and [BEES](https://github.com/Pfzuo/BEES) (with 8 stars). <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pfzuo@hust.edu.cn>   <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
+| <br> **Pengfei Zuo** is a research scientist at Huawei Cloud. He received his <br>Ph.D. degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) in Computer Science from <br>Huazhong University of Science and Technology (HUST) in 2019, <br>and was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) in <br>University of California, Santa Barbara (UCSB) during 2018-2019. <br>He received B.E. degree in Computer Science from HUST in 2014. <br><br>He has published 30+ refereed papers in major conferences and <br>journals (OSDI, MICRO, ASPLOS, USENIX ATC, SoCC, IPDPS, DAC,<br> TPDS, TOS, TCAD, and IEEE Micro, etc) in the areas of computer<br> system and architecture, with a focus on memory systems, <br>storage systems and techniques, and security.  He obtained the [2020 <br>ACM China Outstanding Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html) , [2020 ACM <br>SIGOPS ChinaSys Outstanding Doctoral Dissertation Award](https://chinasys.org/doku.php?id=home), and  <br>[2020 CCF Outstanding Doctoral Dissertation Award Nominee](https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721436.shtml). <br><br> He served as a PC member in ICDCS 2021, Cloud 2021, CloudCom <br>2020, and ICPADS 2020. <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pfzuo@hust.edu.cn>   <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
 
 
 ## Publications
 
 ---
 #### 2021
+* **Pengfei Zuo**, Jiazhao Sun, Liu Yang, Shuangwu Zhang, Yu Hua, "One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory", Proceedings of the USENIX Annual Technical Conference (**USENIX ATC**), 2021.
 
-* **Pengfei Zuo**, Yu Hua, Ling Liang, Xingfeng Xie, Xing Hu, Yuan Xie, "SEALing Neural Network Models in Encrypted Deep Learning Accelerators", Proceedings of the 58th Design Automation Conference (**DAC**), 2021.
+* **Pengfei Zuo**, Yu Hua, Ling Liang, Xingfeng Xie, Xing Hu, Yuan Xie, "[SEALing Neural Network Models in Encrypted Deep Learning Accelerators](https://csyhua.github.io/csyhua/hua-dac2021-seal.pdf)", Proceedings of the 58th Design Automation Conference (**DAC**), 2021.
+
+* Xing Hu, Yang Zhao, Lei Deng, Ling Liang, **Pengfei Zuo**, Jing Ye, Yingyan Lin, Yuan Xie, "[Practical Deep Neural Network Attacks through Memory Trojaning](https://ieeexplore.ieee.org/abstract/document/9096397)",  in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), vol. 40, no. 6, pp. 1230-1243, June 2021.
 
 #### 2020
 
 * Jianming Huang, Yu Hua, **Pengfei Zuo**, Wen Zhou, Fangting Huang, "[An Efficient Wear-level Architecture using Self-adaptive Wear Leveling](https://csyhua.github.io/csyhua/hua-icpp2020-sawl.pdf)", Proceedings of the 49th International Conference on Parallel Processing (**ICPP**), 2020.
-
-* Xing Hu, Yang Zhao, Lei Deng, Ling Liang, **Pengfei Zuo**, Jing Ye, Yingyan Lin, Yuan Xie, "[Practical Deep Neural Network Attacks through Memory Trojaning](https://ieeexplore.ieee.org/abstract/document/9096397)", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2020.
 
 * Zhangyu Chen, Yu Hua, Bo Ding, **Pengfei Zuo**, "[Lock-free Concurrent Level Hashing for Persistent Memory](https://csyhua.github.io/csyhua/hua-atc2020.pdf)", Proceedings of the USENIX Annual Technical Conference (**USENIX ATC**), 2020.
 
@@ -119,8 +120,9 @@ permalink: /homepage/
 ## Awards and Honors
 
 ---
-*  Outstanding Doctoral Dissertation Award from [ACM SIGOPS ChinaSys](https://chinasys.org/doku.php?id=home), 2020
-*  Outstanding Doctoral Dissertation Award Nominee from [CCF](https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721436.shtml), 2020
+*  [ACM China Outstanding Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html), 2020
+*  [ACM SIGOPS ChinaSys Outstanding Doctoral Dissertation Award](https://chinasys.org/doku.php?id=home), 2020
+*  [CCF Outstanding Doctoral Dissertation Award Nominee](https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721436.shtml), 2020
 *  Student Grant from MICRO, 2019
 *  Shenzhen Stock Exchange Scholarship, 2019
 *  Finalist for the Memorable Paper Award in [NVMW 2019](http://nvmw.ucsd.edu/)
