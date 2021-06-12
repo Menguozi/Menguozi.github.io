@@ -12,7 +12,7 @@ permalink: /homepage/
  
 ## Biography
  
-| <br> **Pengfei Zuo** is a research scientist at Huawei Cloud. He received his <br>Ph.D. degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) in Computer Science from <br>Huazhong University of Science and Technology (HUST) in 2019, <br>and was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) in <br>University of California, Santa Barbara (UCSB) during 2018-2019. <br>He received B.E. degree in Computer Science from HUST in 2014. <br><br>He has published 30+ refereed papers in major conferences and <br>journals (OSDI, MICRO, ASPLOS, USENIX ATC, SoCC, IPDPS, DAC,<br> TPDS, TOS, TCAD, and IEEE Micro, etc) in the areas of computer<br> system and architecture, with a focus on memory systems, <br>storage systems and techniques, and security.  He obtained the [2020 <br>ACM China Outstanding Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html) , [2020 ACM <br>SIGOPS ChinaSys Outstanding Doctoral Dissertation Award](https://chinasys.org/doku.php?id=home), and  <br>[2020 CCF Outstanding Doctoral Dissertation Award Nominee](https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721436.shtml). <br><br> He served as a PC member in ICDCS 2021, Cloud 2021, CloudCom <br>2020, and ICPADS 2020. <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pfzuo@hust.edu.cn>   <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
+| <br> **Pengfei Zuo** is a research scientist at Huawei Cloud. He received his <br>Ph.D. degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) in Computer Science from <br>Huazhong University of Science and Technology (HUST) in 2019, <br>and was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) in <br>University of California, Santa Barbara (UCSB) during 2018-2019. <br>He received B.E. degree in Computer Science from HUST in 2014. <br><br>He has published 30+ refereed papers in major conferences and <br>journals (OSDI, MICRO, ASPLOS, USENIX ATC, SoCC, IPDPS, DAC,<br> TPDS, TOS, TCAD, and IEEE Micro, etc) in the areas of computer<br> system and architecture, with a focus on memory systems, storage <br>systems and techniques, and security.  He obtained the [2020 ACM <br>China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html) , [2020 ACM SIGOPS ChinaSys <br>Doctoral Dissertation Award](https://chinasys.org/doku.php?id=home), and  [2020 CCF Doctoral Dissertation <br>Award Nominee](https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721436.shtml). <br><br> He served as a PC member in ICDCS 2021, Cloud 2021, CloudCom <br>2020, and ICPADS 2020. <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pfzuo@hust.edu.cn>   <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
 
 
 ## Publications
@@ -120,9 +120,9 @@ permalink: /homepage/
 ## Awards and Honors
 
 ---
-*  [ACM China Outstanding Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html), 2020
-*  [ACM SIGOPS ChinaSys Outstanding Doctoral Dissertation Award](https://chinasys.org/doku.php?id=home), 2020
-*  [CCF Outstanding Doctoral Dissertation Award Nominee](https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721436.shtml), 2020
+*  [ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html), 2020
+*  [ACM SIGOPS ChinaSys Doctoral Dissertation Award](https://chinasys.org/doku.php?id=home), 2020
+*  [CCF Doctoral Dissertation Award Nominee](https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721436.shtml), 2020
 *  Student Grant from MICRO, 2019
 *  Shenzhen Stock Exchange Scholarship, 2019
 *  Finalist for the Memorable Paper Award in [NVMW 2019](http://nvmw.ucsd.edu/)
@@ -139,6 +139,7 @@ permalink: /homepage/
 
 ---
 
+|12/2020|"The Growing Course of A PhD in Computer System and Architecture", Invited Talk in the 19th ChinaSys workshop. |Chongqing, China
 |01/2020|"The Growing Course of A PhD in Computer System and Architecture", Invited Talk in the 2nd Summit Forum of SKL of Computer Architecture. |Beijing, China
 |12/2019|"SuperMem: Revitalizing the Write-through Cache for Secure Persistent Memory", Invited Talk in the 17th ChinaSys workshop. |Zhuhai, China
 |03/2019| "Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory", Presentation in the 10th Non-volatile Memory Workshop (NVMW 2019). |San Deigo, USA
