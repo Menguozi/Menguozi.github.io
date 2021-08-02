@@ -19,7 +19,7 @@ permalink: /homepage/
 
 ---
 #### 2021
-* **Pengfei Zuo**, Jiazhao Sun, Liu Yang, Shuangwu Zhang, Yu Hua, "One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory", Proceedings of the USENIX Annual Technical Conference (**USENIX ATC**), 2021.
+* **Pengfei Zuo**, Jiazhao Sun, Liu Yang, Shuangwu Zhang, Yu Hua, "[One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory](https://www.usenix.org/conference/atc21/presentation/zuo)", Proceedings of the USENIX Annual Technical Conference (**USENIX ATC**), 2021.
 
 * **Pengfei Zuo**, Yu Hua, Ling Liang, Xingfeng Xie, Xing Hu, Yuan Xie, "[SEALing Neural Network Models in Encrypted Deep Learning Accelerators](https://csyhua.github.io/csyhua/hua-dac2021-seal.pdf)", Proceedings of the 58th Design Automation Conference (**DAC**), 2021.
 
@@ -138,7 +138,7 @@ permalink: /homepage/
 ## Talks
 
 ---
-
+|08/2021|"One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory", Invited Talk in the Young Scientists of Computing Academy (YSCA) workshop in TURC 2021. |Hefei, China
 |12/2020|"The Growing Course of A PhD in Computer System and Architecture", Invited Talk in the 19th ChinaSys workshop. |Chongqing, China
 |01/2020|"The Growing Course of A PhD in Computer System and Architecture", Invited Talk in the 2nd Summit Forum of SKL of Computer Architecture. |Beijing, China
 |12/2019|"SuperMem: Revitalizing the Write-through Cache for Secure Persistent Memory", Invited Talk in the 17th ChinaSys workshop. |Zhuhai, China
