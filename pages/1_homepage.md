@@ -18,7 +18,12 @@ permalink: /homepage/
 ## Publications
 
 ---
+#### 2022
+
+* Pengfei Li, Yu Hua, Jingnan Jia, **Pengfei Zuo**, "FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems", Proceedings of the 48th International Conference on Very Large Data Bases (**VLDB**), 2022.
+
 #### 2021
+
 * **Pengfei Zuo**, Jiazhao Sun, Liu Yang, Shuangwu Zhang, Yu Hua, "[One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory](https://www.usenix.org/conference/atc21/presentation/zuo)", Proceedings of the USENIX Annual Technical Conference (**USENIX ATC**), 2021.
 
 * **Pengfei Zuo**, Yu Hua, Ling Liang, Xingfeng Xie, Xing Hu, Yuan Xie, "[SEALing Neural Network Models in Encrypted Deep Learning Accelerators](https://csyhua.github.io/csyhua/hua-dac2021-seal.pdf)", Proceedings of the 58th Design Automation Conference (**DAC**), 2021.
