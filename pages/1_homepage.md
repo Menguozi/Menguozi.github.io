@@ -12,7 +12,7 @@ permalink: /homepage/
  
 ## Biography
  
-| <br> **Pengfei Zuo** is a research scientist at Huawei Cloud. He received his <br>Ph.D. degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) in Computer Science from <br>Huazhong University of Science and Technology (HUST) in 2019, <br>and was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) in <br>University of California, Santa Barbara (UCSB) during 2018-2019. <br>He received B.E. degree in Computer Science from HUST in 2014. <br><br>He has published 30+ refereed papers in major conferences and <br>journals (OSDI, MICRO, ASPLOS, USENIX ATC, SoCC, IPDPS, DAC,<br> TPDS, TOS, TCAD, and IEEE Micro, etc) in the areas of computer<br> system and architecture, with a focus on memory systems, storage <br>systems and techniques, and security.  He obtained the [2020 ACM <br>China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html) , [2020 ACM SIGOPS ChinaSys <br>Doctoral Dissertation Award](https://chinasys.org/doku.php?id=home), and  [2020 CCF Doctoral Dissertation <br>Award Nominee](https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721436.shtml). <br><br> He served as a PC member in ICDCS 2021, Cloud 2021, CloudCom <br>2020, and ICPADS 2020. <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pfzuo@hust.edu.cn>   <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
+| <br> **Pengfei Zuo** is a research scientist at Huawei Cloud. He received his <br>Ph.D. degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) in Computer Science from <br>Huazhong University of Science and Technology (HUST) in 2019, <br>and was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) in <br>University of California, Santa Barbara (UCSB) during 2018-2019. <br>He received B.E. degree in Computer Science from HUST in 2014. <br><br>He has published 30+ refereed papers in major conferences and <br>journals (OSDI, MICRO, ASPLOS, USENIX ATC, SoCC, IPDPS, DAC,<br> TPDS, TOS, TCAD, and IEEE Micro, etc) in the areas of computer<br> system and architecture, with a focus on memory systems, storage <br>systems and techniques, and security.  He obtained the [2020 ACM <br>China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html) , [2020 ACM SIGOPS ChinaSys <br>Doctoral Dissertation Award](https://chinasys.org/doku.php?id=home), and  [2020 CCF Doctoral Dissertation <br>Award Nominee](https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721436.shtml). <br><br> He served as a PC member at ICDCS 2021, Cloud 2021, CloudCom <br>2020, and ICPADS 2020. <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pfzuo@hust.edu.cn>   <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo.jpg) <br> <br> |
 
 
 ## Publications
@@ -20,7 +20,7 @@ permalink: /homepage/
 ---
 #### 2022
 
-* Pengfei Li, Yu Hua, Jingnan Jia, **Pengfei Zuo**, "FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems", Proceedings of the 48th International Conference on Very Large Data Bases (**VLDB**), 2022.
+* Pengfei Li, Yu Hua, Jingnan Jia, **Pengfei Zuo**, "[FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems](https://pfzuo.github.io/)", Proceedings of the 48th International Conference on Very Large Data Bases (**VLDB**), 2022.
 
 #### 2021
 
