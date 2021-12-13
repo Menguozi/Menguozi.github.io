@@ -20,6 +20,8 @@ permalink: /homepage/
 ---
 #### 2022
 
+* Ming Zhang, Yu Hua, **Pengfei Zuo**, Lurong Liu, "[FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory](https://pfzuo.github.io/)", Proceedings of the 20th USENIX Conference on File and Storage Technologies (**FAST**), 2022.
+
 * Pengfei Li, Yu Hua, Jingnan Jia, **Pengfei Zuo**, "[FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems](https://pfzuo.github.io/)", Proceedings of the 48th International Conference on Very Large Data Bases (**VLDB**), 2022.
 
 #### 2021
