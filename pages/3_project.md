@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project
+title: Projects
 comments: true
 permalink: /project/
 ---
@@ -11,7 +11,7 @@ permalink: /project/
 # My Projects
 ---
 
->## 1. Efficient Hashing Index Structures for Non-volatile Memory
+>## 1. Index Structures for Non-volatile Memory
    
 ### Overview
    
@@ -35,7 +35,7 @@ together and storing them into one cache line, and thus improve the cache line u
 * **Pengfei Zuo** and Yu Hua, "[A Write-friendly Hashing Scheme for Non-volatile Memory Systems](https://csyhua.github.io/csyhua/hua-MSST2017-NVM.pdf)", in Proceedings of the 33rd International Conference on Massive Storage Systems and Technology (**MSST**), 2017. 
 
 ---
->## 2. Enhancing the Endurance, Performance, and Consistency of Secure Non-volatile Main Memory
+>## 2. Secure Non-volatile Main Memory
 
 
 ### Overview
@@ -58,7 +58,7 @@ Non-volatile memory (NVM) technologies are considered as promising candidates of
 * **Pengfei Zuo** and Yu Hua, "[SecPM: a Secure and Persistent Memory System for Non-volatile Memory](https://csyhua.github.io/csyhua/hua-hotstorage2018.pdf)", in Proceedings of 10th USENIX Workshop on Hot Topics in Storage and File Systems (**HotStorage**), 2018.
 
 ---
->## 3. Efficent Deduplication on Cloud Storage, Network, and Devices
+>## 3. Deduplication on Cloud Storage, Network, and Devices
 
 ### Overview
 

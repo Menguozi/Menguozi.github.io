@@ -12,17 +12,20 @@ permalink: /homepage/
  
 ## Biography
  
-| <br> **Pengfei Zuo** is a research scientist at Huawei Cloud. He received his Ph.D. degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) in Computer Science from Huazhong University of Science and Technology (HUST) in 2019, and was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) in University of California, Santa Barbara (UCSB) during 2018-2019. He received B.E. degree in Computer Science from HUST in 2014. <br><br>He has published 30+ refereed papers in major conferences and journals (OSDI, MICRO, ASPLOS, FAST, USENIX ATC, DAC, etc) in the areas of computer system and architecture, with a focus on memory systems, storage systems and techniques, and security. He obtained the [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html) and [2020 ACM SIGOPS ChinaSys Doctoral Dissertation Award](https://chinasys.org/doku.php?id=awards). <br><br> He served as a PC member at ICDCS 2021, Cloud 2021, CloudCom 2020, and ICPADS 2020. <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pfzuo@hust.edu.cn>   <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo-2021.jpg) <br> <br> |
+| <br> **Pengfei Zuo** is a research scientist at Huawei Cloud. He received his Ph.D. degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) in Computer Science from Huazhong University of Science and Technology (HUST) in 2019, and was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) in University of California, Santa Barbara (UCSB) during 2018-2019. He received B.E. degree in Computer Science from HUST in 2014. <br><br>He has published 30+ refereed papers in major conferences and journals (OSDI, MICRO, ASPLOS, FAST, USENIX ATC, DAC, etc) in the areas of computer system and architecture, with a focus on memory systems, storage systems and techniques, and security. He obtained [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html) (only two awardees among all computer disciplines across China every year). <br><br> He served as a PC member at ICDCS 2021, Cloud 2021, CloudCom 2020, and ICPADS 2020. <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pfzuo@hust.edu.cn>   <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo-2021.jpg) <br> <br> |
 
 ## News
 
 ---
 
-* [Dec 2021]: Our paper "FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory" is accepted by [FAST 2022](https://www.usenix.org/conference/fast22)!
+* [Dec 2021] Our paper "FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory" was accepted by [FAST 2022](https://www.usenix.org/conference/fast22)!
 
-* [Oct 2021]: Our paper "FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems" is accepted by [VLDB 2022](https://vldb.org/2022/)!
+* [Oct 2021] Our paper "FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems" was accepted by [VLDB 2022](https://vldb.org/2022/)!
 
 
+* [Aug 2021] Pengfei Zuo was awarded with [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html)! Only two awardees among all computer disciplines across China were selected to obtain the award every year.
+
+* [Apr 2021] Our paper "One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory" was accepted by [USENIX ATC 2021](https://www.usenix.org/conference/atc21)!
 
 ## Selected Publications
 
@@ -55,19 +58,19 @@ permalink: /homepage/
 ## Awards and Honors
 
 ---
-*  [ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html), 2020
-*  [ACM SIGOPS ChinaSys Doctoral Dissertation Award](https://chinasys.org/doku.php?id=home), 2020
-*  [CCF Doctoral Dissertation Award Nominee](https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721436.shtml), 2020
-*  Student Grant from MICRO, 2019
-*  Shenzhen Stock Exchange Scholarship, 2019
-*  Finalist for the Memorable Paper Award in [NVMW 2019](http://nvmw.ucsd.edu/)
-*  National Scholarship for Ph.D. Graduate Students, 2018 
-*  Student Grant from OSDI, 2018
-*  Student Grant from MICRO, 2018
-*  National Scholarship for Ph.D. Graduate Students, 2017
-*  ZhiXing Excellent Graduate Scholarship, 2015
-*  Excellent Graduate Student in HUST, 2015, 2016, 2017, and 2018
-*  Award of Excellent B.E. Thesis in Hubei Province, 2014
+*  [ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html), 2020. (Only two awardees among all computer disciplines across China every year.)
+*  [ACM SIGOPS ChinaSys Doctoral Dissertation Award](https://chinasys.org/doku.php?id=home), 2020.
+*  [CCF Doctoral Dissertation Award Nominee](https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721436.shtml), 2020.
+*  Student Grant from MICRO, 2019.
+*  Shenzhen Stock Exchange Scholarship, 2019.
+*  Finalist for the Memorable Paper Award in [NVMW 2019](http://nvmw.ucsd.edu/).
+*  National Scholarship for Ph.D. Graduate Students, 2018.
+*  Student Grant from OSDI, 2018.
+*  Student Grant from MICRO, 2018.
+*  National Scholarship for Ph.D. Graduate Students, 2017.
+*  ZhiXing Excellent Graduate Scholarship, 2015.
+*  Excellent Graduate Student in HUST, 2015, 2016, 2017, and 2018.
+*  Award of Excellent B.E. Thesis in Hubei Province, 2014.
 
 
 ## Talks
