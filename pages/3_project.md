@@ -11,7 +11,19 @@ permalink: /project/
 # My Projects
 ---
 
->## 1. Index Structures for Non-volatile Memory
+>## 1. DIsaggregated Memory
+   
+### Overview
+
+Memory disaggregation, which has attracted extensive attentions from both industry, e.g., HP’s The Machine and Intel RSD and academia, decouples the traditional monolithic compute and memory resources in datacenters and forms independent compute and memory resource pools. Due to resource pooling and independent hardware deployments, disaggregated memory enjoys the benefits of improvements on resource utilization, failure isolation, and elasticity. In the disaggregated memory architecture, compute blades run applications with only a small amount of memory as cache. In contrast, the memory pool stores application data with weak computing power. Due to not involving the compute resources in the memory pool, fast one-sided RDMA networks generally serve for data accesses from the compute blades to the memory pool.
+
+### Publications
+
+* Ming Zhang, Yu Hua, **Pengfei Zuo**, Lurong Liu, "[FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory](https://pfzuo.github.io/)", Proceedings of the 20th USENIX Conference on File and Storage Technologies (**FAST**), 2022.
+
+* **Pengfei Zuo**, Jiazhao Sun, Liu Yang, Shuangwu Zhang, Yu Hua, "[One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory](https://www.usenix.org/conference/atc21/presentation/zuo)", Proceedings of the USENIX Annual Technical Conference (**USENIX ATC**), 2021.
+
+>## 1. Index Structures for NVM
    
 ### Overview
    
@@ -24,7 +36,9 @@ together and storing them into one cache line, and thus improve the cache line u
 
 * In Level Hashing [OSDI'2018], we propose a write-optimized and high-performance hashing index scheme with low-overhead consistency guarantee and cost-efficient resizing for persistent memory. Level hashing provides a sharing-based two-level hash table, which achieves a constant-scale search/insertion/deletion/update time complexity in the worst case and rarely incurs extra NVM writes. To guarantee the consistency with low overhead, level hashing leverages log-free consistency schemes for insertion, deletion, and resizing operations, and an opportunistic log-free scheme for update operation. To cost-efficiently resize this hash table, level hashing leverages an in-place resizing scheme that only needs to rehash 1/3 of buckets instead of the entire table, thus significantly reducing the number of rehashed buckets and improving the resizing performance.
 
-### Publication
+### Publications
+
+* Zhangyu Chen, Yu Hua, Bo Ding, **Pengfei Zuo**, "[Lock-free Concurrent Level Hashing for Persistent Memory](https://csyhua.github.io/csyhua/hua-atc2020.pdf)", Proceedings of the USENIX Annual Technical Conference (**USENIX ATC**), 2020.
 
 * **Pengfei Zuo**, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final16.pdf)", in the 10-th Non-Volatile Memories Workshop (**NVMW**), 2019. <span style="color:red">(Memorable Paper Award Finalist)</span>
 
@@ -35,7 +49,7 @@ together and storing them into one cache line, and thus improve the cache line u
 * **Pengfei Zuo** and Yu Hua, "[A Write-friendly Hashing Scheme for Non-volatile Memory Systems](https://csyhua.github.io/csyhua/hua-MSST2017-NVM.pdf)", in Proceedings of the 33rd International Conference on Massive Storage Systems and Technology (**MSST**), 2017. 
 
 ---
->## 2. Secure Non-volatile Main Memory
+>## 2. Secure NVM
 
 
 ### Overview
@@ -45,9 +59,9 @@ Non-volatile memory (NVM) technologies are considered as promising candidates of
 * In DeWrite[MICRO'2018], we propose a secure and deduplication-aware scheme to enhance the performance and endurance of encrypted NVMs based on a new in-line deduplication technique and the synergistic integrations of deduplication and encryption. Specifically, it performs low-latency in-line deduplication to exploit the abundant cache-line-level duplications leveraging the intrinsic read/write asymmetry of NVMs and light-weight hashing. It also opportunistically parallelizes the operations of deduplication and encryption and allows them to co-locate the metadata for high time and space efficiency. 
 * In SecPM [HotStorage'2018], we propose a secure and persistent memory system. SecPM leverages the CWT scheme to guarantee the crash consistency via ensuring both the data and its counter are durable before the data flush completes, and leverages the CWR scheme to improve the performance via exploiting the spatial locality of counter storage, log and data writes. 
 
-### Publication
+### Publications
 
-* **Pengfei Zuo**, Yu Hua, Yuan Xie, "[A Secure and Persistent Memory System for Non-volatile Memory](https://arxiv.org/abs/1901.00620)", arXiv:1901.00620, January 3, 2019.
+* **Pengfei Zuo**, Yu Hua, Yuan Xie, "[SuperMem: Enabling Application-transparent Secure Persistent Memory with Low Overheads](https://csyhua.github.io/csyhua/hua-micro2019.pdf)", Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2019.    
 
 * **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final25.pdf)", in the 10-th Non-Volatile Memories Workshop (**NVMW**), 2019.
 
@@ -58,7 +72,7 @@ Non-volatile memory (NVM) technologies are considered as promising candidates of
 * **Pengfei Zuo** and Yu Hua, "[SecPM: a Secure and Persistent Memory System for Non-volatile Memory](https://csyhua.github.io/csyhua/hua-hotstorage2018.pdf)", in Proceedings of 10th USENIX Workshop on Hot Topics in Storage and File Systems (**HotStorage**), 2018.
 
 ---
->## 3. Deduplication on Cloud Storage, Network, and Devices
+>## 3. Data Deduplication
 
 ### Overview
 
@@ -70,7 +84,7 @@ Data deduplication is able to effectively identify and eliminate redundant data 
 * In DeWrite [MICRO'2018], we propose a secure and deduplication-aware scheme to enhance the performance and endurance of encrypted NVM devices based on a new in-line deduplication technique and the synergistic integrations of deduplication and encryption.  
 
 
-### Publication
+### Publications
 
 *  **Pengfei Zuo**, Yu Hua, Yuanyuan Sun, Xue Liu, Jie Wu, Yuncheng Guo, Wen Xia, Shunde Cao, Dan Feng, "[Bandwidth and Energy Efficient Image Sharing for Situation Awareness in Disasters](https://csyhua.github.io/csyhua/hua-tpds2018-bandwidth.pdf)", in IEEE Transactions on Parallel and Distributed Systems (**TPDS**), vol. 30, no. 1, pp. 15-28, 1 Jan. 2019.
 
