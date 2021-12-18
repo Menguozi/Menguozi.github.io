@@ -14,6 +14,7 @@ permalink: /homepage/
  
 | <br> **Pengfei Zuo** is a research scientist at Huawei Cloud. He received his Ph.D. degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) in Computer Science from Huazhong University of Science and Technology (HUST) in 2019, and was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) in University of California, Santa Barbara (UCSB) during 2018-2019. He received B.E. degree in Computer Science from HUST in 2014. <br><br>He has published 30+ refereed papers in major conferences and journals (OSDI, MICRO, ASPLOS, FAST, USENIX ATC, DAC, etc) in the areas of computer system and architecture, with a focus on memory systems, storage systems and techniques, and security. He obtained [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html) (only two awardees among all computer disciplines across China every year). <br><br> He served as a PC member at ICDCS 2021, Cloud 2021, CloudCom 2020, and ICPADS 2020. <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pfzuo@hust.edu.cn>   <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo-2021.jpg) <br> <br> |
 
+
 ## News
 
 ---
@@ -22,10 +23,10 @@ permalink: /homepage/
 
 * [Oct 2021] Our paper "FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems" was accepted by [VLDB 2022](https://vldb.org/2022/)!
 
-
 * [Aug 2021] Pengfei Zuo was awarded with [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html)! Only two awardees among all computer disciplines across China were selected to obtain the award every year.
 
 * [Apr 2021] Our paper "One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory" was accepted by [USENIX ATC 2021](https://www.usenix.org/conference/atc21)!
+
 
 ## Selected Publications
 
@@ -47,12 +48,12 @@ permalink: /homepage/
 
 * **[MICRO]** Pengfei Zuo, Yu Hua, Yuan Xie, "[SuperMem: Enabling Application-transparent Secure Persistent Memory with Low Overheads](https://csyhua.github.io/csyhua/hua-micro2019.pdf)", Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (MICRO), 2019.    [[slides](https://csyhua.github.io/csyhua/hua-micro2019-slides.pdf)]
 
-
 * **[OSDI]** Pengfei Zuo, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](https://csyhua.github.io/csyhua/hua-OSDI2018.pdf)", in Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2018. [[slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_zuo.pdf)] [[code](https://github.com/Pfzuo/Level-Hashing)]
 
 * **[MICRO]** Pengfei Zuo, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](https://csyhua.github.io/csyhua/hua-MICRO2018.pdf)", in Proceedings of the 51st IEEE/ACM International Symposium on Microarchitecture (MICRO), 2018. [[slides](https://csyhua.github.io/csyhua/hua-micro2018-slides.pdf)][[video](https://youtu.be/CU-RVr8wOk0)]
 
 * **[USENIX ATC]** Yuanyuan Sun, Yu Hua, Song Jiang, Qiuyu Li, Shunde Cao, Pengfei Zuo, "[SmartCuckoo: A Fast and Cost-Efficient Hashing Index Scheme for Cloud Storage Systems](https://csyhua.github.io/csyhua/hua-atc2017.pdf)", in Proceedings of USENIX Annual Technical Conference (USENIX ATC), 2017.
+
 
 
 ## Awards and Honors
@@ -73,10 +74,12 @@ permalink: /homepage/
 *  Award of Excellent B.E. Thesis in Hubei Province, 2014.
 
 
+
 ## Talks
 
 ---
 
+|12/2021|"One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory", Invited Talk in CCF Sys 2021. |Hangzhou, China
 |08/2021|"One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory", Invited Talk in the Young Scientists of Computing Academy (YSCA) workshop in TURC 2021. |Hefei, China
 |12/2020|"The Growing Course of A PhD in Computer System and Architecture", Invited Talk in the 19th ChinaSys workshop. |Chongqing, China
 |01/2020|"The Growing Course of A PhD in Computer System and Architecture", Invited Talk in the 2nd Summit Forum of SKL of Computer Architecture. |Beijing, China
