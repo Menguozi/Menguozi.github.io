@@ -11,7 +11,7 @@ permalink: /project/
 # My Projects
 ---
 
->## 1. DIsaggregated Memory
+>## 1. Disaggregated Memory
    
 ### Overview
 
