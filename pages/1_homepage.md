@@ -19,13 +19,13 @@ permalink: /homepage/
 
 ---
 
-* [Dec 2021] Our paper "FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory" was accepted by [FAST 2022](https://www.usenix.org/conference/fast22)!
+* Our paper "FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory" was accepted by [FAST 2022](https://www.usenix.org/conference/fast22)!
 
-* [Oct 2021] Our paper "FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems" was accepted by [VLDB 2022](https://vldb.org/2022/)!
+* Our paper "FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems" was accepted by [VLDB 2022](https://vldb.org/2022/)!
 
-* [Aug 2021] Pengfei Zuo was awarded with [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html)! Only two awardees among all computer disciplines across China were selected to obtain the award every year.
+* Pengfei Zuo was awarded with [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html)! Only two awardees among all computer disciplines across China were selected to obtain the award every year.
 
-* [Apr 2021] Our paper "One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory" was accepted by [USENIX ATC 2021](https://www.usenix.org/conference/atc21)!
+* Our paper "One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory" was accepted by [USENIX ATC 2021](https://www.usenix.org/conference/atc21)!
 
 
 ## Selected Publications
