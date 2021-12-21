@@ -25,6 +25,9 @@ duoshuo_url: "http://pfzuo.duoshuo.com"
 #disqus_url: "http://pfzuo.github.io"
 #########################################
 
+#Google Analytics
+google_analytics: G-1SHQXBX2PJ
+
 # Build settings
 markdown: kramdown
 
