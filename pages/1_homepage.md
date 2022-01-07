@@ -28,7 +28,7 @@ permalink: /homepage/
 * Our paper "One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory" was accepted by [USENIX ATC 2021](https://www.usenix.org/conference/atc21)!
 
 
-## Selected Publications
+## Selected Publications  
 
 ---
 
@@ -54,6 +54,7 @@ permalink: /homepage/
 
 * **[USENIX ATC]** Yuanyuan Sun, Yu Hua, Song Jiang, Qiuyu Li, Shunde Cao, Pengfei Zuo, "[SmartCuckoo: A Fast and Cost-Efficient Hashing Index Scheme for Cloud Storage Systems](https://csyhua.github.io/csyhua/hua-atc2017.pdf)", in Proceedings of USENIX Annual Technical Conference (USENIX ATC), 2017.
 
+[**Full Publication List**](http://pfzuo.github.io/publication/)
 
 
 ## Awards and Honors
