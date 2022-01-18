@@ -15,6 +15,8 @@ permalink: /publication/
 ---
 #### 2022
 
+* **Pengfei Zuo***, Qihui Zhou*, Jiazhao Sun, Liu Yang, Shuangwu Zhang, Yu Hua, James Cheng, Rongfeng He, Huabing Yan, "RACE: One-Sided RDMA-Conscious Extendible Hashing", Accepted and to appear in Transactions on Storage (**TOS**), 2022. (*co-first authors) **[Invited Paper]**
+
 * Ming Zhang, Yu Hua, **Pengfei Zuo**, Lurong Liu, "[FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory](https://pfzuo.github.io/)", Proceedings of the 20th USENIX Conference on File and Storage Technologies (**FAST**), 2022.
 
 * Pengfei Li, Yu Hua, Jingnan Jia, **Pengfei Zuo**, "[FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems](https://pfzuo.github.io/)", Proceedings of the 48th International Conference on Very Large Data Bases (**VLDB**), 2022.
@@ -45,14 +47,14 @@ permalink: /publication/
 * **Pengfei Zuo**, Yu Hua, Yuan Xie, "[SuperMem: Enabling Application-transparent Secure Persistent Memory with Low Overheads](https://csyhua.github.io/csyhua/hua-micro2019.pdf)", Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2019.    
 [[slides](https://csyhua.github.io/csyhua/hua-micro2019-slides.pdf)]
 
-* **Pengfei Zuo**, Yu Hua, Jie Wu, "[Level Hashing: A High-performance and Flexible-resizing Persistent Hashing Index Structure](https://csyhua.github.io/csyhua/hua-tos2019.pdf)", ACM Transactions on Storage (**TOS**), Volume 15, Issue 2, Article No. 13, June 2019.
+* **Pengfei Zuo**, Yu Hua, Jie Wu, "[Level Hashing: A High-performance and Flexible-resizing Persistent Hashing Index Structure](https://csyhua.github.io/csyhua/hua-tos2019.pdf)", ACM Transactions on Storage (**TOS**), Volume 15, Issue 2, Article No. 13, June 2019. **[Invited Paper]**
 
 * **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final25.pdf)", in the 10th Non-Volatile Memories Workshop (**NVMW**), 2019.
 
 * **Pengfei Zuo**, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final16.pdf)", in the 10th Non-Volatile Memories Workshop (**NVMW**), 2019. <span style="color:red">(Memorable Paper Award Finalist)</span>
 
 
-* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Write Deduplication and Hash Mode Encryption for Secure Non-volatile Main Memory](https://pfzuo.github.io/images/Zuo-IEEE-Micro.pdf)", in **IEEE Micro**, vol. 39, no. 1, pp. 44-51, 2019. 
+* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Write Deduplication and Hash Mode Encryption for Secure Non-volatile Main Memory](https://pfzuo.github.io/images/Zuo-IEEE-Micro.pdf)", in **IEEE Micro**, vol. 39, no. 1, pp. 44-51, 2019. **[Invited Paper]**
 
 
 *  **Pengfei Zuo**, Yu Hua, Yuanyuan Sun, Xue Liu, Jie Wu, Yuncheng Guo, Wen Xia, Shunde Cao, Dan Feng, "[Bandwidth and Energy Efficient Image Sharing for Situation Awareness in Disasters](https://csyhua.github.io/csyhua/hua-tpds2018-bandwidth.pdf)", in IEEE Transactions on Parallel and Distributed Systems (**TPDS**), vol. 30, no. 1, pp. 15-28, 1 Jan. 2019.
