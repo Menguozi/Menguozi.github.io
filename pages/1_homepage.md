@@ -19,6 +19,8 @@ permalink: /homepage/
 
 ---
 
+* Our paper "RACE: One-Sided RDMA-Conscious Extendible Hashing" was accepted by Transactions on Storage as an invited paper!
+
 * Our paper "FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory" was accepted by [FAST 2022](https://www.usenix.org/conference/fast22)!
 
 * Our paper "FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems" was accepted by [VLDB 2022](https://vldb.org/2022/)!
