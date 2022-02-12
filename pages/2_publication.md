@@ -17,9 +17,9 @@ permalink: /publication/
 
 * **Pengfei Zuo\***, Qihui Zhou\*, Jiazhao Sun, Liu Yang, Shuangwu Zhang, Yu Hua, James Cheng, Rongfeng He, Huabing Yan, "RACE: One-Sided RDMA-Conscious Extendible Hashing", Accepted and to appear in Transactions on Storage (**TOS**), 2022. (*co-first authors) **[Invited Paper]**
 
-* Ming Zhang, Yu Hua, **Pengfei Zuo**, Lurong Liu, "[FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory](https://pfzuo.github.io/)", Proceedings of the 20th USENIX Conference on File and Storage Technologies (**FAST**), 2022.
+* Ming Zhang, Yu Hua, **Pengfei Zuo**, Lurong Liu, "[FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory](https://csyhua.github.io/csyhua/hua-fast2022.pdf)", Proceedings of the 20th USENIX Conference on File and Storage Technologies (**FAST**), 2022.
 
-* Pengfei Li, Yu Hua, Jingnan Jia, **Pengfei Zuo**, "[FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems](https://pfzuo.github.io/)", Proceedings of the 48th International Conference on Very Large Data Bases (**VLDB**), 2022.
+* Pengfei Li, Yu Hua, Jingnan Jia, **Pengfei Zuo**, "[FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems](https://csyhua.github.io/csyhua/hua-vldb2022.pdf)", Proceedings of the 48th International Conference on Very Large Data Bases (**VLDB**), 2022.
 
 #### 2021
 

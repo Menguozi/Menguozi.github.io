@@ -34,9 +34,9 @@ permalink: /homepage/
 
 ---
 
-* **[FAST]** Ming Zhang, Yu Hua, Pengfei Zuo, Lurong Liu, "[FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory](https://pfzuo.github.io/)", Proceedings of the 20th USENIX Conference on File and Storage Technologies (FAST), 2022.
+* **[FAST]** Ming Zhang, Yu Hua, Pengfei Zuo, Lurong Liu, "[FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory](https://csyhua.github.io/csyhua/hua-fast2022.pdf)", Proceedings of the 20th USENIX Conference on File and Storage Technologies (FAST), 2022.
 
-* **[VLDB]** Pengfei Li, Yu Hua, Jingnan Jia, Pengfei Zuo, "[FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems](https://pfzuo.github.io/)", Proceedings of the 48th International Conference on Very Large Data Bases (VLDB), 2022.
+* **[VLDB]** Pengfei Li, Yu Hua, Jingnan Jia, Pengfei Zuo, "[FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems](https://csyhua.github.io/csyhua/hua-vldb2022.pdf)", Proceedings of the 48th International Conference on Very Large Data Bases (VLDB), 2022.
 
 * **[USENIX ATC]** Pengfei Zuo, Jiazhao Sun, Liu Yang, Shuangwu Zhang, Yu Hua, "[One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory](https://www.usenix.org/conference/atc21/presentation/zuo)", Proceedings of the USENIX Annual Technical Conference (USENIX ATC), 2021. *(One of USENIX ATC 2021 papers selected for fast-track publication in ACM Transactions on Storage)*
 
