@@ -31,8 +31,6 @@ permalink: /publication/
 
 #### 2020
 
-* Jianming Huang, Yu Hua, **Pengfei Zuo**, Wen Zhou, Fangting Huang, "[An Efficient Wear-level Architecture using Self-adaptive Wear Leveling](https://csyhua.github.io/csyhua/hua-icpp2020-sawl.pdf)", Proceedings of the 49th International Conference on Parallel Processing (**ICPP**), 2020.
-
 * Zhangyu Chen, Yu Hua, Bo Ding, **Pengfei Zuo**, "[Lock-free Concurrent Level Hashing for Persistent Memory](https://csyhua.github.io/csyhua/hua-atc2020.pdf)", Proceedings of the USENIX Annual Technical Conference (**USENIX ATC**), 2020.
 
 * Xing Hu, Ling Liang, Shuangchen Li, Lei Deng, **Pengfei Zuo**, Yu Ji, Xinfeng Xie, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie, "[DeepSniffer: a DNN Model Extraction Framework Based on Learning Architectural Hints](https://dl.acm.org/doi/abs/10.1145/3373376.3378460)", Proceedings of the 25th International Conference on Architectural Support for  Programming Languages and Operating Systems (**ASPLOS**), 2020. 
@@ -42,17 +40,14 @@ permalink: /publication/
 * Yuncheng Guo, Yu Hua, **Pengfei Zuo**, "[A Latency-optimized and Energy-efficient Write Scheme in NVM-based Main Memory](https://csyhua.github.io/csyhua/hua-tcad2018-nvm.pdf)", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol.39, No.1, January 2020, pages: 62-74.
 
 
+* Jianming Huang, Yu Hua, **Pengfei Zuo**, Wen Zhou, Fangting Huang, "[An Efficient Wear-level Architecture using Self-adaptive Wear Leveling](https://csyhua.github.io/csyhua/hua-icpp2020-sawl.pdf)", Proceedings of the 49th International Conference on Parallel Processing (**ICPP**), 2020.
+
 #### 2019
 
 * **Pengfei Zuo**, Yu Hua, Yuan Xie, "[SuperMem: Enabling Application-transparent Secure Persistent Memory with Low Overheads](https://csyhua.github.io/csyhua/hua-micro2019.pdf)", Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2019.    
 [[slides](https://csyhua.github.io/csyhua/hua-micro2019-slides.pdf)]
 
 * **Pengfei Zuo**, Yu Hua, Jie Wu, "[Level Hashing: A High-performance and Flexible-resizing Persistent Hashing Index Structure](https://csyhua.github.io/csyhua/hua-tos2019.pdf)", ACM Transactions on Storage (**TOS**), Volume 15, Issue 2, Article No. 13, June 2019. **[Invited Paper]**
-
-* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final25.pdf)", in the 10th Non-Volatile Memories Workshop (**NVMW**), 2019.
-
-* **Pengfei Zuo**, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final16.pdf)", in the 10th Non-Volatile Memories Workshop (**NVMW**), 2019. <span style="color:red">(Memorable Paper Award Finalist)</span>
-
 
 * **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Write Deduplication and Hash Mode Encryption for Secure Non-volatile Main Memory](https://pfzuo.github.io/images/Zuo-IEEE-Micro.pdf)", in **IEEE Micro**, vol. 39, no. 1, pp. 44-51, 2019. **[Invited Paper]**
 
@@ -83,9 +78,6 @@ permalink: /publication/
 
 * Yuanyuan Sun, Yu Hua, Shunde Cao, **Pengfei Zuo**, "[DLSH: A Distribution-aware LSH Scheme for Approximate Nearest Neighbor Query in Cloud Computing](https://csyhua.github.io/csyhua/hua-socc17.pdf)", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017.
 
-
-* **Pengfei Zuo**, Yu Hua, Cong Wang, Wen Xia, Shunde Cao, Yukun Zhou, Yuanyuan Sun, "[Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage](https://dl.acm.org/citation.cfm?id=3132688)", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017. (*Abstract Only*)
-
 * Yuanyuan Sun, Yu Hua, Song Jiang, Qiuyu Li, Shunde Cao, **Pengfei Zuo**, "[SmartCuckoo: A Fast and Cost-Efficient Hashing Index Scheme for Cloud Storage Systems](https://csyhua.github.io/csyhua/hua-atc2017.pdf)", in Proceedings of USENIX Annual Technical Conference (**USENIX ATC**), 2017.
 
 * **Pengfei Zuo** and Yu Hua, "[A Write-friendly Hashing Scheme for Non-volatile Memory Systems](https://csyhua.github.io/csyhua/hua-MSST2017-NVM.pdf)", in Proceedings of the 33rd International Conference on Massive Storage Systems and Technology (**MSST**), 2017.    
@@ -110,7 +102,15 @@ permalink: /publication/
 
 ---
 
+* **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final25.pdf)", in the 10th Non-Volatile Memories Workshop (**NVMW**), 2019.
+
+* **Pengfei Zuo**, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final16.pdf)", in the 10th Non-Volatile Memories Workshop (**NVMW**), 2019. <span style="color:red">(Memorable Paper Award Finalist)</span>
+
+
 * Zhangyu Chen, Yu Hua, **Pengfei Zuo**, Yuanyuan Sun, Yuncheng Guo, "Efficient Similarity-aware Image Compression via Approximation for NVM-based Main Memory", Poster in the 10th Annual Non-volatile Memories Workshop (**NVMW**), 2019.
+
+
+* **Pengfei Zuo**, Yu Hua, Cong Wang, Wen Xia, Shunde Cao, Yukun Zhou, Yuanyuan Sun, "[Mitigating Traffic-based Side Channel Attacks in Bandwidth-efficient Cloud Storage](https://dl.acm.org/citation.cfm?id=3132688)", in Proceedings of ACM Symposium on Cloud Computing (**SoCC**), 2017. (*Abstract Only*)
 
 * **Pengfei Zuo**, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, Yuanyuan Sun, "Enhancing Lifetime and Performance of Non-Volatile Memories through Eliminating Duplicate Writes", Work-in-Progress Report and Poster in USENIX Conference on File and Storage Technologies (**FAST**), 2017.
 
