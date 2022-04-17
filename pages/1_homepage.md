@@ -12,7 +12,7 @@ permalink: /homepage/
  
 ## Biography
  
-| <br> **Pengfei Zuo** is a research scientist at Huawei Cloud. He received his Ph.D. degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) in Computer Science from Huazhong University of Science and Technology (HUST) in 2019, and was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) in University of California, Santa Barbara (UCSB) during 2018-2019. He received B.E. degree in Computer Science from HUST in 2014. <br><br>He has published 30+ refereed papers in major conferences and journals (OSDI, MICRO, ASPLOS, FAST, USENIX ATC, DAC, etc) in the areas of computer system and architecture, with a focus on memory systems, storage systems and techniques, and security. He obtained [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html) (only two awardees among all computer disciplines across China every year). <br><br> He served as a PC member at ICDCS 2021, Cloud 2021, CloudCom 2020, and ICPADS 2020. <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pfzuo@hust.edu.cn>   <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo-2021.jpg) <br> <br> |
+| <br> **Pengfei Zuo** is a research scientist at Huawei Cloud. He received his Ph.D. degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) in Computer Science from Huazhong University of Science and Technology (HUST) in 2019, and was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) in University of California, Santa Barbara (UCSB) during 2018-2019. He received B.E. degree in Computer Science from HUST in 2014. <br><br>He has published 30+ refereed papers in major conferences and journals (OSDI, MICRO, ASPLOS, FAST, USENIX ATC, VLDB, DAC, etc) in the areas of computer system and architecture, with a focus on memory systems, storage systems and techniques, and security. He obtained [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html) (only two awardees among all computer disciplines across China every year). <br><br> He served as a PC member at multiple confences including ICDCS 2021, Cloud 2021, ICPADS 2020, etc, and a reviewer for multiple journals including TPDS, TC, TOS, TDSC, etc. <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pfzuo@hust.edu.cn>   <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo-2021.jpg) <br> <br> |
 
 
 ## News
@@ -76,7 +76,22 @@ permalink: /homepage/
 *  Excellent Graduate Student in HUST, 2015, 2016, 2017, and 2018.
 *  Award of Excellent B.E. Thesis in Hubei Province, 2014.
 
+## Professional Services
 
+---
+**PC Member at cofferences:**
+* Cloud 2021, 2022
+* ICDCS 2021
+* CloudCom 2020
+* ICPADS 2020
+
+
+**Reviewer for Journals:**
+* IEEE Transactions on Parallel and Distributed Systems (TPDS)
+* IEEE Transactions on Computers (TC)
+* ACM Transactions on Storage (TOS)
+* IEEE Transactions on Dependable and Secure Computing (TDSC)
+* IEEE Micro
 
 ## Talks
 
