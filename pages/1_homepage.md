@@ -82,11 +82,13 @@ permalink: /homepage/
 ## Professional Services
 
 ---
-**PC Member at cofferences:**
+**PC Member at conferences:**
 * Cloud 2021, 2022
 * ICDCS 2021
 * CloudCom 2020
 * ICPADS 2020
+* ChinaSys 2021, 2022
+* Eurosys 2019 (Shadow)
 
 
 **Reviewer for Journals:**
