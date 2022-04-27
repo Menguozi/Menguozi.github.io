@@ -52,7 +52,7 @@ permalink: /homepage/
 * **[MICRO]** Pengfei Zuo, Yu Hua, Yuan Xie, "[SuperMem: Enabling Application-transparent Secure Persistent Memory with Low Overheads](https://csyhua.github.io/csyhua/hua-micro2019.pdf)", Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (MICRO), 2019.    [[slides](https://csyhua.github.io/csyhua/hua-micro2019-slides.pdf)]
 
 * **[OSDI]** Pengfei Zuo, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](https://csyhua.github.io/csyhua/hua-OSDI2018.pdf)", in Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2018. [[slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_zuo.pdf)] [[code](https://github.com/Pfzuo/Level-Hashing)] 
-<br> *(**One of OSDI 2018 papers selected for fast-track publication in ACM Transactions on Storage**, **[Comments by OSDI 2018 Co-chairs](https://dl.acm.org/doi/pdf/10.1145/3322101)**)* 
+<br> *(**One of OSDI 2018 papers selected for fast-track publication in ACM Transactions on Storage: [recommandations by OSDI 2018 program co-chairs](https://dl.acm.org/doi/pdf/10.1145/3322101)**)* 
 <br> *(**Finalist for the Memorable Paper Award in [NVMW 2019](http://nvmw.ucsd.edu/)**)*
 
 * **[MICRO]** Pengfei Zuo, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](https://csyhua.github.io/csyhua/hua-MICRO2018.pdf)", in Proceedings of the 51st IEEE/ACM International Symposium on Microarchitecture (MICRO), 2018. [[slides](https://csyhua.github.io/csyhua/hua-micro2018-slides.pdf)][[video](https://youtu.be/CU-RVr8wOk0)]
