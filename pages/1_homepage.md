@@ -19,6 +19,8 @@ permalink: /homepage/
 
 ---
 
+* Our paper "uKharon: A Membership Service for Microsecond Applications" was accepted by [USENIX ATC 2022](https://www.usenix.org/conference/atc22/)!
+
 * Our paper "RACE: One-Sided RDMA-Conscious Extendible Hashing" was accepted by ACM Transactions on Storage as an invited paper!
 
 * Our paper "FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory" was accepted by [FAST 2022](https://www.usenix.org/conference/fast22)!
@@ -33,13 +35,14 @@ permalink: /homepage/
 ## Selected Publications  
 
 ---
+* **[USENIX ATC]** Rachid Guerraoui, Antoine Murat, Javier Picorel, Athanasios Xygkis, Huabing Yan, Pengfei Zuo, "uKharon: A Membership Service for Microsecond Applications", Proceedings of the USENIX Annual Technical Conference (USENIX ATC), 2022. 
 
 * **[FAST]** Ming Zhang, Yu Hua, Pengfei Zuo, Lurong Liu, "[FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory](https://csyhua.github.io/csyhua/hua-fast2022.pdf)", Proceedings of the 20th USENIX Conference on File and Storage Technologies (FAST), 2022.
 
 * **[VLDB]** Pengfei Li, Yu Hua, Jingnan Jia, Pengfei Zuo, "[FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems](https://csyhua.github.io/csyhua/hua-vldb2022.pdf)", Proceedings of the 48th International Conference on Very Large Data Bases (VLDB), 2022.
 
 * **[USENIX ATC]** Pengfei Zuo, Jiazhao Sun, Liu Yang, Shuangwu Zhang, Yu Hua, "[One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory](https://www.usenix.org/conference/atc21/presentation/zuo)", Proceedings of the USENIX Annual Technical Conference (USENIX ATC), 2021. 
-<br> *(**One of USENIX ATC 2021 papers selected for fast-track publication in ACM Transactions on Storage**)*
+<br> *(**One of USENIX ATC 2021 papers selected for fast-track publication in ACM Transactions on Storage: [recommandations by ATC 2021 program co-chairs](https://dl.acm.org/doi/pdf/10.1145/3519550)**)*
 
 * **[DAC]** Pengfei Zuo, Yu Hua, Ling Liang, Xingfeng Xie, Xing Hu, Yuan Xie, "[SEALing Neural Network Models in Encrypted Deep Learning Accelerators](https://csyhua.github.io/csyhua/hua-dac2021-seal.pdf)", Proceedings of the 58th Design Automation Conference (DAC), 2021.
 
