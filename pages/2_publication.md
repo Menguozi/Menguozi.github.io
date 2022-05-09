@@ -15,7 +15,9 @@ permalink: /publication/
 ---
 #### 2022
 
-* **Pengfei Zuo\***, Qihui Zhou\*, Jiazhao Sun, Liu Yang, Shuangwu Zhang, Yu Hua, James Cheng, Rongfeng He, Huabing Yan, "RACE: One-Sided RDMA-Conscious Extendible Hashing", Accepted and to appear in Transactions on Storage (**TOS**), 2022. (*co-first authors) **[Invited Paper]**
+* Rachid Guerraoui, Antoine Murat, Javier Picorel, Athanasios Xygkis, Huabing Yan, **Pengfei Zuo**, "uKharon: A Membership Service for Microsecond Applications", Proceedings of the USENIX Annual Technical Conference (**USENIX ATC**), 2022. 
+
+* **Pengfei Zuo\***, Qihui Zhou\*, Jiazhao Sun, Liu Yang, Shuangwu Zhang, Yu Hua, James Cheng, Rongfeng He, Huabing Yan, "[RACE: One-Sided RDMA-Conscious Extendible Hashing](https://csyhua.github.io/csyhua/hua-tos2022.pdf)", ACM Transactions on Storage (**TOS**) 18.2 (2022): 1-29. (*co-first authors) **[Invited Paper]**
 
 * Ming Zhang, Yu Hua, **Pengfei Zuo**, Lurong Liu, "[FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory](https://csyhua.github.io/csyhua/hua-fast2022.pdf)", Proceedings of the 20th USENIX Conference on File and Storage Technologies (**FAST**), 2022.
 
