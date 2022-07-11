@@ -35,7 +35,7 @@ permalink: /homepage/
 ## Selected Publications  
 
 ---
-* **[USENIX ATC]** Rachid Guerraoui, Antoine Murat, Javier Picorel, Athanasios Xygkis, Huabing Yan, Pengfei Zuo, "uKharon: A Membership Service for Microsecond Applications", Proceedings of the USENIX Annual Technical Conference (USENIX ATC), 2022. 
+* **[USENIX ATC]** Rachid Guerraoui, Antoine Murat, Javier Picorel, Athanasios Xygkis, Huabing Yan, Pengfei Zuo, "[uKharon: A Membership Service for Microsecond Applications](https://www.usenix.org/conference/atc22/presentation/guerraoui)", Proceedings of the USENIX Annual Technical Conference (USENIX ATC), 2022. 
 
 * **[FAST]** Ming Zhang, Yu Hua, Pengfei Zuo, Lurong Liu, "[FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory](https://csyhua.github.io/csyhua/hua-fast2022.pdf)", Proceedings of the 20th USENIX Conference on File and Storage Technologies (FAST), 2022.
 
