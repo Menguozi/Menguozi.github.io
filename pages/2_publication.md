@@ -15,6 +15,9 @@ permalink: /publication/
 ---
 #### 2022
 
+
+* Zhangyu Chen, Yu Hua, Luochangqi Ding, Bo Ding, **Pengfei Zuo**, Xue Liu, "Lock-Free High-Performance Hashing for Persistent Memory via PM-Aware Holistic Optimization", Accepted and to appear in ACM Transactions on Architecture and Code Optimization (**TACO**), 2022.
+
 * Rachid Guerraoui, Antoine Murat, Javier Picorel, Athanasios Xygkis, Huabing Yan, **Pengfei Zuo**, "[uKharon: A Membership Service for Microsecond Applications](https://www.usenix.org/conference/atc22/presentation/guerraoui)", Proceedings of the USENIX Annual Technical Conference (**USENIX ATC**), 2022. 
 
 * **Pengfei Zuo\***, Qihui Zhou\*, Jiazhao Sun, Liu Yang, Shuangwu Zhang, Yu Hua, James Cheng, Rongfeng He, Huabing Yan, "[RACE: One-Sided RDMA-Conscious Extendible Hashing](https://csyhua.github.io/csyhua/hua-tos2022.pdf)", ACM Transactions on Storage (**TOS**) 18.2 (2022): 1-29. (*co-first authors) **[Invited Paper]**
