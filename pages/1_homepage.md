@@ -41,6 +41,12 @@ permalink: /homepage/
 ## Professional Services
 
 ---
+**Teaching Assistant:**
+*  Computer System & Data Structure, SES@HUST, 2022.
+*  Computer System & Data Structure, SES@HUST, 2021.
+*  Computer System & Data Structure, SES@HUST, 2020.
+
+
 **PC Member at conferences:**
 
 
