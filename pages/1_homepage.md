@@ -18,7 +18,7 @@ permalink: /homepage/
 
 ---
 
-* Our paper "Understanding and Reducing the Energy Consumption of F2FS on Smartphones" was accepted by [DATE 2022](https://www.date-conference.com/date-2023-accepted-papers)!
+* Our paper "Understanding and Reducing the Energy Consumption of F2FS on Smartphones" was accepted by [DATE 2023](https://www.date-conference.com/date-2023-accepted-papers)!
 
 
 ## Selected Publications  
