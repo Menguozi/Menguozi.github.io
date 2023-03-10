@@ -11,13 +11,13 @@ permalink: /project/
 # My Projects
 ---
 
-### 1.Research on Cold and hot data Identification technology of F2FS file System, Huawei Technologies Co., Ltd., 0.93 Million, 2022-2023, as a Group leader.
+* 1.Research on Cold and hot data Identification technology of F2FS file System, Huawei Technologies Co., Ltd., 0.93 Million, 2022-2023, as a Group leader.
 
-### 2.Research of Data storage system’s operation and maintenance, NO.701 Institute of China State Shipbuilding Co., 0.85 Million 2022-2023, as a Group leader.
+* 2.Research of Data storage system’s operation and maintenance, NO.701 Institute of China State Shipbuilding Co., 0.85 Million 2022-2023, as a Group leader.
 
-### 3.Research on the Application of Unified Storage Technology in 10 Gigabit Network, NO.701 Institute of China State Shipbuilding Co., 0.85 Million, 2020-2021, as a Group leader.
+* 3.Research on the Application of Unified Storage Technology in 10 Gigabit Network, NO.701 Institute of China State Shipbuilding Co., 0.85 Million, 2020-2021, as a Group leader.
 
-### 4.Research on Distributed Transactional Database Technology Supporting New Storage Devices, National Defense Key R&D Program, 7.2 Million, 2022-2026, Participate in writing the application.
+* 4.Research on Distributed Transactional Database Technology Supporting New Storage Devices, National Defense Key R&D Program, 7.2 Million, 2022-2026, Participate in writing the application.
 
 <!-- >## 1. Reduce log-structure write amplification
    
